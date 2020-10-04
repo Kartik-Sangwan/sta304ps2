@@ -1,28 +1,128 @@
 ---
-title: "ps2"
+title: "Informative title"
+author: "Name"
+date: "Date"
+abstract: "Four sentences"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+# install.packages("tidyverse")
+install.packages("remotes")
+remotes::install_github("hodgettsp/cesR")
+library(tidyverse)
+library(visdat)
+library(cesR)
+library(skimr)
 ```
 
-## R Markdown
+# Introduction
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Three paragraph statement.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+First paragraph: General. Motivational. Majors specific finding. 
 
-```{r cars}
-summary(cars)
+Second paragraph: More about what you did and found.
+
+Third paragraph: Outline of the paper. Future work. Weaknesses.
+
+
+```{r download, warning=FALSE, message=FALSE}
+cesR::get_decon()
 ```
 
-## Including Plots
+# Data
 
-You can also embed plots, for example:
+The CES dataset is....
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r}
+head(decon)
+```
+Some initial explorations that would be used to guide this section.
+
+```{r}
+visdat::vis_dat(decon)
+
+skimr::skim(decon)
+
+class(decon$ces_code)
+
+decon <- 
+  decon %>% 
+  filter(income < 1000000)
+
+decon <- 
+  decon %>% 
+  select(religion, income)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+The variables we focus on are....
+
+Summary statistics for these variables...
+
+You must include graphs.
+
+
+```{r}
+decon %>% 
+  ggplot(aes(x = religion)) +
+  geom_bar()
+```
+
+
+```{r}
+decon %>% 
+  ggplot(aes(x = income)) +
+  geom_histogram()
+```
+
+
+
+```{r}
+decon %>% 
+  ggplot(aes(x = income)) +
+  geom_histogram() +
+  labs(x = "Income",
+       y = "Number",
+       title = "Distribution of income in 2019 CES",
+       caption = "Source: Stephenson, Harell, Rubenson, Loewen, 2020.") +
+  theme_bw()
+```
+
+In this graph we find that the distribution of income is heavily skewed....
+
+
+
+
+# Discussion
+
+My discussion... main findings of your graph.
+
+
+Features of your survey.... Non-response... etc. And how these could affect the results....
+
+
+
+
+## Weaknesses and next steps
+
+My weaknesses...
+
+
+
+
+
+
+# References
+
+- Stephenson, Laura B; Harell, Allison; Rubenson, Daniel; Loewen, Peter John, 2020, '2019 Canadian Election Study - Online Survey', https://doi.org/10.7910/DVN/DUS88V, Harvard Dataverse, V1
+- Paul A. Hodgetts and Rohan Alexander (2020). cesR: Access the CES Datasets a Little Easier.. R package version 0.1.0.
+-  Hadley Wickham, Jim Hester and Winston Chang (2020). devtools: Tools to Make Developing R Packages Easier. https://devtools.r-lib.org/,https://github.com/r-lib/devtools.
+- R Core Team (2020). R: A language and environment for statistical computing. R, Foundation for Statistical Computing, Vienna, Austria. URL, https://www.R-project.org/.
+- JJ Allaire and Yihui Xie and Jonathan McPherson and Javier Luraschi and Kevin Ushey and Aron Atkins and Hadley Wickham and Joe Cheng and Winston Chang and Richard Iannone (2020). rmarkdown: Dynamic Documents for R. R package version 2.3. URL https://rmarkdown.rstudio.com.
+
+
+
+
