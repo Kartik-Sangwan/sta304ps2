@@ -7,6 +7,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
+set.seed(1001)
 knitr::opts_chunk$set(echo = TRUE)
 # install.packages("tidyverse")
 install.packages("remotes")
@@ -30,6 +31,72 @@ Third paragraph: Outline of the paper. Future work. Weaknesses.
 
 ```{r download, warning=FALSE, message=FALSE}
 cesR::get_decon()
+total <- 37822
+age <- decon %>% select("yob") %>% mutate(age = 2020 - as.numeric(as.character(yob)))
+age_cat <- age %>% mutate(age_group = case_when(age >= 18 & age <= 30 ~ 1, age >= 31 & age <= 40 ~ 2, age >= 41 & age <= 50 ~ 3, age >= 51 & age <= 60 ~ 4, age >= 61 & age <= 70 ~ 5, age>=71 ~ 6))
+gender_weights <- decon %>% count(gender)
+province_weights <- decon %>% count(province_territory)
+education_weights <- decon %>% count(education)
+education_weights <- c(522, 7514, 12096, 12908, 4782)
+income_cat_weights <- decon %>% count(income_cat) %>% add_row("income_cat" = "prefer not to answer", n = 28453)
+income_cat_weights <- income_cat_weights[-c(9, 10),]
+age_group_weights <- age_cat %>% count(age_group)
+# fix this later
+first_time_voter_weight <- c(ceiling(0.2*total), ceiling(0.8*total) - 1)
+decided_to_vote <- c(29346, 8476)
+# fake improve later on
+ethnicity <- c(ceiling(0.05*total)-1, ceiling(0.12*total)-1, ceiling(0.04*total)-1, ceiling(0.26*total), ceiling(0.34*total), ceiling(0.09*total), ceiling(0.1*total))
+# from wikipedia
+last_election_vote <- data.frame(party = c("The Liberal Party of Canada", "The Conservative Party of Canada", "The Green Party of Canada", "New Democratic Party (NDP)", "Bloc Québécois", "People's Party of Canada (PPC)", "I voted for an independent politician", "None of the above"), votes = c(ceiling(0.45*total)-1, ceiling(0.35*total)-1, ceiling(0.009*total)-1, ceiling(0.07*total), ceiling(0.09*total), ceiling(0.01*total), ceiling(0.01*total)-1, ceiling(0.011*total) ))
+# creating the dataset from our survey using real world parameters and cesR data
+survey_responses <- data.frame(gender = rep(c("Male", "Female", "LGBTQ"), gender_weights$n), 
+                               age = rep(c("18-30", "31-40", "41-50", "51-60", "61-70", "71+"), age_group_weights$n), 
+                               first_time_vote = rep(c("YES", "NO"), first_time_voter_weight),
+                               decided_to_vote = rep(c("YES", "NO"), decided_to_vote),
+                               education = rep(c("None", "High School", "College/Diploma", "University (Bachelor's Degree)", "University (Master's/PhD)"), education_weights),
+                               salary = rep(c("No income", "$1 to $30,000", "	$30,001 to $60,000", "$60,001 to $90,000", "$90,001 to $110,000", "$110,001 to $150,000", "$150,001 to $200,000", "More than $200,000", "Don't know/ Prefer not to answer"), income_cat_weights$n),
+                               province = rep(c("Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland and Labrador" , "Northwest Territories", "Nova Scotia", "Nunavut", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan", "Yukon"), province_weights$n),
+                               last_election_vote = rep( c("The Liberal Party of Canada", "The Conservative Party of Canada", "The Green Party of Canada", "New Democratic Party (NDP)", "Bloc Québécois", "People's Party of Canada (PPC)", "I voted for an independent politician", "None of the above"), last_election_vote$votes),
+                               ethnicity = rep(c("Caucasian", "African", "Hispanic or Latino", "East Asian", "South Asian", "I am one of the Indigenous Peoples of Canada", "Other"), ethnicity)
+                               )
+
+# JUST NEED TO FIGURE OUR THE WEIGHTS FOR THE UPCOMING ELECTINOS WHICH IS THE MAIN ONE
+# shuffling the rows 
+survey_data <- survey_responses[sample(nrow(survey_responses)),]
+head(survey_data)
+
+# We can do some raw population data exploration like population paramters shaped of graphs e.t.c
+
+# stratifying according to the provinces
+# first arranging the data by provinces
+
+survey_data <- arrange(survey_data, province)
+# Store the row number where each of the provinces last entry is. This corresponds to one strats. 
+provinces_row_numbers <- data.frame(province = c("Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland and Labrador" , "Northwest Territories", "Nova Scotia", "Nunavut", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan", "Yukon"), row_num = c(4481, 8835, 10526, 11384, 12017, 12042, 13043, 13069, 27877, 28045, 36444, 37784, 37822))
+
+# doing simple random sampling in each of the 13 strata 
+i <- 0
+# total number of stratified SRS
+required <- 1000
+parties <- c("The Liberal Party of Canada", "The Conservative Party of Canada", "The Green Party of Canada", "New Democratic Party (NDP)", "Bloc Québécois", "People's Party of Canada (PPC)", "I voted for an independent politician", "None of the above")
+
+# taking a simple random sample 10 times for the stratas
+for (j in 1:10){
+  print(paste("sample number:", j))
+  i <- 0
+  p <- 1
+  for (ind in provinces_row_numbers$row_num){
+    print(paste("new strata for:", provinces_row_numbers$province[p]))
+    prop = (ind - i)/total
+    strat_result <- survey_data[sample(i:ind, ceiling(prop*required)), "last_election_vote"]
+    print(strat_result)
+    i = ind
+    p <- p + 1
+  }
+  
+}
+
+
 ```
 
 # Data
