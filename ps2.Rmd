@@ -80,6 +80,7 @@ head(survey_data)
 survey_data <- arrange(survey_data, province)
 # Store the row number where each of the provinces last entry is. This corresponds to one strats. 
 last_rows <- survey_data %>% arrange(province) %>% group_by(province) %>% summarise_all(last)
+
 provinces_row_numbers <- data.frame(province = c("Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland and Labrador" , "Northwest Territories", "Nova Scotia", "Nunavut", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan", "Yukon"), row_num = last_rows$id)
 
 # doing simple random sampling in each of the 13 strata 
@@ -89,7 +90,9 @@ required <- 1000
 parties <- c("The Liberal Party of Canada", "The Conservative Party of Canada", "The Green Party of Canada", "New Democratic Party (NDP)", "Bloc Québécois", "People's Party of Canada (PPC)", "I voted for an independent politician", "None of the above")
 
 result1 <- matrix(NA, nrow = 13, ncol = 8, dimnames = list(provinces_row_numbers$province,parties))
-?rbind()
+res <- data.frame(Alberta = "", BritishColumbia = "" ,Manitoba = "",NewBrunswick="", NewfoundlandandLabrador = "", NorthwestTerritories = "", NovaScotia = "", Nunavut= "", Ontario = "", PrinceEdwardIsland = "", Quebec="", Saskatchewan="", Yukon="")
+
+?sample_n()
 # taking a simple random sample 10 times for the stratas
 #for (j in 1:5){
   print(paste("sample number:", j))
@@ -98,9 +101,10 @@ result1 <- matrix(NA, nrow = 13, ncol = 8, dimnames = list(provinces_row_numbers
   for (ind in provinces_row_numbers$row_num){
     print(paste("new strata for:", provinces_row_numbers$province[p]))
     prop = (ind - i)/total
+    print(prop)
     rows <- sample_n(survey_data[i:ind,], ceiling(prop*required))
-    temp <- rows %>% count(current_preference)
-    print(temp)
+    result <- rows %>% count(current_preference)
+    print(result)
     i = ind
     p <- p + 1
   }

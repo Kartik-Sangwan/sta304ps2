@@ -1,0 +1,349 @@
+﻿district_number,district_name,station_number,station_name,last_name,first_name,party_name,votes
+60001,Yukon,1,Old Crow,Atkinson,Melissa,NDP-New Democratic Party,27
+60001,Yukon,1,Old Crow,Bagnell,Larry,Liberal,63
+60001,Yukon,1,Old Crow,de Jong,Frank,Green Party,2
+60001,Yukon,1,Old Crow,Leef,Ryan,Conservative,9
+60001,Yukon,2,Dawson,Atkinson,Melissa,NDP-New Democratic Party,165
+60001,Yukon,2,Dawson,Bagnell,Larry,Liberal,311
+60001,Yukon,2,Dawson,de Jong,Frank,Green Party,22
+60001,Yukon,2,Dawson,Leef,Ryan,Conservative,125
+60001,Yukon,3,Mayo,Atkinson,Melissa,NDP-New Democratic Party,54
+60001,Yukon,3,Mayo,Bagnell,Larry,Liberal,101
+60001,Yukon,3,Mayo,de Jong,Frank,Green Party,3
+60001,Yukon,3,Mayo,Leef,Ryan,Conservative,42
+60001,Yukon,4,Beaver Creek,Atkinson,Melissa,NDP-New Democratic Party,9
+60001,Yukon,4,Beaver Creek,Bagnell,Larry,Liberal,10
+60001,Yukon,4,Beaver Creek,de Jong,Frank,Green Party,0
+60001,Yukon,4,Beaver Creek,Leef,Ryan,Conservative,2
+60001,Yukon,5,Burwash Landing,Atkinson,Melissa,NDP-New Democratic Party,17
+60001,Yukon,5,Burwash Landing,Bagnell,Larry,Liberal,47
+60001,Yukon,5,Burwash Landing,de Jong,Frank,Green Party,2
+60001,Yukon,5,Burwash Landing,Leef,Ryan,Conservative,14
+60001,Yukon,6,Haines Junction,Atkinson,Melissa,NDP-New Democratic Party,61
+60001,Yukon,6,Haines Junction,Bagnell,Larry,Liberal,167
+60001,Yukon,6,Haines Junction,de Jong,Frank,Green Party,7
+60001,Yukon,6,Haines Junction,Leef,Ryan,Conservative,86
+60001,Yukon,7,Carmacks,Atkinson,Melissa,NDP-New Democratic Party,37
+60001,Yukon,7,Carmacks,Bagnell,Larry,Liberal,116
+60001,Yukon,7,Carmacks,de Jong,Frank,Green Party,10
+60001,Yukon,7,Carmacks,Leef,Ryan,Conservative,34
+60001,Yukon,8,Pelly Crossing,Atkinson,Melissa,NDP-New Democratic Party,66
+60001,Yukon,8,Pelly Crossing,Bagnell,Larry,Liberal,73
+60001,Yukon,8,Pelly Crossing,de Jong,Frank,Green Party,0
+60001,Yukon,8,Pelly Crossing,Leef,Ryan,Conservative,6
+60001,Yukon,9,Faro,Atkinson,Melissa,NDP-New Democratic Party,29
+60001,Yukon,9,Faro,Bagnell,Larry,Liberal,55
+60001,Yukon,9,Faro,de Jong,Frank,Green Party,6
+60001,Yukon,9,Faro,Leef,Ryan,Conservative,50
+60001,Yukon,10,Ross River,Atkinson,Melissa,NDP-New Democratic Party,40
+60001,Yukon,10,Ross River,Bagnell,Larry,Liberal,47
+60001,Yukon,10,Ross River,de Jong,Frank,Green Party,1
+60001,Yukon,10,Ross River,Leef,Ryan,Conservative,10
+60001,Yukon,11,Takhini,Atkinson,Melissa,NDP-New Democratic Party,80
+60001,Yukon,11,Takhini,Bagnell,Larry,Liberal,217
+60001,Yukon,11,Takhini,de Jong,Frank,Green Party,14
+60001,Yukon,11,Takhini,Leef,Ryan,Conservative,114
+60001,Yukon, 12A,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,34
+60001,Yukon, 12A,Whitehorse,Bagnell,Larry,Liberal,153
+60001,Yukon, 12A,Whitehorse,de Jong,Frank,Green Party,6
+60001,Yukon, 12A,Whitehorse,Leef,Ryan,Conservative,89
+60001,Yukon, 12B,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,0
+60001,Yukon, 12B,Whitehorse,Bagnell,Larry,Liberal,0
+60001,Yukon, 12B,Whitehorse,de Jong,Frank,Green Party,0
+60001,Yukon, 12B,Whitehorse,Leef,Ryan,Conservative,0
+60001,Yukon,13,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,41
+60001,Yukon,13,Whitehorse,Bagnell,Larry,Liberal,108
+60001,Yukon,13,Whitehorse,de Jong,Frank,Green Party,8
+60001,Yukon,13,Whitehorse,Leef,Ryan,Conservative,62
+60001,Yukon,14,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,21
+60001,Yukon,14,Whitehorse,Bagnell,Larry,Liberal,96
+60001,Yukon,14,Whitehorse,de Jong,Frank,Green Party,8
+60001,Yukon,14,Whitehorse,Leef,Ryan,Conservative,57
+60001,Yukon,15,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,17
+60001,Yukon,15,Whitehorse,Bagnell,Larry,Liberal,50
+60001,Yukon,15,Whitehorse,de Jong,Frank,Green Party,1
+60001,Yukon,15,Whitehorse,Leef,Ryan,Conservative,42
+60001,Yukon,16,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,18
+60001,Yukon,16,Whitehorse,Bagnell,Larry,Liberal,98
+60001,Yukon,16,Whitehorse,de Jong,Frank,Green Party,2
+60001,Yukon,16,Whitehorse,Leef,Ryan,Conservative,61
+60001,Yukon,17,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,23
+60001,Yukon,17,Whitehorse,Bagnell,Larry,Liberal,103
+60001,Yukon,17,Whitehorse,de Jong,Frank,Green Party,3
+60001,Yukon,17,Whitehorse,Leef,Ryan,Conservative,79
+60001,Yukon,18,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,32
+60001,Yukon,18,Whitehorse,Bagnell,Larry,Liberal,134
+60001,Yukon,18,Whitehorse,de Jong,Frank,Green Party,4
+60001,Yukon,18,Whitehorse,Leef,Ryan,Conservative,85
+60001,Yukon,19,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,62
+60001,Yukon,19,Whitehorse,Bagnell,Larry,Liberal,107
+60001,Yukon,19,Whitehorse,de Jong,Frank,Green Party,4
+60001,Yukon,19,Whitehorse,Leef,Ryan,Conservative,65
+60001,Yukon,20,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,19
+60001,Yukon,20,Whitehorse,Bagnell,Larry,Liberal,83
+60001,Yukon,20,Whitehorse,de Jong,Frank,Green Party,4
+60001,Yukon,20,Whitehorse,Leef,Ryan,Conservative,60
+60001,Yukon,21,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,39
+60001,Yukon,21,Whitehorse,Bagnell,Larry,Liberal,122
+60001,Yukon,21,Whitehorse,de Jong,Frank,Green Party,5
+60001,Yukon,21,Whitehorse,Leef,Ryan,Conservative,68
+60001,Yukon,22,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,23
+60001,Yukon,22,Whitehorse,Bagnell,Larry,Liberal,69
+60001,Yukon,22,Whitehorse,de Jong,Frank,Green Party,3
+60001,Yukon,22,Whitehorse,Leef,Ryan,Conservative,35
+60001,Yukon,23,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,14
+60001,Yukon,23,Whitehorse,Bagnell,Larry,Liberal,85
+60001,Yukon,23,Whitehorse,de Jong,Frank,Green Party,4
+60001,Yukon,23,Whitehorse,Leef,Ryan,Conservative,39
+60001,Yukon,24,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,38
+60001,Yukon,24,Whitehorse,Bagnell,Larry,Liberal,71
+60001,Yukon,24,Whitehorse,de Jong,Frank,Green Party,4
+60001,Yukon,24,Whitehorse,Leef,Ryan,Conservative,35
+60001,Yukon,25,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,50
+60001,Yukon,25,Whitehorse,Bagnell,Larry,Liberal,126
+60001,Yukon,25,Whitehorse,de Jong,Frank,Green Party,9
+60001,Yukon,25,Whitehorse,Leef,Ryan,Conservative,43
+60001,Yukon,26,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,50
+60001,Yukon,26,Whitehorse,Bagnell,Larry,Liberal,122
+60001,Yukon,26,Whitehorse,de Jong,Frank,Green Party,7
+60001,Yukon,26,Whitehorse,Leef,Ryan,Conservative,36
+60001,Yukon, 27A,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,56
+60001,Yukon, 27A,Whitehorse,Bagnell,Larry,Liberal,175
+60001,Yukon, 27A,Whitehorse,de Jong,Frank,Green Party,5
+60001,Yukon, 27A,Whitehorse,Leef,Ryan,Conservative,57
+60001,Yukon, 27B,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,0
+60001,Yukon, 27B,Whitehorse,Bagnell,Larry,Liberal,0
+60001,Yukon, 27B,Whitehorse,de Jong,Frank,Green Party,0
+60001,Yukon, 27B,Whitehorse,Leef,Ryan,Conservative,0
+60001,Yukon,28,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,37
+60001,Yukon,28,Whitehorse,Bagnell,Larry,Liberal,96
+60001,Yukon,28,Whitehorse,de Jong,Frank,Green Party,8
+60001,Yukon,28,Whitehorse,Leef,Ryan,Conservative,19
+60001,Yukon,29,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,17
+60001,Yukon,29,Whitehorse,Bagnell,Larry,Liberal,44
+60001,Yukon,29,Whitehorse,de Jong,Frank,Green Party,4
+60001,Yukon,29,Whitehorse,Leef,Ryan,Conservative,32
+60001,Yukon,30,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,20
+60001,Yukon,30,Whitehorse,Bagnell,Larry,Liberal,85
+60001,Yukon,30,Whitehorse,de Jong,Frank,Green Party,4
+60001,Yukon,30,Whitehorse,Leef,Ryan,Conservative,23
+60001,Yukon,31,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,90
+60001,Yukon,31,Whitehorse,Bagnell,Larry,Liberal,93
+60001,Yukon,31,Whitehorse,de Jong,Frank,Green Party,2
+60001,Yukon,31,Whitehorse,Leef,Ryan,Conservative,16
+60001,Yukon,32,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,38
+60001,Yukon,32,Whitehorse,Bagnell,Larry,Liberal,143
+60001,Yukon,32,Whitehorse,de Jong,Frank,Green Party,7
+60001,Yukon,32,Whitehorse,Leef,Ryan,Conservative,51
+60001,Yukon,33,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,28
+60001,Yukon,33,Whitehorse,Bagnell,Larry,Liberal,138
+60001,Yukon,33,Whitehorse,de Jong,Frank,Green Party,7
+60001,Yukon,33,Whitehorse,Leef,Ryan,Conservative,43
+60001,Yukon,34,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,20
+60001,Yukon,34,Whitehorse,Bagnell,Larry,Liberal,95
+60001,Yukon,34,Whitehorse,de Jong,Frank,Green Party,3
+60001,Yukon,34,Whitehorse,Leef,Ryan,Conservative,56
+60001,Yukon,35,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,25
+60001,Yukon,35,Whitehorse,Bagnell,Larry,Liberal,152
+60001,Yukon,35,Whitehorse,de Jong,Frank,Green Party,2
+60001,Yukon,35,Whitehorse,Leef,Ryan,Conservative,90
+60001,Yukon,36,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,27
+60001,Yukon,36,Whitehorse,Bagnell,Larry,Liberal,143
+60001,Yukon,36,Whitehorse,de Jong,Frank,Green Party,5
+60001,Yukon,36,Whitehorse,Leef,Ryan,Conservative,104
+60001,Yukon,37,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,27
+60001,Yukon,37,Whitehorse,Bagnell,Larry,Liberal,108
+60001,Yukon,37,Whitehorse,de Jong,Frank,Green Party,5
+60001,Yukon,37,Whitehorse,Leef,Ryan,Conservative,64
+60001,Yukon,38,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,24
+60001,Yukon,38,Whitehorse,Bagnell,Larry,Liberal,111
+60001,Yukon,38,Whitehorse,de Jong,Frank,Green Party,2
+60001,Yukon,38,Whitehorse,Leef,Ryan,Conservative,71
+60001,Yukon,39,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,28
+60001,Yukon,39,Whitehorse,Bagnell,Larry,Liberal,82
+60001,Yukon,39,Whitehorse,de Jong,Frank,Green Party,2
+60001,Yukon,39,Whitehorse,Leef,Ryan,Conservative,65
+60001,Yukon,40,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,36
+60001,Yukon,40,Whitehorse,Bagnell,Larry,Liberal,109
+60001,Yukon,40,Whitehorse,de Jong,Frank,Green Party,6
+60001,Yukon,40,Whitehorse,Leef,Ryan,Conservative,52
+60001,Yukon,41,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,36
+60001,Yukon,41,Whitehorse,Bagnell,Larry,Liberal,79
+60001,Yukon,41,Whitehorse,de Jong,Frank,Green Party,3
+60001,Yukon,41,Whitehorse,Leef,Ryan,Conservative,19
+60001,Yukon,42,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,49
+60001,Yukon,42,Whitehorse,Bagnell,Larry,Liberal,129
+60001,Yukon,42,Whitehorse,de Jong,Frank,Green Party,10
+60001,Yukon,42,Whitehorse,Leef,Ryan,Conservative,30
+60001,Yukon,43,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,27
+60001,Yukon,43,Whitehorse,Bagnell,Larry,Liberal,49
+60001,Yukon,43,Whitehorse,de Jong,Frank,Green Party,6
+60001,Yukon,43,Whitehorse,Leef,Ryan,Conservative,28
+60001,Yukon,44,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,32
+60001,Yukon,44,Whitehorse,Bagnell,Larry,Liberal,125
+60001,Yukon,44,Whitehorse,de Jong,Frank,Green Party,6
+60001,Yukon,44,Whitehorse,Leef,Ryan,Conservative,36
+60001,Yukon,45,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,33
+60001,Yukon,45,Whitehorse,Bagnell,Larry,Liberal,107
+60001,Yukon,45,Whitehorse,de Jong,Frank,Green Party,7
+60001,Yukon,45,Whitehorse,Leef,Ryan,Conservative,50
+60001,Yukon,46,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,26
+60001,Yukon,46,Whitehorse,Bagnell,Larry,Liberal,115
+60001,Yukon,46,Whitehorse,de Jong,Frank,Green Party,8
+60001,Yukon,46,Whitehorse,Leef,Ryan,Conservative,46
+60001,Yukon,47,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,24
+60001,Yukon,47,Whitehorse,Bagnell,Larry,Liberal,101
+60001,Yukon,47,Whitehorse,de Jong,Frank,Green Party,5
+60001,Yukon,47,Whitehorse,Leef,Ryan,Conservative,49
+60001,Yukon,48,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,51
+60001,Yukon,48,Whitehorse,Bagnell,Larry,Liberal,118
+60001,Yukon,48,Whitehorse,de Jong,Frank,Green Party,7
+60001,Yukon,48,Whitehorse,Leef,Ryan,Conservative,43
+60001,Yukon,49,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,44
+60001,Yukon,49,Whitehorse,Bagnell,Larry,Liberal,117
+60001,Yukon,49,Whitehorse,de Jong,Frank,Green Party,7
+60001,Yukon,49,Whitehorse,Leef,Ryan,Conservative,46
+60001,Yukon,50,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,16
+60001,Yukon,50,Whitehorse,Bagnell,Larry,Liberal,109
+60001,Yukon,50,Whitehorse,de Jong,Frank,Green Party,3
+60001,Yukon,50,Whitehorse,Leef,Ryan,Conservative,40
+60001,Yukon,51,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,46
+60001,Yukon,51,Whitehorse,Bagnell,Larry,Liberal,106
+60001,Yukon,51,Whitehorse,de Jong,Frank,Green Party,9
+60001,Yukon,51,Whitehorse,Leef,Ryan,Conservative,36
+60001,Yukon,52,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,10
+60001,Yukon,52,Whitehorse,Bagnell,Larry,Liberal,29
+60001,Yukon,52,Whitehorse,de Jong,Frank,Green Party,3
+60001,Yukon,52,Whitehorse,Leef,Ryan,Conservative,20
+60001,Yukon,53,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,34
+60001,Yukon,53,Whitehorse,Bagnell,Larry,Liberal,68
+60001,Yukon,53,Whitehorse,de Jong,Frank,Green Party,3
+60001,Yukon,53,Whitehorse,Leef,Ryan,Conservative,16
+60001,Yukon, 54A,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,28
+60001,Yukon, 54A,Whitehorse,Bagnell,Larry,Liberal,107
+60001,Yukon, 54A,Whitehorse,de Jong,Frank,Green Party,4
+60001,Yukon, 54A,Whitehorse,Leef,Ryan,Conservative,79
+60001,Yukon, 54B,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,0
+60001,Yukon, 54B,Whitehorse,Bagnell,Larry,Liberal,0
+60001,Yukon, 54B,Whitehorse,de Jong,Frank,Green Party,0
+60001,Yukon, 54B,Whitehorse,Leef,Ryan,Conservative,0
+60001,Yukon,55,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,21
+60001,Yukon,55,Whitehorse,Bagnell,Larry,Liberal,151
+60001,Yukon,55,Whitehorse,de Jong,Frank,Green Party,10
+60001,Yukon,55,Whitehorse,Leef,Ryan,Conservative,79
+60001,Yukon,56,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,25
+60001,Yukon,56,Whitehorse,Bagnell,Larry,Liberal,109
+60001,Yukon,56,Whitehorse,de Jong,Frank,Green Party,5
+60001,Yukon,56,Whitehorse,Leef,Ryan,Conservative,44
+60001,Yukon,57,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,33
+60001,Yukon,57,Whitehorse,Bagnell,Larry,Liberal,82
+60001,Yukon,57,Whitehorse,de Jong,Frank,Green Party,3
+60001,Yukon,57,Whitehorse,Leef,Ryan,Conservative,48
+60001,Yukon,58,Mount Lorne,Atkinson,Melissa,NDP-New Democratic Party,27
+60001,Yukon,58,Mount Lorne,Bagnell,Larry,Liberal,99
+60001,Yukon,58,Mount Lorne,de Jong,Frank,Green Party,7
+60001,Yukon,58,Mount Lorne,Leef,Ryan,Conservative,29
+60001,Yukon,59,Marsh Lake,Atkinson,Melissa,NDP-New Democratic Party,57
+60001,Yukon,59,Marsh Lake,Bagnell,Larry,Liberal,102
+60001,Yukon,59,Marsh Lake,de Jong,Frank,Green Party,10
+60001,Yukon,59,Marsh Lake,Leef,Ryan,Conservative,83
+60001,Yukon,60,Carcross,Atkinson,Melissa,NDP-New Democratic Party,51
+60001,Yukon,60,Carcross,Bagnell,Larry,Liberal,99
+60001,Yukon,60,Carcross,de Jong,Frank,Green Party,5
+60001,Yukon,60,Carcross,Leef,Ryan,Conservative,36
+60001,Yukon,61,Tagish,Atkinson,Melissa,NDP-New Democratic Party,25
+60001,Yukon,61,Tagish,Bagnell,Larry,Liberal,33
+60001,Yukon,61,Tagish,de Jong,Frank,Green Party,5
+60001,Yukon,61,Tagish,Leef,Ryan,Conservative,29
+60001,Yukon,62,Teslin,Atkinson,Melissa,NDP-New Democratic Party,60
+60001,Yukon,62,Teslin,Bagnell,Larry,Liberal,69
+60001,Yukon,62,Teslin,de Jong,Frank,Green Party,3
+60001,Yukon,62,Teslin,Leef,Ryan,Conservative,44
+60001,Yukon,63,Watson Lake,Atkinson,Melissa,NDP-New Democratic Party,68
+60001,Yukon,63,Watson Lake,Bagnell,Larry,Liberal,104
+60001,Yukon,63,Watson Lake,de Jong,Frank,Green Party,10
+60001,Yukon,63,Watson Lake,Leef,Ryan,Conservative,80
+60001,Yukon,64,Watson Lake,Atkinson,Melissa,NDP-New Democratic Party,19
+60001,Yukon,64,Watson Lake,Bagnell,Larry,Liberal,44
+60001,Yukon,64,Watson Lake,de Jong,Frank,Green Party,2
+60001,Yukon,64,Watson Lake,Leef,Ryan,Conservative,27
+60001,Yukon,500,Mobile poll/Bureau itinérant,Atkinson,Melissa,NDP-New Democratic Party,14
+60001,Yukon,500,Mobile poll/Bureau itinérant,Bagnell,Larry,Liberal,42
+60001,Yukon,500,Mobile poll/Bureau itinérant,de Jong,Frank,Green Party,3
+60001,Yukon,500,Mobile poll/Bureau itinérant,Leef,Ryan,Conservative,21
+60001,Yukon,600,Old Crow,Atkinson,Melissa,NDP-New Democratic Party,9
+60001,Yukon,600,Old Crow,Bagnell,Larry,Liberal,8
+60001,Yukon,600,Old Crow,de Jong,Frank,Green Party,0
+60001,Yukon,600,Old Crow,Leef,Ryan,Conservative,0
+60001,Yukon,601,Dawson,Atkinson,Melissa,NDP-New Democratic Party,43
+60001,Yukon,601,Dawson,Bagnell,Larry,Liberal,111
+60001,Yukon,601,Dawson,de Jong,Frank,Green Party,6
+60001,Yukon,601,Dawson,Leef,Ryan,Conservative,38
+60001,Yukon,602,Mayo,Atkinson,Melissa,NDP-New Democratic Party,11
+60001,Yukon,602,Mayo,Bagnell,Larry,Liberal,25
+60001,Yukon,602,Mayo,de Jong,Frank,Green Party,1
+60001,Yukon,602,Mayo,Leef,Ryan,Conservative,17
+60001,Yukon,603,Beaver Creek,Atkinson,Melissa,NDP-New Democratic Party,8
+60001,Yukon,603,Beaver Creek,Bagnell,Larry,Liberal,13
+60001,Yukon,603,Beaver Creek,de Jong,Frank,Green Party,0
+60001,Yukon,603,Beaver Creek,Leef,Ryan,Conservative,8
+60001,Yukon,604,Burwash Landing,Atkinson,Melissa,NDP-New Democratic Party,9
+60001,Yukon,604,Burwash Landing,Bagnell,Larry,Liberal,24
+60001,Yukon,604,Burwash Landing,de Jong,Frank,Green Party,1
+60001,Yukon,604,Burwash Landing,Leef,Ryan,Conservative,9
+60001,Yukon,605,Haines Junction,Atkinson,Melissa,NDP-New Democratic Party,25
+60001,Yukon,605,Haines Junction,Bagnell,Larry,Liberal,78
+60001,Yukon,605,Haines Junction,de Jong,Frank,Green Party,3
+60001,Yukon,605,Haines Junction,Leef,Ryan,Conservative,35
+60001,Yukon,606,Carmacks,Atkinson,Melissa,NDP-New Democratic Party,7
+60001,Yukon,606,Carmacks,Bagnell,Larry,Liberal,22
+60001,Yukon,606,Carmacks,de Jong,Frank,Green Party,1
+60001,Yukon,606,Carmacks,Leef,Ryan,Conservative,20
+60001,Yukon,607,Pelly Crossing,Atkinson,Melissa,NDP-New Democratic Party,14
+60001,Yukon,607,Pelly Crossing,Bagnell,Larry,Liberal,18
+60001,Yukon,607,Pelly Crossing,de Jong,Frank,Green Party,0
+60001,Yukon,607,Pelly Crossing,Leef,Ryan,Conservative,4
+60001,Yukon,608,Faro,Atkinson,Melissa,NDP-New Democratic Party,13
+60001,Yukon,608,Faro,Bagnell,Larry,Liberal,20
+60001,Yukon,608,Faro,de Jong,Frank,Green Party,7
+60001,Yukon,608,Faro,Leef,Ryan,Conservative,16
+60001,Yukon,609,Ross River,Atkinson,Melissa,NDP-New Democratic Party,42
+60001,Yukon,609,Ross River,Bagnell,Larry,Liberal,8
+60001,Yukon,609,Ross River,de Jong,Frank,Green Party,8
+60001,Yukon,609,Ross River,Leef,Ryan,Conservative,0
+60001,Yukon,610,Takhini Hotspring,Atkinson,Melissa,NDP-New Democratic Party,54
+60001,Yukon,610,Takhini Hotspring,Bagnell,Larry,Liberal,174
+60001,Yukon,610,Takhini Hotspring,de Jong,Frank,Green Party,11
+60001,Yukon,610,Takhini Hotspring,Leef,Ryan,Conservative,162
+60001,Yukon,611,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,123
+60001,Yukon,611,Whitehorse,Bagnell,Larry,Liberal,473
+60001,Yukon,611,Whitehorse,de Jong,Frank,Green Party,18
+60001,Yukon,611,Whitehorse,Leef,Ryan,Conservative,177
+60001,Yukon,612,Whitehorse,Atkinson,Melissa,NDP-New Democratic Party,137
+60001,Yukon,612,Whitehorse,Bagnell,Larry,Liberal,339
+60001,Yukon,612,Whitehorse,de Jong,Frank,Green Party,11
+60001,Yukon,612,Whitehorse,Leef,Ryan,Conservative,156
+60001,Yukon,613,Mount Lorne,Atkinson,Melissa,NDP-New Democratic Party,31
+60001,Yukon,613,Mount Lorne,Bagnell,Larry,Liberal,102
+60001,Yukon,613,Mount Lorne,de Jong,Frank,Green Party,9
+60001,Yukon,613,Mount Lorne,Leef,Ryan,Conservative,46
+60001,Yukon,614,Tagish,Atkinson,Melissa,NDP-New Democratic Party,12
+60001,Yukon,614,Tagish,Bagnell,Larry,Liberal,21
+60001,Yukon,614,Tagish,de Jong,Frank,Green Party,6
+60001,Yukon,614,Tagish,Leef,Ryan,Conservative,21
+60001,Yukon,615,Teslin,Atkinson,Melissa,NDP-New Democratic Party,25
+60001,Yukon,615,Teslin,Bagnell,Larry,Liberal,50
+60001,Yukon,615,Teslin,de Jong,Frank,Green Party,1
+60001,Yukon,615,Teslin,Leef,Ryan,Conservative,16
+60001,Yukon,616,Watson Lake,Atkinson,Melissa,NDP-New Democratic Party,32
+60001,Yukon,616,Watson Lake,Bagnell,Larry,Liberal,63
+60001,Yukon,616,Watson Lake,de Jong,Frank,Green Party,3
+60001,Yukon,616,Watson Lake,Leef,Ryan,Conservative,87
+60001,Yukon, S/R 1,SVR Group 1/RÉS Groupe 1,Atkinson,Melissa,NDP-New Democratic Party,29
+60001,Yukon, S/R 1,SVR Group 1/RÉS Groupe 1,Bagnell,Larry,Liberal,53
+60001,Yukon, S/R 1,SVR Group 1/RÉS Groupe 1,de Jong,Frank,Green Party,3
+60001,Yukon, S/R 1,SVR Group 1/RÉS Groupe 1,Leef,Ryan,Conservative,12
+60001,Yukon, S/R 2,SVR Group 2/RÉS Groupe 2,Atkinson,Melissa,NDP-New Democratic Party,924
+60001,Yukon, S/R 2,SVR Group 2/RÉS Groupe 2,Bagnell,Larry,Liberal,2684
+60001,Yukon, S/R 2,SVR Group 2/RÉS Groupe 2,de Jong,Frank,Green Party,99
+60001,Yukon, S/R 2,SVR Group 2/RÉS Groupe 2,Leef,Ryan,Conservative,955

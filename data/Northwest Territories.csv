@@ -1,0 +1,373 @@
+﻿district_number,district_name,station_number,station_name,last_name,first_name,party_name,votes
+61001,Northwest Territories,1,Sachs Harbour,Bevington,Dennis Fraser,NDP-New Democratic Party,9
+61001,Northwest Territories,1,Sachs Harbour,McLeod,Michael,Liberal,31
+61001,Northwest Territories,1,Sachs Harbour,Moore,John,Green Party,2
+61001,Northwest Territories,1,Sachs Harbour,Roland,Floyd,Conservative,7
+61001,Northwest Territories,2,Ulukhaktok,Bevington,Dennis Fraser,NDP-New Democratic Party,50
+61001,Northwest Territories,2,Ulukhaktok,McLeod,Michael,Liberal,58
+61001,Northwest Territories,2,Ulukhaktok,Moore,John,Green Party,7
+61001,Northwest Territories,2,Ulukhaktok,Roland,Floyd,Conservative,34
+61001,Northwest Territories,3,Inuvik,Bevington,Dennis Fraser,NDP-New Democratic Party,48
+61001,Northwest Territories,3,Inuvik,McLeod,Michael,Liberal,64
+61001,Northwest Territories,3,Inuvik,Moore,John,Green Party,4
+61001,Northwest Territories,3,Inuvik,Roland,Floyd,Conservative,36
+61001,Northwest Territories,4,Tuktoyaktuk,Bevington,Dennis Fraser,NDP-New Democratic Party,59
+61001,Northwest Territories,4,Tuktoyaktuk,McLeod,Michael,Liberal,142
+61001,Northwest Territories,4,Tuktoyaktuk,Moore,John,Green Party,6
+61001,Northwest Territories,4,Tuktoyaktuk,Roland,Floyd,Conservative,96
+61001,Northwest Territories,5,Paulatuk,Bevington,Dennis Fraser,NDP-New Democratic Party,18
+61001,Northwest Territories,5,Paulatuk,McLeod,Michael,Liberal,87
+61001,Northwest Territories,5,Paulatuk,Moore,John,Green Party,1
+61001,Northwest Territories,5,Paulatuk,Roland,Floyd,Conservative,15
+61001,Northwest Territories,6,Aklavik,Bevington,Dennis Fraser,NDP-New Democratic Party,50
+61001,Northwest Territories,6,Aklavik,McLeod,Michael,Liberal,139
+61001,Northwest Territories,6,Aklavik,Moore,John,Green Party,0
+61001,Northwest Territories,6,Aklavik,Roland,Floyd,Conservative,28
+61001,Northwest Territories,7,Inuvik,Bevington,Dennis Fraser,NDP-New Democratic Party,73
+61001,Northwest Territories,7,Inuvik,McLeod,Michael,Liberal,109
+61001,Northwest Territories,7,Inuvik,Moore,John,Green Party,4
+61001,Northwest Territories,7,Inuvik,Roland,Floyd,Conservative,63
+61001,Northwest Territories, 8A,Inuvik,Bevington,Dennis Fraser,NDP-New Democratic Party,32
+61001,Northwest Territories, 8A,Inuvik,McLeod,Michael,Liberal,65
+61001,Northwest Territories, 8A,Inuvik,Moore,John,Green Party,4
+61001,Northwest Territories, 8A,Inuvik,Roland,Floyd,Conservative,35
+61001,Northwest Territories, 8B,Inuvik,Bevington,Dennis Fraser,NDP-New Democratic Party,49
+61001,Northwest Territories, 8B,Inuvik,McLeod,Michael,Liberal,80
+61001,Northwest Territories, 8B,Inuvik,Moore,John,Green Party,5
+61001,Northwest Territories, 8B,Inuvik,Roland,Floyd,Conservative,49
+61001,Northwest Territories,9,Inuvik,Bevington,Dennis Fraser,NDP-New Democratic Party,78
+61001,Northwest Territories,9,Inuvik,McLeod,Michael,Liberal,94
+61001,Northwest Territories,9,Inuvik,Moore,John,Green Party,7
+61001,Northwest Territories,9,Inuvik,Roland,Floyd,Conservative,71
+61001,Northwest Territories,10,Fort McPherson,Bevington,Dennis Fraser,NDP-New Democratic Party,39
+61001,Northwest Territories,10,Fort McPherson,McLeod,Michael,Liberal,212
+61001,Northwest Territories,10,Fort McPherson,Moore,John,Green Party,2
+61001,Northwest Territories,10,Fort McPherson,Roland,Floyd,Conservative,27
+61001,Northwest Territories,11,Tsiigehtchic,Bevington,Dennis Fraser,NDP-New Democratic Party,8
+61001,Northwest Territories,11,Tsiigehtchic,McLeod,Michael,Liberal,49
+61001,Northwest Territories,11,Tsiigehtchic,Moore,John,Green Party,1
+61001,Northwest Territories,11,Tsiigehtchic,Roland,Floyd,Conservative,10
+61001,Northwest Territories,12,Fort Good Hope,Bevington,Dennis Fraser,NDP-New Democratic Party,64
+61001,Northwest Territories,12,Fort Good Hope,McLeod,Michael,Liberal,134
+61001,Northwest Territories,12,Fort Good Hope,Moore,John,Green Party,12
+61001,Northwest Territories,12,Fort Good Hope,Roland,Floyd,Conservative,14
+61001,Northwest Territories,13,Colville Lake,Bevington,Dennis Fraser,NDP-New Democratic Party,19
+61001,Northwest Territories,13,Colville Lake,McLeod,Michael,Liberal,22
+61001,Northwest Territories,13,Colville Lake,Moore,John,Green Party,2
+61001,Northwest Territories,13,Colville Lake,Roland,Floyd,Conservative,4
+61001,Northwest Territories,14,Norman Wells,Bevington,Dennis Fraser,NDP-New Democratic Party,70
+61001,Northwest Territories,14,Norman Wells,McLeod,Michael,Liberal,107
+61001,Northwest Territories,14,Norman Wells,Moore,John,Green Party,8
+61001,Northwest Territories,14,Norman Wells,Roland,Floyd,Conservative,82
+61001,Northwest Territories,15,Deline,Bevington,Dennis Fraser,NDP-New Democratic Party,50
+61001,Northwest Territories,15,Deline,McLeod,Michael,Liberal,170
+61001,Northwest Territories,15,Deline,Moore,John,Green Party,4
+61001,Northwest Territories,15,Deline,Roland,Floyd,Conservative,17
+61001,Northwest Territories,16,Tulita,Bevington,Dennis Fraser,NDP-New Democratic Party,29
+61001,Northwest Territories,16,Tulita,McLeod,Michael,Liberal,117
+61001,Northwest Territories,16,Tulita,Moore,John,Green Party,3
+61001,Northwest Territories,16,Tulita,Roland,Floyd,Conservative,15
+61001,Northwest Territories,17,Wrigley,Bevington,Dennis Fraser,NDP-New Democratic Party,18
+61001,Northwest Territories,17,Wrigley,McLeod,Michael,Liberal,19
+61001,Northwest Territories,17,Wrigley,Moore,John,Green Party,0
+61001,Northwest Territories,17,Wrigley,Roland,Floyd,Conservative,2
+61001,Northwest Territories,18,Nahanni Butte,Bevington,Dennis Fraser,NDP-New Democratic Party,3
+61001,Northwest Territories,18,Nahanni Butte,McLeod,Michael,Liberal,40
+61001,Northwest Territories,18,Nahanni Butte,Moore,John,Green Party,0
+61001,Northwest Territories,18,Nahanni Butte,Roland,Floyd,Conservative,0
+61001,Northwest Territories,19,Fort Simpson,Bevington,Dennis Fraser,NDP-New Democratic Party,39
+61001,Northwest Territories,19,Fort Simpson,McLeod,Michael,Liberal,73
+61001,Northwest Territories,19,Fort Simpson,Moore,John,Green Party,4
+61001,Northwest Territories,19,Fort Simpson,Roland,Floyd,Conservative,8
+61001,Northwest Territories, 20A,Fort Simpson,Bevington,Dennis Fraser,NDP-New Democratic Party,53
+61001,Northwest Territories, 20A,Fort Simpson,McLeod,Michael,Liberal,104
+61001,Northwest Territories, 20A,Fort Simpson,Moore,John,Green Party,6
+61001,Northwest Territories, 20A,Fort Simpson,Roland,Floyd,Conservative,21
+61001,Northwest Territories, 20B,Fort Simpson,Bevington,Dennis Fraser,NDP-New Democratic Party,45
+61001,Northwest Territories, 20B,Fort Simpson,McLeod,Michael,Liberal,118
+61001,Northwest Territories, 20B,Fort Simpson,Moore,John,Green Party,3
+61001,Northwest Territories, 20B,Fort Simpson,Roland,Floyd,Conservative,24
+61001,Northwest Territories,21,Jean Marie River,Bevington,Dennis Fraser,NDP-New Democratic Party,7
+61001,Northwest Territories,21,Jean Marie River,McLeod,Michael,Liberal,12
+61001,Northwest Territories,21,Jean Marie River,Moore,John,Green Party,0
+61001,Northwest Territories,21,Jean Marie River,Roland,Floyd,Conservative,0
+61001,Northwest Territories,22,Fort Liard,Bevington,Dennis Fraser,NDP-New Democratic Party,23
+61001,Northwest Territories,22,Fort Liard,McLeod,Michael,Liberal,105
+61001,Northwest Territories,22,Fort Liard,Moore,John,Green Party,2
+61001,Northwest Territories,22,Fort Liard,Roland,Floyd,Conservative,20
+61001,Northwest Territories,23,Trout Lake,Bevington,Dennis Fraser,NDP-New Democratic Party,9
+61001,Northwest Territories,23,Trout Lake,McLeod,Michael,Liberal,21
+61001,Northwest Territories,23,Trout Lake,Moore,John,Green Party,3
+61001,Northwest Territories,23,Trout Lake,Roland,Floyd,Conservative,3
+61001,Northwest Territories,24,Gameti,Bevington,Dennis Fraser,NDP-New Democratic Party,13
+61001,Northwest Territories,24,Gameti,McLeod,Michael,Liberal,107
+61001,Northwest Territories,24,Gameti,Moore,John,Green Party,1
+61001,Northwest Territories,24,Gameti,Roland,Floyd,Conservative,5
+61001,Northwest Territories,25,Wekweti,Bevington,Dennis Fraser,NDP-New Democratic Party,11
+61001,Northwest Territories,25,Wekweti,McLeod,Michael,Liberal,48
+61001,Northwest Territories,25,Wekweti,Moore,John,Green Party,0
+61001,Northwest Territories,25,Wekweti,Roland,Floyd,Conservative,0
+61001,Northwest Territories,26,Wha Ti,Bevington,Dennis Fraser,NDP-New Democratic Party,19
+61001,Northwest Territories,26,Wha Ti,McLeod,Michael,Liberal,151
+61001,Northwest Territories,26,Wha Ti,Moore,John,Green Party,5
+61001,Northwest Territories,26,Wha Ti,Roland,Floyd,Conservative,5
+61001,Northwest Territories, 27A,Behchoko,Bevington,Dennis Fraser,NDP-New Democratic Party,21
+61001,Northwest Territories, 27A,Behchoko,McLeod,Michael,Liberal,58
+61001,Northwest Territories, 27A,Behchoko,Moore,John,Green Party,3
+61001,Northwest Territories, 27A,Behchoko,Roland,Floyd,Conservative,3
+61001,Northwest Territories, 27B,Behchoko,Bevington,Dennis Fraser,NDP-New Democratic Party,15
+61001,Northwest Territories, 27B,Behchoko,McLeod,Michael,Liberal,44
+61001,Northwest Territories, 27B,Behchoko,Moore,John,Green Party,1
+61001,Northwest Territories, 27B,Behchoko,Roland,Floyd,Conservative,4
+61001,Northwest Territories,28,Behchoko,Bevington,Dennis Fraser,NDP-New Democratic Party,45
+61001,Northwest Territories,28,Behchoko,McLeod,Michael,Liberal,239
+61001,Northwest Territories,28,Behchoko,Moore,John,Green Party,3
+61001,Northwest Territories,28,Behchoko,Roland,Floyd,Conservative,9
+61001,Northwest Territories,29,Behchoko,Bevington,Dennis Fraser,NDP-New Democratic Party,31
+61001,Northwest Territories,29,Behchoko,McLeod,Michael,Liberal,218
+61001,Northwest Territories,29,Behchoko,Moore,John,Green Party,8
+61001,Northwest Territories,29,Behchoko,Roland,Floyd,Conservative,15
+61001,Northwest Territories,30,Fort Providence,Bevington,Dennis Fraser,NDP-New Democratic Party,72
+61001,Northwest Territories,30,Fort Providence,McLeod,Michael,Liberal,270
+61001,Northwest Territories,30,Fort Providence,Moore,John,Green Party,1
+61001,Northwest Territories,30,Fort Providence,Roland,Floyd,Conservative,24
+61001,Northwest Territories, 31A,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,49
+61001,Northwest Territories, 31A,Yellowknife,McLeod,Michael,Liberal,70
+61001,Northwest Territories, 31A,Yellowknife,Moore,John,Green Party,12
+61001,Northwest Territories, 31A,Yellowknife,Roland,Floyd,Conservative,50
+61001,Northwest Territories, 31B,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,39
+61001,Northwest Territories, 31B,Yellowknife,McLeod,Michael,Liberal,56
+61001,Northwest Territories, 31B,Yellowknife,Moore,John,Green Party,1
+61001,Northwest Territories, 31B,Yellowknife,Roland,Floyd,Conservative,44
+61001,Northwest Territories,32,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,65
+61001,Northwest Territories,32,Yellowknife,McLeod,Michael,Liberal,72
+61001,Northwest Territories,32,Yellowknife,Moore,John,Green Party,10
+61001,Northwest Territories,32,Yellowknife,Roland,Floyd,Conservative,55
+61001,Northwest Territories,33,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,81
+61001,Northwest Territories,33,Yellowknife,McLeod,Michael,Liberal,114
+61001,Northwest Territories,33,Yellowknife,Moore,John,Green Party,5
+61001,Northwest Territories,33,Yellowknife,Roland,Floyd,Conservative,95
+61001,Northwest Territories, 34A,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,88
+61001,Northwest Territories, 34A,Yellowknife,McLeod,Michael,Liberal,100
+61001,Northwest Territories, 34A,Yellowknife,Moore,John,Green Party,9
+61001,Northwest Territories, 34A,Yellowknife,Roland,Floyd,Conservative,63
+61001,Northwest Territories, 34B,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,88
+61001,Northwest Territories, 34B,Yellowknife,McLeod,Michael,Liberal,100
+61001,Northwest Territories, 34B,Yellowknife,Moore,John,Green Party,10
+61001,Northwest Territories, 34B,Yellowknife,Roland,Floyd,Conservative,51
+61001,Northwest Territories,35,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,55
+61001,Northwest Territories,35,Yellowknife,McLeod,Michael,Liberal,114
+61001,Northwest Territories,35,Yellowknife,Moore,John,Green Party,8
+61001,Northwest Territories,35,Yellowknife,Roland,Floyd,Conservative,44
+61001,Northwest Territories,36,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,41
+61001,Northwest Territories,36,Yellowknife,McLeod,Michael,Liberal,79
+61001,Northwest Territories,36,Yellowknife,Moore,John,Green Party,4
+61001,Northwest Territories,36,Yellowknife,Roland,Floyd,Conservative,52
+61001,Northwest Territories,37,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,17
+61001,Northwest Territories,37,Yellowknife,McLeod,Michael,Liberal,51
+61001,Northwest Territories,37,Yellowknife,Moore,John,Green Party,5
+61001,Northwest Territories,37,Yellowknife,Roland,Floyd,Conservative,36
+61001,Northwest Territories,38,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,60
+61001,Northwest Territories,38,Yellowknife,McLeod,Michael,Liberal,77
+61001,Northwest Territories,38,Yellowknife,Moore,John,Green Party,3
+61001,Northwest Territories,38,Yellowknife,Roland,Floyd,Conservative,33
+61001,Northwest Territories,39,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,81
+61001,Northwest Territories,39,Yellowknife,McLeod,Michael,Liberal,105
+61001,Northwest Territories,39,Yellowknife,Moore,John,Green Party,4
+61001,Northwest Territories,39,Yellowknife,Roland,Floyd,Conservative,44
+61001,Northwest Territories,40,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,68
+61001,Northwest Territories,40,Yellowknife,McLeod,Michael,Liberal,97
+61001,Northwest Territories,40,Yellowknife,Moore,John,Green Party,8
+61001,Northwest Territories,40,Yellowknife,Roland,Floyd,Conservative,32
+61001,Northwest Territories,41,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,75
+61001,Northwest Territories,41,Yellowknife,McLeod,Michael,Liberal,125
+61001,Northwest Territories,41,Yellowknife,Moore,John,Green Party,5
+61001,Northwest Territories,41,Yellowknife,Roland,Floyd,Conservative,68
+61001,Northwest Territories, 42A,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,52
+61001,Northwest Territories, 42A,Yellowknife,McLeod,Michael,Liberal,71
+61001,Northwest Territories, 42A,Yellowknife,Moore,John,Green Party,3
+61001,Northwest Territories, 42A,Yellowknife,Roland,Floyd,Conservative,20
+61001,Northwest Territories, 42B,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,48
+61001,Northwest Territories, 42B,Yellowknife,McLeod,Michael,Liberal,49
+61001,Northwest Territories, 42B,Yellowknife,Moore,John,Green Party,1
+61001,Northwest Territories, 42B,Yellowknife,Roland,Floyd,Conservative,28
+61001,Northwest Territories,43,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,52
+61001,Northwest Territories,43,Yellowknife,McLeod,Michael,Liberal,78
+61001,Northwest Territories,43,Yellowknife,Moore,John,Green Party,5
+61001,Northwest Territories,43,Yellowknife,Roland,Floyd,Conservative,34
+61001,Northwest Territories,44,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,52
+61001,Northwest Territories,44,Yellowknife,McLeod,Michael,Liberal,94
+61001,Northwest Territories,44,Yellowknife,Moore,John,Green Party,8
+61001,Northwest Territories,44,Yellowknife,Roland,Floyd,Conservative,50
+61001,Northwest Territories,45,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,67
+61001,Northwest Territories,45,Yellowknife,McLeod,Michael,Liberal,104
+61001,Northwest Territories,45,Yellowknife,Moore,John,Green Party,15
+61001,Northwest Territories,45,Yellowknife,Roland,Floyd,Conservative,77
+61001,Northwest Territories,46,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,129
+61001,Northwest Territories,46,Yellowknife,McLeod,Michael,Liberal,112
+61001,Northwest Territories,46,Yellowknife,Moore,John,Green Party,10
+61001,Northwest Territories,46,Yellowknife,Roland,Floyd,Conservative,35
+61001,Northwest Territories,47,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,84
+61001,Northwest Territories,47,Yellowknife,McLeod,Michael,Liberal,77
+61001,Northwest Territories,47,Yellowknife,Moore,John,Green Party,5
+61001,Northwest Territories,47,Yellowknife,Roland,Floyd,Conservative,22
+61001,Northwest Territories,48,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,58
+61001,Northwest Territories,48,Yellowknife,McLeod,Michael,Liberal,75
+61001,Northwest Territories,48,Yellowknife,Moore,John,Green Party,4
+61001,Northwest Territories,48,Yellowknife,Roland,Floyd,Conservative,23
+61001,Northwest Territories,49,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,81
+61001,Northwest Territories,49,Yellowknife,McLeod,Michael,Liberal,116
+61001,Northwest Territories,49,Yellowknife,Moore,John,Green Party,11
+61001,Northwest Territories,49,Yellowknife,Roland,Floyd,Conservative,22
+61001,Northwest Territories,50,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,73
+61001,Northwest Territories,50,Yellowknife,McLeod,Michael,Liberal,107
+61001,Northwest Territories,50,Yellowknife,Moore,John,Green Party,9
+61001,Northwest Territories,50,Yellowknife,Roland,Floyd,Conservative,41
+61001,Northwest Territories,51,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,96
+61001,Northwest Territories,51,Yellowknife,McLeod,Michael,Liberal,115
+61001,Northwest Territories,51,Yellowknife,Moore,John,Green Party,8
+61001,Northwest Territories,51,Yellowknife,Roland,Floyd,Conservative,53
+61001,Northwest Territories,52,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,72
+61001,Northwest Territories,52,Yellowknife,McLeod,Michael,Liberal,75
+61001,Northwest Territories,52,Yellowknife,Moore,John,Green Party,8
+61001,Northwest Territories,52,Yellowknife,Roland,Floyd,Conservative,18
+61001,Northwest Territories,53,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,75
+61001,Northwest Territories,53,Yellowknife,McLeod,Michael,Liberal,73
+61001,Northwest Territories,53,Yellowknife,Moore,John,Green Party,6
+61001,Northwest Territories,53,Yellowknife,Roland,Floyd,Conservative,39
+61001,Northwest Territories,54,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,91
+61001,Northwest Territories,54,Yellowknife,McLeod,Michael,Liberal,80
+61001,Northwest Territories,54,Yellowknife,Moore,John,Green Party,8
+61001,Northwest Territories,54,Yellowknife,Roland,Floyd,Conservative,28
+61001,Northwest Territories,55,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,80
+61001,Northwest Territories,55,Yellowknife,McLeod,Michael,Liberal,96
+61001,Northwest Territories,55,Yellowknife,Moore,John,Green Party,9
+61001,Northwest Territories,55,Yellowknife,Roland,Floyd,Conservative,47
+61001,Northwest Territories,56,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,32
+61001,Northwest Territories,56,Yellowknife,McLeod,Michael,Liberal,65
+61001,Northwest Territories,56,Yellowknife,Moore,John,Green Party,4
+61001,Northwest Territories,56,Yellowknife,Roland,Floyd,Conservative,28
+61001,Northwest Territories, 57A,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,71
+61001,Northwest Territories, 57A,Yellowknife,McLeod,Michael,Liberal,75
+61001,Northwest Territories, 57A,Yellowknife,Moore,John,Green Party,8
+61001,Northwest Territories, 57A,Yellowknife,Roland,Floyd,Conservative,18
+61001,Northwest Territories, 57B,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,59
+61001,Northwest Territories, 57B,Yellowknife,McLeod,Michael,Liberal,45
+61001,Northwest Territories, 57B,Yellowknife,Moore,John,Green Party,1
+61001,Northwest Territories, 57B,Yellowknife,Roland,Floyd,Conservative,21
+61001,Northwest Territories,58,Detah,Bevington,Dennis Fraser,NDP-New Democratic Party,32
+61001,Northwest Territories,58,Detah,McLeod,Michael,Liberal,60
+61001,Northwest Territories,58,Detah,Moore,John,Green Party,6
+61001,Northwest Territories,58,Detah,Roland,Floyd,Conservative,1
+61001,Northwest Territories, 59A,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,52
+61001,Northwest Territories, 59A,Yellowknife,McLeod,Michael,Liberal,67
+61001,Northwest Territories, 59A,Yellowknife,Moore,John,Green Party,5
+61001,Northwest Territories, 59A,Yellowknife,Roland,Floyd,Conservative,32
+61001,Northwest Territories, 59B,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,68
+61001,Northwest Territories, 59B,Yellowknife,McLeod,Michael,Liberal,108
+61001,Northwest Territories, 59B,Yellowknife,Moore,John,Green Party,15
+61001,Northwest Territories, 59B,Yellowknife,Roland,Floyd,Conservative,42
+61001,Northwest Territories,60,Kakisa,Bevington,Dennis Fraser,NDP-New Democratic Party,10
+61001,Northwest Territories,60,Kakisa,McLeod,Michael,Liberal,11
+61001,Northwest Territories,60,Kakisa,Moore,John,Green Party,1
+61001,Northwest Territories,60,Kakisa,Roland,Floyd,Conservative,0
+61001,Northwest Territories,61,Enterprise,Bevington,Dennis Fraser,NDP-New Democratic Party,12
+61001,Northwest Territories,61,Enterprise,McLeod,Michael,Liberal,20
+61001,Northwest Territories,61,Enterprise,Moore,John,Green Party,1
+61001,Northwest Territories,61,Enterprise,Roland,Floyd,Conservative,2
+61001,Northwest Territories,62,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,53
+61001,Northwest Territories,62,Hay River,McLeod,Michael,Liberal,136
+61001,Northwest Territories,62,Hay River,Moore,John,Green Party,5
+61001,Northwest Territories,62,Hay River,Roland,Floyd,Conservative,65
+61001,Northwest Territories, 63A,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,51
+61001,Northwest Territories, 63A,Hay River,McLeod,Michael,Liberal,90
+61001,Northwest Territories, 63A,Hay River,Moore,John,Green Party,6
+61001,Northwest Territories, 63A,Hay River,Roland,Floyd,Conservative,36
+61001,Northwest Territories, 63B,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,22
+61001,Northwest Territories, 63B,Hay River,McLeod,Michael,Liberal,89
+61001,Northwest Territories, 63B,Hay River,Moore,John,Green Party,2
+61001,Northwest Territories, 63B,Hay River,Roland,Floyd,Conservative,41
+61001,Northwest Territories,64,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,41
+61001,Northwest Territories,64,Hay River,McLeod,Michael,Liberal,96
+61001,Northwest Territories,64,Hay River,Moore,John,Green Party,6
+61001,Northwest Territories,64,Hay River,Roland,Floyd,Conservative,44
+61001,Northwest Territories, 65A,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,34
+61001,Northwest Territories, 65A,Hay River,McLeod,Michael,Liberal,72
+61001,Northwest Territories, 65A,Hay River,Moore,John,Green Party,4
+61001,Northwest Territories, 65A,Hay River,Roland,Floyd,Conservative,30
+61001,Northwest Territories, 65B,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,34
+61001,Northwest Territories, 65B,Hay River,McLeod,Michael,Liberal,65
+61001,Northwest Territories, 65B,Hay River,Moore,John,Green Party,14
+61001,Northwest Territories, 65B,Hay River,Roland,Floyd,Conservative,40
+61001,Northwest Territories,66,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,50
+61001,Northwest Territories,66,Hay River,McLeod,Michael,Liberal,140
+61001,Northwest Territories,66,Hay River,Moore,John,Green Party,9
+61001,Northwest Territories,66,Hay River,Roland,Floyd,Conservative,96
+61001,Northwest Territories,67,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,21
+61001,Northwest Territories,67,Hay River,McLeod,Michael,Liberal,65
+61001,Northwest Territories,67,Hay River,Moore,John,Green Party,3
+61001,Northwest Territories,67,Hay River,Roland,Floyd,Conservative,5
+61001,Northwest Territories,68,Fort Resolution,Bevington,Dennis Fraser,NDP-New Democratic Party,37
+61001,Northwest Territories,68,Fort Resolution,McLeod,Michael,Liberal,156
+61001,Northwest Territories,68,Fort Resolution,Moore,John,Green Party,0
+61001,Northwest Territories,68,Fort Resolution,Roland,Floyd,Conservative,12
+61001,Northwest Territories,69,Fort Smith,Bevington,Dennis Fraser,NDP-New Democratic Party,125
+61001,Northwest Territories,69,Fort Smith,McLeod,Michael,Liberal,106
+61001,Northwest Territories,69,Fort Smith,Moore,John,Green Party,2
+61001,Northwest Territories,69,Fort Smith,Roland,Floyd,Conservative,42
+61001,Northwest Territories,70,Fort Smith,Bevington,Dennis Fraser,NDP-New Democratic Party,82
+61001,Northwest Territories,70,Fort Smith,McLeod,Michael,Liberal,72
+61001,Northwest Territories,70,Fort Smith,Moore,John,Green Party,4
+61001,Northwest Territories,70,Fort Smith,Roland,Floyd,Conservative,22
+61001,Northwest Territories,71,Fort Smith,Bevington,Dennis Fraser,NDP-New Democratic Party,97
+61001,Northwest Territories,71,Fort Smith,McLeod,Michael,Liberal,100
+61001,Northwest Territories,71,Fort Smith,Moore,John,Green Party,6
+61001,Northwest Territories,71,Fort Smith,Roland,Floyd,Conservative,37
+61001,Northwest Territories,72,Fort Smith,Bevington,Dennis Fraser,NDP-New Democratic Party,131
+61001,Northwest Territories,72,Fort Smith,McLeod,Michael,Liberal,94
+61001,Northwest Territories,72,Fort Smith,Moore,John,Green Party,5
+61001,Northwest Territories,72,Fort Smith,Roland,Floyd,Conservative,32
+61001,Northwest Territories,73,Lutselk'e,Bevington,Dennis Fraser,NDP-New Democratic Party,50
+61001,Northwest Territories,73,Lutselk'e,McLeod,Michael,Liberal,71
+61001,Northwest Territories,73,Lutselk'e,Moore,John,Green Party,1
+61001,Northwest Territories,73,Lutselk'e,Roland,Floyd,Conservative,4
+61001,Northwest Territories,600,Inuvik,Bevington,Dennis Fraser,NDP-New Democratic Party,103
+61001,Northwest Territories,600,Inuvik,McLeod,Michael,Liberal,74
+61001,Northwest Territories,600,Inuvik,Moore,John,Green Party,11
+61001,Northwest Territories,600,Inuvik,Roland,Floyd,Conservative,77
+61001,Northwest Territories,601,Norman Wells,Bevington,Dennis Fraser,NDP-New Democratic Party,21
+61001,Northwest Territories,601,Norman Wells,McLeod,Michael,Liberal,32
+61001,Northwest Territories,601,Norman Wells,Moore,John,Green Party,3
+61001,Northwest Territories,601,Norman Wells,Roland,Floyd,Conservative,24
+61001,Northwest Territories,602,Fort Simpson,Bevington,Dennis Fraser,NDP-New Democratic Party,33
+61001,Northwest Territories,602,Fort Simpson,McLeod,Michael,Liberal,47
+61001,Northwest Territories,602,Fort Simpson,Moore,John,Green Party,5
+61001,Northwest Territories,602,Fort Simpson,Roland,Floyd,Conservative,16
+61001,Northwest Territories,603,Behchoko,Bevington,Dennis Fraser,NDP-New Democratic Party,6
+61001,Northwest Territories,603,Behchoko,McLeod,Michael,Liberal,83
+61001,Northwest Territories,603,Behchoko,Moore,John,Green Party,2
+61001,Northwest Territories,603,Behchoko,Roland,Floyd,Conservative,12
+61001,Northwest Territories,604,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,288
+61001,Northwest Territories,604,Yellowknife,McLeod,Michael,Liberal,375
+61001,Northwest Territories,604,Yellowknife,Moore,John,Green Party,19
+61001,Northwest Territories,604,Yellowknife,Roland,Floyd,Conservative,235
+61001,Northwest Territories,605,Yellowknife,Bevington,Dennis Fraser,NDP-New Democratic Party,380
+61001,Northwest Territories,605,Yellowknife,McLeod,Michael,Liberal,340
+61001,Northwest Territories,605,Yellowknife,Moore,John,Green Party,27
+61001,Northwest Territories,605,Yellowknife,Roland,Floyd,Conservative,133
+61001,Northwest Territories,606,Hay River,Bevington,Dennis Fraser,NDP-New Democratic Party,84
+61001,Northwest Territories,606,Hay River,McLeod,Michael,Liberal,130
+61001,Northwest Territories,606,Hay River,Moore,John,Green Party,13
+61001,Northwest Territories,606,Hay River,Roland,Floyd,Conservative,119
+61001,Northwest Territories,607,Fort Smith,Bevington,Dennis Fraser,NDP-New Democratic Party,125
+61001,Northwest Territories,607,Fort Smith,McLeod,Michael,Liberal,87
+61001,Northwest Territories,607,Fort Smith,Moore,John,Green Party,3
+61001,Northwest Territories,607,Fort Smith,Roland,Floyd,Conservative,49
+61001,Northwest Territories, S/R 1,SVR Group 1/RÉS Groupe 1,Bevington,Dennis Fraser,NDP-New Democratic Party,31
+61001,Northwest Territories, S/R 1,SVR Group 1/RÉS Groupe 1,McLeod,Michael,Liberal,103
+61001,Northwest Territories, S/R 1,SVR Group 1/RÉS Groupe 1,Moore,John,Green Party,5
+61001,Northwest Territories, S/R 1,SVR Group 1/RÉS Groupe 1,Roland,Floyd,Conservative,33
+61001,Northwest Territories, S/R 2,SVR Group 2/RÉS Groupe 2,Bevington,Dennis Fraser,NDP-New Democratic Party,462
+61001,Northwest Territories, S/R 2,SVR Group 2/RÉS Groupe 2,McLeod,Michael,Liberal,309
+61001,Northwest Territories, S/R 2,SVR Group 2/RÉS Groupe 2,Moore,John,Green Party,35
+61001,Northwest Territories, S/R 2,SVR Group 2/RÉS Groupe 2,Roland,Floyd,Conservative,183

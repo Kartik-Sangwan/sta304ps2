@@ -1,0 +1,245 @@
+﻿district_number,district_name,station_number,station_name,last_name,first_name,party_name,votes
+62001,Nunavut,1,Grise Fiord,Aglukkaq,Leona,Conservative,14
+62001,Nunavut,1,Grise Fiord,Anawak,Jack Iyerak,NDP-New Democratic Party,11
+62001,Nunavut,1,Grise Fiord,Rocchi,Spencer,Green Party,0
+62001,Nunavut,1,Grise Fiord,Tootoo,Hunter,Liberal,22
+62001,Nunavut,2,Resolute Bay,Aglukkaq,Leona,Conservative,15
+62001,Nunavut,2,Resolute Bay,Anawak,Jack Iyerak,NDP-New Democratic Party,18
+62001,Nunavut,2,Resolute Bay,Rocchi,Spencer,Green Party,4
+62001,Nunavut,2,Resolute Bay,Tootoo,Hunter,Liberal,54
+62001,Nunavut, 3A,Pond Inlet,Aglukkaq,Leona,Conservative,92
+62001,Nunavut, 3A,Pond Inlet,Anawak,Jack Iyerak,NDP-New Democratic Party,63
+62001,Nunavut, 3A,Pond Inlet,Rocchi,Spencer,Green Party,5
+62001,Nunavut, 3A,Pond Inlet,Tootoo,Hunter,Liberal,79
+62001,Nunavut, 3B,Pond Inlet,Aglukkaq,Leona,Conservative,60
+62001,Nunavut, 3B,Pond Inlet,Anawak,Jack Iyerak,NDP-New Democratic Party,53
+62001,Nunavut, 3B,Pond Inlet,Rocchi,Spencer,Green Party,1
+62001,Nunavut, 3B,Pond Inlet,Tootoo,Hunter,Liberal,84
+62001,Nunavut,4,Arctic Bay,Aglukkaq,Leona,Conservative,79
+62001,Nunavut,4,Arctic Bay,Anawak,Jack Iyerak,NDP-New Democratic Party,55
+62001,Nunavut,4,Arctic Bay,Rocchi,Spencer,Green Party,4
+62001,Nunavut,4,Arctic Bay,Tootoo,Hunter,Liberal,63
+62001,Nunavut,5,Taloyoak,Aglukkaq,Leona,Conservative,116
+62001,Nunavut,5,Taloyoak,Anawak,Jack Iyerak,NDP-New Democratic Party,64
+62001,Nunavut,5,Taloyoak,Rocchi,Spencer,Green Party,1
+62001,Nunavut,5,Taloyoak,Tootoo,Hunter,Liberal,138
+62001,Nunavut,6,Clyde River,Aglukkaq,Leona,Conservative,40
+62001,Nunavut,6,Clyde River,Anawak,Jack Iyerak,NDP-New Democratic Party,113
+62001,Nunavut,6,Clyde River,Rocchi,Spencer,Green Party,2
+62001,Nunavut,6,Clyde River,Tootoo,Hunter,Liberal,166
+62001,Nunavut,7,Qikiqtarjuaq,Aglukkaq,Leona,Conservative,95
+62001,Nunavut,7,Qikiqtarjuaq,Anawak,Jack Iyerak,NDP-New Democratic Party,36
+62001,Nunavut,7,Qikiqtarjuaq,Rocchi,Spencer,Green Party,4
+62001,Nunavut,7,Qikiqtarjuaq,Tootoo,Hunter,Liberal,50
+62001,Nunavut, 8A,Igloolik,Aglukkaq,Leona,Conservative,66
+62001,Nunavut, 8A,Igloolik,Anawak,Jack Iyerak,NDP-New Democratic Party,207
+62001,Nunavut, 8A,Igloolik,Rocchi,Spencer,Green Party,3
+62001,Nunavut, 8A,Igloolik,Tootoo,Hunter,Liberal,185
+62001,Nunavut, 8B,Igloolik,Aglukkaq,Leona,Conservative,0
+62001,Nunavut, 8B,Igloolik,Anawak,Jack Iyerak,NDP-New Democratic Party,0
+62001,Nunavut, 8B,Igloolik,Rocchi,Spencer,Green Party,0
+62001,Nunavut, 8B,Igloolik,Tootoo,Hunter,Liberal,0
+62001,Nunavut, 9A,Kugluktuk,Aglukkaq,Leona,Conservative,67
+62001,Nunavut, 9A,Kugluktuk,Anawak,Jack Iyerak,NDP-New Democratic Party,41
+62001,Nunavut, 9A,Kugluktuk,Rocchi,Spencer,Green Party,2
+62001,Nunavut, 9A,Kugluktuk,Tootoo,Hunter,Liberal,104
+62001,Nunavut, 9B,Kugluktuk,Aglukkaq,Leona,Conservative,58
+62001,Nunavut, 9B,Kugluktuk,Anawak,Jack Iyerak,NDP-New Democratic Party,33
+62001,Nunavut, 9B,Kugluktuk,Rocchi,Spencer,Green Party,9
+62001,Nunavut, 9B,Kugluktuk,Tootoo,Hunter,Liberal,98
+62001,Nunavut, 10A,Cambridge Bay,Aglukkaq,Leona,Conservative,80
+62001,Nunavut, 10A,Cambridge Bay,Anawak,Jack Iyerak,NDP-New Democratic Party,80
+62001,Nunavut, 10A,Cambridge Bay,Rocchi,Spencer,Green Party,3
+62001,Nunavut, 10A,Cambridge Bay,Tootoo,Hunter,Liberal,152
+62001,Nunavut, 10B,Cambridge Bay,Aglukkaq,Leona,Conservative,71
+62001,Nunavut, 10B,Cambridge Bay,Anawak,Jack Iyerak,NDP-New Democratic Party,81
+62001,Nunavut, 10B,Cambridge Bay,Rocchi,Spencer,Green Party,6
+62001,Nunavut, 10B,Cambridge Bay,Tootoo,Hunter,Liberal,169
+62001,Nunavut, 11A,Gjoa Haven,Aglukkaq,Leona,Conservative,141
+62001,Nunavut, 11A,Gjoa Haven,Anawak,Jack Iyerak,NDP-New Democratic Party,48
+62001,Nunavut, 11A,Gjoa Haven,Rocchi,Spencer,Green Party,0
+62001,Nunavut, 11A,Gjoa Haven,Tootoo,Hunter,Liberal,41
+62001,Nunavut, 11B,Gjoa Haven,Aglukkaq,Leona,Conservative,109
+62001,Nunavut, 11B,Gjoa Haven,Anawak,Jack Iyerak,NDP-New Democratic Party,37
+62001,Nunavut, 11B,Gjoa Haven,Rocchi,Spencer,Green Party,5
+62001,Nunavut, 11B,Gjoa Haven,Tootoo,Hunter,Liberal,57
+62001,Nunavut,12,Kugaaruk,Aglukkaq,Leona,Conservative,45
+62001,Nunavut,12,Kugaaruk,Anawak,Jack Iyerak,NDP-New Democratic Party,123
+62001,Nunavut,12,Kugaaruk,Rocchi,Spencer,Green Party,3
+62001,Nunavut,12,Kugaaruk,Tootoo,Hunter,Liberal,58
+62001,Nunavut,13,Hall Beach,Aglukkaq,Leona,Conservative,42
+62001,Nunavut,13,Hall Beach,Anawak,Jack Iyerak,NDP-New Democratic Party,65
+62001,Nunavut,13,Hall Beach,Rocchi,Spencer,Green Party,6
+62001,Nunavut,13,Hall Beach,Tootoo,Hunter,Liberal,94
+62001,Nunavut,14,Repulse Bay,Aglukkaq,Leona,Conservative,88
+62001,Nunavut,14,Repulse Bay,Anawak,Jack Iyerak,NDP-New Democratic Party,102
+62001,Nunavut,14,Repulse Bay,Rocchi,Spencer,Green Party,2
+62001,Nunavut,14,Repulse Bay,Tootoo,Hunter,Liberal,40
+62001,Nunavut, 15A,Cape Dorset,Aglukkaq,Leona,Conservative,79
+62001,Nunavut, 15A,Cape Dorset,Anawak,Jack Iyerak,NDP-New Democratic Party,101
+62001,Nunavut, 15A,Cape Dorset,Rocchi,Spencer,Green Party,3
+62001,Nunavut, 15A,Cape Dorset,Tootoo,Hunter,Liberal,170
+62001,Nunavut, 15B,Cape Dorset,Aglukkaq,Leona,Conservative,0
+62001,Nunavut, 15B,Cape Dorset,Anawak,Jack Iyerak,NDP-New Democratic Party,0
+62001,Nunavut, 15B,Cape Dorset,Rocchi,Spencer,Green Party,0
+62001,Nunavut, 15B,Cape Dorset,Tootoo,Hunter,Liberal,0
+62001,Nunavut, 16A,Pangnirtung,Aglukkaq,Leona,Conservative,111
+62001,Nunavut, 16A,Pangnirtung,Anawak,Jack Iyerak,NDP-New Democratic Party,174
+62001,Nunavut, 16A,Pangnirtung,Rocchi,Spencer,Green Party,7
+62001,Nunavut, 16A,Pangnirtung,Tootoo,Hunter,Liberal,139
+62001,Nunavut, 16B,Pangnirtung,Aglukkaq,Leona,Conservative,0
+62001,Nunavut, 16B,Pangnirtung,Anawak,Jack Iyerak,NDP-New Democratic Party,0
+62001,Nunavut, 16B,Pangnirtung,Rocchi,Spencer,Green Party,0
+62001,Nunavut, 16B,Pangnirtung,Tootoo,Hunter,Liberal,0
+62001,Nunavut, 17A,Iqaluit,Aglukkaq,Leona,Conservative,52
+62001,Nunavut, 17A,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,64
+62001,Nunavut, 17A,Iqaluit,Rocchi,Spencer,Green Party,8
+62001,Nunavut, 17A,Iqaluit,Tootoo,Hunter,Liberal,127
+62001,Nunavut, 17B,Iqaluit,Aglukkaq,Leona,Conservative,37
+62001,Nunavut, 17B,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,42
+62001,Nunavut, 17B,Iqaluit,Rocchi,Spencer,Green Party,8
+62001,Nunavut, 17B,Iqaluit,Tootoo,Hunter,Liberal,151
+62001,Nunavut, 17C,Iqaluit,Aglukkaq,Leona,Conservative,46
+62001,Nunavut, 17C,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,53
+62001,Nunavut, 17C,Iqaluit,Rocchi,Spencer,Green Party,5
+62001,Nunavut, 17C,Iqaluit,Tootoo,Hunter,Liberal,186
+62001,Nunavut, 17D,Iqaluit,Aglukkaq,Leona,Conservative,48
+62001,Nunavut, 17D,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,66
+62001,Nunavut, 17D,Iqaluit,Rocchi,Spencer,Green Party,3
+62001,Nunavut, 17D,Iqaluit,Tootoo,Hunter,Liberal,186
+62001,Nunavut, 17E,Iqaluit,Aglukkaq,Leona,Conservative,34
+62001,Nunavut, 17E,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,67
+62001,Nunavut, 17E,Iqaluit,Rocchi,Spencer,Green Party,1
+62001,Nunavut, 17E,Iqaluit,Tootoo,Hunter,Liberal,151
+62001,Nunavut, 17F,Iqaluit,Aglukkaq,Leona,Conservative,53
+62001,Nunavut, 17F,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,52
+62001,Nunavut, 17F,Iqaluit,Rocchi,Spencer,Green Party,4
+62001,Nunavut, 17F,Iqaluit,Tootoo,Hunter,Liberal,151
+62001,Nunavut, 17G,Iqaluit,Aglukkaq,Leona,Conservative,40
+62001,Nunavut, 17G,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,70
+62001,Nunavut, 17G,Iqaluit,Rocchi,Spencer,Green Party,0
+62001,Nunavut, 17G,Iqaluit,Tootoo,Hunter,Liberal,138
+62001,Nunavut, 17H,Iqaluit,Aglukkaq,Leona,Conservative,34
+62001,Nunavut, 17H,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,62
+62001,Nunavut, 17H,Iqaluit,Rocchi,Spencer,Green Party,8
+62001,Nunavut, 17H,Iqaluit,Tootoo,Hunter,Liberal,130
+62001,Nunavut, 17I,Iqaluit,Aglukkaq,Leona,Conservative,32
+62001,Nunavut, 17I,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,41
+62001,Nunavut, 17I,Iqaluit,Rocchi,Spencer,Green Party,1
+62001,Nunavut, 17I,Iqaluit,Tootoo,Hunter,Liberal,119
+62001,Nunavut,18,Kimmirut,Aglukkaq,Leona,Conservative,81
+62001,Nunavut,18,Kimmirut,Anawak,Jack Iyerak,NDP-New Democratic Party,26
+62001,Nunavut,18,Kimmirut,Rocchi,Spencer,Green Party,3
+62001,Nunavut,18,Kimmirut,Tootoo,Hunter,Liberal,55
+62001,Nunavut, 19A,Baker Lake,Aglukkaq,Leona,Conservative,88
+62001,Nunavut, 19A,Baker Lake,Anawak,Jack Iyerak,NDP-New Democratic Party,176
+62001,Nunavut, 19A,Baker Lake,Rocchi,Spencer,Green Party,5
+62001,Nunavut, 19A,Baker Lake,Tootoo,Hunter,Liberal,285
+62001,Nunavut, 19B,Baker Lake,Aglukkaq,Leona,Conservative,0
+62001,Nunavut, 19B,Baker Lake,Anawak,Jack Iyerak,NDP-New Democratic Party,0
+62001,Nunavut, 19B,Baker Lake,Rocchi,Spencer,Green Party,0
+62001,Nunavut, 19B,Baker Lake,Tootoo,Hunter,Liberal,0
+62001,Nunavut,20,Chesterfield Inlet,Aglukkaq,Leona,Conservative,23
+62001,Nunavut,20,Chesterfield Inlet,Anawak,Jack Iyerak,NDP-New Democratic Party,29
+62001,Nunavut,20,Chesterfield Inlet,Rocchi,Spencer,Green Party,3
+62001,Nunavut,20,Chesterfield Inlet,Tootoo,Hunter,Liberal,63
+62001,Nunavut, 21A,Rankin Inlet,Aglukkaq,Leona,Conservative,39
+62001,Nunavut, 21A,Rankin Inlet,Anawak,Jack Iyerak,NDP-New Democratic Party,52
+62001,Nunavut, 21A,Rankin Inlet,Rocchi,Spencer,Green Party,5
+62001,Nunavut, 21A,Rankin Inlet,Tootoo,Hunter,Liberal,153
+62001,Nunavut, 21B,Rankin Inlet,Aglukkaq,Leona,Conservative,43
+62001,Nunavut, 21B,Rankin Inlet,Anawak,Jack Iyerak,NDP-New Democratic Party,64
+62001,Nunavut, 21B,Rankin Inlet,Rocchi,Spencer,Green Party,2
+62001,Nunavut, 21B,Rankin Inlet,Tootoo,Hunter,Liberal,132
+62001,Nunavut, 21C,Rankin Inlet,Aglukkaq,Leona,Conservative,46
+62001,Nunavut, 21C,Rankin Inlet,Anawak,Jack Iyerak,NDP-New Democratic Party,71
+62001,Nunavut, 21C,Rankin Inlet,Rocchi,Spencer,Green Party,3
+62001,Nunavut, 21C,Rankin Inlet,Tootoo,Hunter,Liberal,114
+62001,Nunavut,22,Coral Harbour,Aglukkaq,Leona,Conservative,164
+62001,Nunavut,22,Coral Harbour,Anawak,Jack Iyerak,NDP-New Democratic Party,65
+62001,Nunavut,22,Coral Harbour,Rocchi,Spencer,Green Party,5
+62001,Nunavut,22,Coral Harbour,Tootoo,Hunter,Liberal,65
+62001,Nunavut,23,Whale Cove,Aglukkaq,Leona,Conservative,50
+62001,Nunavut,23,Whale Cove,Anawak,Jack Iyerak,NDP-New Democratic Party,35
+62001,Nunavut,23,Whale Cove,Rocchi,Spencer,Green Party,0
+62001,Nunavut,23,Whale Cove,Tootoo,Hunter,Liberal,52
+62001,Nunavut, 24A,Arviat,Aglukkaq,Leona,Conservative,177
+62001,Nunavut, 24A,Arviat,Anawak,Jack Iyerak,NDP-New Democratic Party,125
+62001,Nunavut, 24A,Arviat,Rocchi,Spencer,Green Party,15
+62001,Nunavut, 24A,Arviat,Tootoo,Hunter,Liberal,334
+62001,Nunavut, 24B,Arviat,Aglukkaq,Leona,Conservative,0
+62001,Nunavut, 24B,Arviat,Anawak,Jack Iyerak,NDP-New Democratic Party,0
+62001,Nunavut, 24B,Arviat,Rocchi,Spencer,Green Party,0
+62001,Nunavut, 24B,Arviat,Tootoo,Hunter,Liberal,0
+62001,Nunavut,25,Sanikiluaq,Aglukkaq,Leona,Conservative,86
+62001,Nunavut,25,Sanikiluaq,Anawak,Jack Iyerak,NDP-New Democratic Party,123
+62001,Nunavut,25,Sanikiluaq,Rocchi,Spencer,Green Party,6
+62001,Nunavut,25,Sanikiluaq,Tootoo,Hunter,Liberal,86
+62001,Nunavut,600,Resolute Bay,Aglukkaq,Leona,Conservative,3
+62001,Nunavut,600,Resolute Bay,Anawak,Jack Iyerak,NDP-New Democratic Party,1
+62001,Nunavut,600,Resolute Bay,Rocchi,Spencer,Green Party,0
+62001,Nunavut,600,Resolute Bay,Tootoo,Hunter,Liberal,6
+62001,Nunavut,601,Pond Inlet,Aglukkaq,Leona,Conservative,3
+62001,Nunavut,601,Pond Inlet,Anawak,Jack Iyerak,NDP-New Democratic Party,13
+62001,Nunavut,601,Pond Inlet,Rocchi,Spencer,Green Party,2
+62001,Nunavut,601,Pond Inlet,Tootoo,Hunter,Liberal,9
+62001,Nunavut,602,Igloolik,Aglukkaq,Leona,Conservative,0
+62001,Nunavut,602,Igloolik,Anawak,Jack Iyerak,NDP-New Democratic Party,0
+62001,Nunavut,602,Igloolik,Rocchi,Spencer,Green Party,0
+62001,Nunavut,602,Igloolik,Tootoo,Hunter,Liberal,0
+62001,Nunavut,603,Qikiqtarjuaq,Aglukkaq,Leona,Conservative,2
+62001,Nunavut,603,Qikiqtarjuaq,Anawak,Jack Iyerak,NDP-New Democratic Party,0
+62001,Nunavut,603,Qikiqtarjuaq,Rocchi,Spencer,Green Party,1
+62001,Nunavut,603,Qikiqtarjuaq,Tootoo,Hunter,Liberal,6
+62001,Nunavut,604,Pangnirtung,Aglukkaq,Leona,Conservative,5
+62001,Nunavut,604,Pangnirtung,Anawak,Jack Iyerak,NDP-New Democratic Party,28
+62001,Nunavut,604,Pangnirtung,Rocchi,Spencer,Green Party,0
+62001,Nunavut,604,Pangnirtung,Tootoo,Hunter,Liberal,11
+62001,Nunavut,605,Iqaluit,Aglukkaq,Leona,Conservative,81
+62001,Nunavut,605,Iqaluit,Anawak,Jack Iyerak,NDP-New Democratic Party,101
+62001,Nunavut,605,Iqaluit,Rocchi,Spencer,Green Party,9
+62001,Nunavut,605,Iqaluit,Tootoo,Hunter,Liberal,329
+62001,Nunavut,606,Cape Dorset,Aglukkaq,Leona,Conservative,4
+62001,Nunavut,606,Cape Dorset,Anawak,Jack Iyerak,NDP-New Democratic Party,3
+62001,Nunavut,606,Cape Dorset,Rocchi,Spencer,Green Party,0
+62001,Nunavut,606,Cape Dorset,Tootoo,Hunter,Liberal,5
+62001,Nunavut,607,Hall Beach,Aglukkaq,Leona,Conservative,0
+62001,Nunavut,607,Hall Beach,Anawak,Jack Iyerak,NDP-New Democratic Party,0
+62001,Nunavut,607,Hall Beach,Rocchi,Spencer,Green Party,0
+62001,Nunavut,607,Hall Beach,Tootoo,Hunter,Liberal,0
+62001,Nunavut,608,Gjoa Haven,Aglukkaq,Leona,Conservative,42
+62001,Nunavut,608,Gjoa Haven,Anawak,Jack Iyerak,NDP-New Democratic Party,6
+62001,Nunavut,608,Gjoa Haven,Rocchi,Spencer,Green Party,0
+62001,Nunavut,608,Gjoa Haven,Tootoo,Hunter,Liberal,11
+62001,Nunavut,609,Kugluktuk,Aglukkaq,Leona,Conservative,20
+62001,Nunavut,609,Kugluktuk,Anawak,Jack Iyerak,NDP-New Democratic Party,8
+62001,Nunavut,609,Kugluktuk,Rocchi,Spencer,Green Party,1
+62001,Nunavut,609,Kugluktuk,Tootoo,Hunter,Liberal,37
+62001,Nunavut,610,Cambridge Bay,Aglukkaq,Leona,Conservative,13
+62001,Nunavut,610,Cambridge Bay,Anawak,Jack Iyerak,NDP-New Democratic Party,9
+62001,Nunavut,610,Cambridge Bay,Rocchi,Spencer,Green Party,0
+62001,Nunavut,610,Cambridge Bay,Tootoo,Hunter,Liberal,40
+62001,Nunavut,611,Baker Lake,Aglukkaq,Leona,Conservative,6
+62001,Nunavut,611,Baker Lake,Anawak,Jack Iyerak,NDP-New Democratic Party,17
+62001,Nunavut,611,Baker Lake,Rocchi,Spencer,Green Party,1
+62001,Nunavut,611,Baker Lake,Tootoo,Hunter,Liberal,49
+62001,Nunavut,612,Rankin Inlet,Aglukkaq,Leona,Conservative,29
+62001,Nunavut,612,Rankin Inlet,Anawak,Jack Iyerak,NDP-New Democratic Party,22
+62001,Nunavut,612,Rankin Inlet,Rocchi,Spencer,Green Party,2
+62001,Nunavut,612,Rankin Inlet,Tootoo,Hunter,Liberal,93
+62001,Nunavut,613,Arviat,Aglukkaq,Leona,Conservative,18
+62001,Nunavut,613,Arviat,Anawak,Jack Iyerak,NDP-New Democratic Party,10
+62001,Nunavut,613,Arviat,Rocchi,Spencer,Green Party,2
+62001,Nunavut,613,Arviat,Tootoo,Hunter,Liberal,19
+62001,Nunavut,614,Sanikiluaq,Aglukkaq,Leona,Conservative,4
+62001,Nunavut,614,Sanikiluaq,Anawak,Jack Iyerak,NDP-New Democratic Party,3
+62001,Nunavut,614,Sanikiluaq,Rocchi,Spencer,Green Party,0
+62001,Nunavut,614,Sanikiluaq,Tootoo,Hunter,Liberal,8
+62001,Nunavut, S/R 1,SVR Group 1/RÉS Groupe 1,Aglukkaq,Leona,Conservative,19
+62001,Nunavut, S/R 1,SVR Group 1/RÉS Groupe 1,Anawak,Jack Iyerak,NDP-New Democratic Party,24
+62001,Nunavut, S/R 1,SVR Group 1/RÉS Groupe 1,Rocchi,Spencer,Green Party,3
+62001,Nunavut, S/R 1,SVR Group 1/RÉS Groupe 1,Tootoo,Hunter,Liberal,97
+62001,Nunavut, S/R 2,SVR Group 2/RÉS Groupe 2,Aglukkaq,Leona,Conservative,66
+62001,Nunavut, S/R 2,SVR Group 2/RÉS Groupe 2,Anawak,Jack Iyerak,NDP-New Democratic Party,138
+62001,Nunavut, S/R 2,SVR Group 2/RÉS Groupe 2,Rocchi,Spencer,Green Party,6
+62001,Nunavut, S/R 2,SVR Group 2/RÉS Groupe 2,Tootoo,Hunter,Liberal,258

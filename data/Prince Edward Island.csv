@@ -1,0 +1,1494 @@
+﻿district_number,district_name,station_number,station_name,last_name,first_name,party_name,votes
+11001,Cardigan,1,North Lake,Cann,Billy,NDP-New Democratic Party,22
+11001,Cardigan,1,North Lake,Doyle,Teresa,Green Party,15
+11001,Cardigan,1,North Lake,MacAulay,Lawrence,Liberal,109
+11001,Cardigan,1,North Lake,Patkai,Julius,Conservative,18
+11001,Cardigan,1,North Lake,Squires,Christene,Christian Heritage Party,6
+11001,Cardigan,2,Red Point,Cann,Billy,NDP-New Democratic Party,19
+11001,Cardigan,2,Red Point,Doyle,Teresa,Green Party,5
+11001,Cardigan,2,Red Point,MacAulay,Lawrence,Liberal,127
+11001,Cardigan,2,Red Point,Patkai,Julius,Conservative,30
+11001,Cardigan,2,Red Point,Squires,Christene,Christian Heritage Party,8
+11001,Cardigan,3,New Zealand,Cann,Billy,NDP-New Democratic Party,14
+11001,Cardigan,3,New Zealand,Doyle,Teresa,Green Party,9
+11001,Cardigan,3,New Zealand,MacAulay,Lawrence,Liberal,93
+11001,Cardigan,3,New Zealand,Patkai,Julius,Conservative,19
+11001,Cardigan,3,New Zealand,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,4,Chepstow,Cann,Billy,NDP-New Democratic Party,20
+11001,Cardigan,4,Chepstow,Doyle,Teresa,Green Party,6
+11001,Cardigan,4,Chepstow,MacAulay,Lawrence,Liberal,113
+11001,Cardigan,4,Chepstow,Patkai,Julius,Conservative,49
+11001,Cardigan,4,Chepstow,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,5,Souris River,Cann,Billy,NDP-New Democratic Party,21
+11001,Cardigan,5,Souris River,Doyle,Teresa,Green Party,12
+11001,Cardigan,5,Souris River,MacAulay,Lawrence,Liberal,105
+11001,Cardigan,5,Souris River,Patkai,Julius,Conservative,17
+11001,Cardigan,5,Souris River,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,6,Souris,Cann,Billy,NDP-New Democratic Party,15
+11001,Cardigan,6,Souris,Doyle,Teresa,Green Party,6
+11001,Cardigan,6,Souris,MacAulay,Lawrence,Liberal,77
+11001,Cardigan,6,Souris,Patkai,Julius,Conservative,26
+11001,Cardigan,6,Souris,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,7,Souris East,Cann,Billy,NDP-New Democratic Party,18
+11001,Cardigan,7,Souris East,Doyle,Teresa,Green Party,6
+11001,Cardigan,7,Souris East,MacAulay,Lawrence,Liberal,115
+11001,Cardigan,7,Souris East,Patkai,Julius,Conservative,26
+11001,Cardigan,7,Souris East,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,8,Souris West,Cann,Billy,NDP-New Democratic Party,17
+11001,Cardigan,8,Souris West,Doyle,Teresa,Green Party,4
+11001,Cardigan,8,Souris West,MacAulay,Lawrence,Liberal,118
+11001,Cardigan,8,Souris West,Patkai,Julius,Conservative,15
+11001,Cardigan,8,Souris West,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,9,Fortune,Cann,Billy,NDP-New Democratic Party,28
+11001,Cardigan,9,Fortune,Doyle,Teresa,Green Party,15
+11001,Cardigan,9,Fortune,MacAulay,Lawrence,Liberal,131
+11001,Cardigan,9,Fortune,Patkai,Julius,Conservative,40
+11001,Cardigan,9,Fortune,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,10,Saint-Charles,Cann,Billy,NDP-New Democratic Party,26
+11001,Cardigan,10,Saint-Charles,Doyle,Teresa,Green Party,7
+11001,Cardigan,10,Saint-Charles,MacAulay,Lawrence,Liberal,124
+11001,Cardigan,10,Saint-Charles,Patkai,Julius,Conservative,11
+11001,Cardigan,10,Saint-Charles,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,11,Cable Head,Cann,Billy,NDP-New Democratic Party,34
+11001,Cardigan,11,Cable Head,Doyle,Teresa,Green Party,11
+11001,Cardigan,11,Cable Head,MacAulay,Lawrence,Liberal,169
+11001,Cardigan,11,Cable Head,Patkai,Julius,Conservative,43
+11001,Cardigan,11,Cable Head,Squires,Christene,Christian Heritage Party,17
+11001,Cardigan,12,Five Houses,Cann,Billy,NDP-New Democratic Party,16
+11001,Cardigan,12,Five Houses,Doyle,Teresa,Green Party,8
+11001,Cardigan,12,Five Houses,MacAulay,Lawrence,Liberal,149
+11001,Cardigan,12,Five Houses,Patkai,Julius,Conservative,38
+11001,Cardigan,12,Five Houses,Squires,Christene,Christian Heritage Party,4
+11001,Cardigan,13,Milburn,Cann,Billy,NDP-New Democratic Party,19
+11001,Cardigan,13,Milburn,Doyle,Teresa,Green Party,11
+11001,Cardigan,13,Milburn,MacAulay,Lawrence,Liberal,118
+11001,Cardigan,13,Milburn,Patkai,Julius,Conservative,41
+11001,Cardigan,13,Milburn,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,14,Morell,Cann,Billy,NDP-New Democratic Party,23
+11001,Cardigan,14,Morell,Doyle,Teresa,Green Party,14
+11001,Cardigan,14,Morell,MacAulay,Lawrence,Liberal,139
+11001,Cardigan,14,Morell,Patkai,Julius,Conservative,43
+11001,Cardigan,14,Morell,Squires,Christene,Christian Heritage Party,7
+11001,Cardigan,15,Green Meadows,Cann,Billy,NDP-New Democratic Party,14
+11001,Cardigan,15,Green Meadows,Doyle,Teresa,Green Party,10
+11001,Cardigan,15,Green Meadows,MacAulay,Lawrence,Liberal,129
+11001,Cardigan,15,Green Meadows,Patkai,Julius,Conservative,46
+11001,Cardigan,15,Green Meadows,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,16,Savage Harbour,Cann,Billy,NDP-New Democratic Party,14
+11001,Cardigan,16,Savage Harbour,Doyle,Teresa,Green Party,12
+11001,Cardigan,16,Savage Harbour,MacAulay,Lawrence,Liberal,143
+11001,Cardigan,16,Savage Harbour,Patkai,Julius,Conservative,22
+11001,Cardigan,16,Savage Harbour,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,17,Mount Stewart,Cann,Billy,NDP-New Democratic Party,27
+11001,Cardigan,17,Mount Stewart,Doyle,Teresa,Green Party,10
+11001,Cardigan,17,Mount Stewart,MacAulay,Lawrence,Liberal,141
+11001,Cardigan,17,Mount Stewart,Patkai,Julius,Conservative,25
+11001,Cardigan,17,Mount Stewart,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,18,Tracadie Cross,Cann,Billy,NDP-New Democratic Party,36
+11001,Cardigan,18,Tracadie Cross,Doyle,Teresa,Green Party,14
+11001,Cardigan,18,Tracadie Cross,MacAulay,Lawrence,Liberal,202
+11001,Cardigan,18,Tracadie Cross,Patkai,Julius,Conservative,23
+11001,Cardigan,18,Tracadie Cross,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,19,Grand Tracadie,Cann,Billy,NDP-New Democratic Party,51
+11001,Cardigan,19,Grand Tracadie,Doyle,Teresa,Green Party,21
+11001,Cardigan,19,Grand Tracadie,MacAulay,Lawrence,Liberal,194
+11001,Cardigan,19,Grand Tracadie,Patkai,Julius,Conservative,41
+11001,Cardigan,19,Grand Tracadie,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,20,Bedford Station,Cann,Billy,NDP-New Democratic Party,32
+11001,Cardigan,20,Bedford Station,Doyle,Teresa,Green Party,13
+11001,Cardigan,20,Bedford Station,MacAulay,Lawrence,Liberal,199
+11001,Cardigan,20,Bedford Station,Patkai,Julius,Conservative,38
+11001,Cardigan,20,Bedford Station,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,21,Johnstons River,Cann,Billy,NDP-New Democratic Party,28
+11001,Cardigan,21,Johnstons River,Doyle,Teresa,Green Party,21
+11001,Cardigan,21,Johnstons River,MacAulay,Lawrence,Liberal,143
+11001,Cardigan,21,Johnstons River,Patkai,Julius,Conservative,29
+11001,Cardigan,21,Johnstons River,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,22,Fort Augustus,Cann,Billy,NDP-New Democratic Party,10
+11001,Cardigan,22,Fort Augustus,Doyle,Teresa,Green Party,11
+11001,Cardigan,22,Fort Augustus,MacAulay,Lawrence,Liberal,126
+11001,Cardigan,22,Fort Augustus,Patkai,Julius,Conservative,45
+11001,Cardigan,22,Fort Augustus,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,23,Glenfinnan,Cann,Billy,NDP-New Democratic Party,35
+11001,Cardigan,23,Glenfinnan,Doyle,Teresa,Green Party,12
+11001,Cardigan,23,Glenfinnan,MacAulay,Lawrence,Liberal,139
+11001,Cardigan,23,Glenfinnan,Patkai,Julius,Conservative,45
+11001,Cardigan,23,Glenfinnan,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,24,Peakes,Cann,Billy,NDP-New Democratic Party,18
+11001,Cardigan,24,Peakes,Doyle,Teresa,Green Party,17
+11001,Cardigan,24,Peakes,MacAulay,Lawrence,Liberal,118
+11001,Cardigan,24,Peakes,Patkai,Julius,Conservative,35
+11001,Cardigan,24,Peakes,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,25,Glenfanning,Cann,Billy,NDP-New Democratic Party,10
+11001,Cardigan,25,Glenfanning,Doyle,Teresa,Green Party,10
+11001,Cardigan,25,Glenfanning,MacAulay,Lawrence,Liberal,122
+11001,Cardigan,25,Glenfanning,Patkai,Julius,Conservative,33
+11001,Cardigan,25,Glenfanning,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,26,Launching,Cann,Billy,NDP-New Democratic Party,31
+11001,Cardigan,26,Launching,Doyle,Teresa,Green Party,25
+11001,Cardigan,26,Launching,MacAulay,Lawrence,Liberal,139
+11001,Cardigan,26,Launching,Patkai,Julius,Conservative,46
+11001,Cardigan,26,Launching,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,27,New Perth,Cann,Billy,NDP-New Democratic Party,21
+11001,Cardigan,27,New Perth,Doyle,Teresa,Green Party,4
+11001,Cardigan,27,New Perth,MacAulay,Lawrence,Liberal,116
+11001,Cardigan,27,New Perth,Patkai,Julius,Conservative,33
+11001,Cardigan,27,New Perth,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,28,Dundas,Cann,Billy,NDP-New Democratic Party,17
+11001,Cardigan,28,Dundas,Doyle,Teresa,Green Party,12
+11001,Cardigan,28,Dundas,MacAulay,Lawrence,Liberal,154
+11001,Cardigan,28,Dundas,Patkai,Julius,Conservative,31
+11001,Cardigan,28,Dundas,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,29,Head of Cardigan,Cann,Billy,NDP-New Democratic Party,18
+11001,Cardigan,29,Head of Cardigan,Doyle,Teresa,Green Party,15
+11001,Cardigan,29,Head of Cardigan,MacAulay,Lawrence,Liberal,162
+11001,Cardigan,29,Head of Cardigan,Patkai,Julius,Conservative,28
+11001,Cardigan,29,Head of Cardigan,Squires,Christene,Christian Heritage Party,4
+11001,Cardigan,30,Georgetown North,Cann,Billy,NDP-New Democratic Party,16
+11001,Cardigan,30,Georgetown North,Doyle,Teresa,Green Party,17
+11001,Cardigan,30,Georgetown North,MacAulay,Lawrence,Liberal,152
+11001,Cardigan,30,Georgetown North,Patkai,Julius,Conservative,41
+11001,Cardigan,30,Georgetown North,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,31,Georgetown South,Cann,Billy,NDP-New Democratic Party,28
+11001,Cardigan,31,Georgetown South,Doyle,Teresa,Green Party,9
+11001,Cardigan,31,Georgetown South,MacAulay,Lawrence,Liberal,158
+11001,Cardigan,31,Georgetown South,Patkai,Julius,Conservative,44
+11001,Cardigan,31,Georgetown South,Squires,Christene,Christian Heritage Party,11
+11001,Cardigan,32,Brudenell,Cann,Billy,NDP-New Democratic Party,12
+11001,Cardigan,32,Brudenell,Doyle,Teresa,Green Party,11
+11001,Cardigan,32,Brudenell,MacAulay,Lawrence,Liberal,101
+11001,Cardigan,32,Brudenell,Patkai,Julius,Conservative,24
+11001,Cardigan,32,Brudenell,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,33,North Montague,Cann,Billy,NDP-New Democratic Party,13
+11001,Cardigan,33,North Montague,Doyle,Teresa,Green Party,7
+11001,Cardigan,33,North Montague,MacAulay,Lawrence,Liberal,107
+11001,Cardigan,33,North Montague,Patkai,Julius,Conservative,24
+11001,Cardigan,33,North Montague,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,34,Central Montague,Cann,Billy,NDP-New Democratic Party,15
+11001,Cardigan,34,Central Montague,Doyle,Teresa,Green Party,8
+11001,Cardigan,34,Central Montague,MacAulay,Lawrence,Liberal,73
+11001,Cardigan,34,Central Montague,Patkai,Julius,Conservative,12
+11001,Cardigan,34,Central Montague,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,35,Lower Montague,Cann,Billy,NDP-New Democratic Party,19
+11001,Cardigan,35,Lower Montague,Doyle,Teresa,Green Party,14
+11001,Cardigan,35,Lower Montague,MacAulay,Lawrence,Liberal,136
+11001,Cardigan,35,Lower Montague,Patkai,Julius,Conservative,22
+11001,Cardigan,35,Lower Montague,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,36,Sturgeon,Cann,Billy,NDP-New Democratic Party,31
+11001,Cardigan,36,Sturgeon,Doyle,Teresa,Green Party,10
+11001,Cardigan,36,Sturgeon,MacAulay,Lawrence,Liberal,164
+11001,Cardigan,36,Sturgeon,Patkai,Julius,Conservative,21
+11001,Cardigan,36,Sturgeon,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,37,Murray Harbour North,Cann,Billy,NDP-New Democratic Party,19
+11001,Cardigan,37,Murray Harbour North,Doyle,Teresa,Green Party,11
+11001,Cardigan,37,Murray Harbour North,MacAulay,Lawrence,Liberal,147
+11001,Cardigan,37,Murray Harbour North,Patkai,Julius,Conservative,28
+11001,Cardigan,37,Murray Harbour North,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,38,Beach Point,Cann,Billy,NDP-New Democratic Party,15
+11001,Cardigan,38,Beach Point,Doyle,Teresa,Green Party,14
+11001,Cardigan,38,Beach Point,MacAulay,Lawrence,Liberal,152
+11001,Cardigan,38,Beach Point,Patkai,Julius,Conservative,37
+11001,Cardigan,38,Beach Point,Squires,Christene,Christian Heritage Party,7
+11001,Cardigan,39,Murray River South,Cann,Billy,NDP-New Democratic Party,17
+11001,Cardigan,39,Murray River South,Doyle,Teresa,Green Party,12
+11001,Cardigan,39,Murray River South,MacAulay,Lawrence,Liberal,116
+11001,Cardigan,39,Murray River South,Patkai,Julius,Conservative,35
+11001,Cardigan,39,Murray River South,Squires,Christene,Christian Heritage Party,5
+11001,Cardigan,40,Murray River North,Cann,Billy,NDP-New Democratic Party,12
+11001,Cardigan,40,Murray River North,Doyle,Teresa,Green Party,13
+11001,Cardigan,40,Murray River North,MacAulay,Lawrence,Liberal,145
+11001,Cardigan,40,Murray River North,Patkai,Julius,Conservative,19
+11001,Cardigan,40,Murray River North,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,41,Abney,Cann,Billy,NDP-New Democratic Party,19
+11001,Cardigan,41,Abney,Doyle,Teresa,Green Party,10
+11001,Cardigan,41,Abney,MacAulay,Lawrence,Liberal,120
+11001,Cardigan,41,Abney,Patkai,Julius,Conservative,26
+11001,Cardigan,41,Abney,Squires,Christene,Christian Heritage Party,12
+11001,Cardigan,42,Lewes,Cann,Billy,NDP-New Democratic Party,5
+11001,Cardigan,42,Lewes,Doyle,Teresa,Green Party,16
+11001,Cardigan,42,Lewes,MacAulay,Lawrence,Liberal,88
+11001,Cardigan,42,Lewes,Patkai,Julius,Conservative,24
+11001,Cardigan,42,Lewes,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,43,South Montague,Cann,Billy,NDP-New Democratic Party,18
+11001,Cardigan,43,South Montague,Doyle,Teresa,Green Party,8
+11001,Cardigan,43,South Montague,MacAulay,Lawrence,Liberal,112
+11001,Cardigan,43,South Montague,Patkai,Julius,Conservative,19
+11001,Cardigan,43,South Montague,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,44,West Montague,Cann,Billy,NDP-New Democratic Party,13
+11001,Cardigan,44,West Montague,Doyle,Teresa,Green Party,6
+11001,Cardigan,44,West Montague,MacAulay,Lawrence,Liberal,90
+11001,Cardigan,44,West Montague,Patkai,Julius,Conservative,20
+11001,Cardigan,44,West Montague,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,45,Victoria Cross,Cann,Billy,NDP-New Democratic Party,13
+11001,Cardigan,45,Victoria Cross,Doyle,Teresa,Green Party,14
+11001,Cardigan,45,Victoria Cross,MacAulay,Lawrence,Liberal,119
+11001,Cardigan,45,Victoria Cross,Patkai,Julius,Conservative,26
+11001,Cardigan,45,Victoria Cross,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,46,Valleyfield,Cann,Billy,NDP-New Democratic Party,23
+11001,Cardigan,46,Valleyfield,Doyle,Teresa,Green Party,5
+11001,Cardigan,46,Valleyfield,MacAulay,Lawrence,Liberal,107
+11001,Cardigan,46,Valleyfield,Patkai,Julius,Conservative,35
+11001,Cardigan,46,Valleyfield,Squires,Christene,Christian Heritage Party,5
+11001,Cardigan,47,Hermitage,Cann,Billy,NDP-New Democratic Party,29
+11001,Cardigan,47,Hermitage,Doyle,Teresa,Green Party,20
+11001,Cardigan,47,Hermitage,MacAulay,Lawrence,Liberal,158
+11001,Cardigan,47,Hermitage,Patkai,Julius,Conservative,48
+11001,Cardigan,47,Hermitage,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,48,Millview,Cann,Billy,NDP-New Democratic Party,17
+11001,Cardigan,48,Millview,Doyle,Teresa,Green Party,7
+11001,Cardigan,48,Millview,MacAulay,Lawrence,Liberal,165
+11001,Cardigan,48,Millview,Patkai,Julius,Conservative,20
+11001,Cardigan,48,Millview,Squires,Christene,Christian Heritage Party,10
+11001,Cardigan,49,Hazelbrook,Cann,Billy,NDP-New Democratic Party,19
+11001,Cardigan,49,Hazelbrook,Doyle,Teresa,Green Party,14
+11001,Cardigan,49,Hazelbrook,MacAulay,Lawrence,Liberal,132
+11001,Cardigan,49,Hazelbrook,Patkai,Julius,Conservative,27
+11001,Cardigan,49,Hazelbrook,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan, 50A,Mount Herbert,Cann,Billy,NDP-New Democratic Party,14
+11001,Cardigan, 50A,Mount Herbert,Doyle,Teresa,Green Party,15
+11001,Cardigan, 50A,Mount Herbert,MacAulay,Lawrence,Liberal,109
+11001,Cardigan, 50A,Mount Herbert,Patkai,Julius,Conservative,24
+11001,Cardigan, 50A,Mount Herbert,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan, 50B,Mount Herbert,Cann,Billy,NDP-New Democratic Party,11
+11001,Cardigan, 50B,Mount Herbert,Doyle,Teresa,Green Party,10
+11001,Cardigan, 50B,Mount Herbert,MacAulay,Lawrence,Liberal,119
+11001,Cardigan, 50B,Mount Herbert,Patkai,Julius,Conservative,28
+11001,Cardigan, 50B,Mount Herbert,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,51,Stratford,Cann,Billy,NDP-New Democratic Party,31
+11001,Cardigan,51,Stratford,Doyle,Teresa,Green Party,12
+11001,Cardigan,51,Stratford,MacAulay,Lawrence,Liberal,101
+11001,Cardigan,51,Stratford,Patkai,Julius,Conservative,15
+11001,Cardigan,51,Stratford,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,52,Stratford,Cann,Billy,NDP-New Democratic Party,37
+11001,Cardigan,52,Stratford,Doyle,Teresa,Green Party,19
+11001,Cardigan,52,Stratford,MacAulay,Lawrence,Liberal,168
+11001,Cardigan,52,Stratford,Patkai,Julius,Conservative,38
+11001,Cardigan,52,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,53,Stratford,Cann,Billy,NDP-New Democratic Party,19
+11001,Cardigan,53,Stratford,Doyle,Teresa,Green Party,15
+11001,Cardigan,53,Stratford,MacAulay,Lawrence,Liberal,113
+11001,Cardigan,53,Stratford,Patkai,Julius,Conservative,20
+11001,Cardigan,53,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan, 54A,Stratford,Cann,Billy,NDP-New Democratic Party,31
+11001,Cardigan, 54A,Stratford,Doyle,Teresa,Green Party,13
+11001,Cardigan, 54A,Stratford,MacAulay,Lawrence,Liberal,135
+11001,Cardigan, 54A,Stratford,Patkai,Julius,Conservative,30
+11001,Cardigan, 54A,Stratford,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan, 54B,Stratford,Cann,Billy,NDP-New Democratic Party,35
+11001,Cardigan, 54B,Stratford,Doyle,Teresa,Green Party,14
+11001,Cardigan, 54B,Stratford,MacAulay,Lawrence,Liberal,162
+11001,Cardigan, 54B,Stratford,Patkai,Julius,Conservative,20
+11001,Cardigan, 54B,Stratford,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,55,Stratford,Cann,Billy,NDP-New Democratic Party,27
+11001,Cardigan,55,Stratford,Doyle,Teresa,Green Party,18
+11001,Cardigan,55,Stratford,MacAulay,Lawrence,Liberal,115
+11001,Cardigan,55,Stratford,Patkai,Julius,Conservative,34
+11001,Cardigan,55,Stratford,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan, 56A,Stratford,Cann,Billy,NDP-New Democratic Party,25
+11001,Cardigan, 56A,Stratford,Doyle,Teresa,Green Party,18
+11001,Cardigan, 56A,Stratford,MacAulay,Lawrence,Liberal,82
+11001,Cardigan, 56A,Stratford,Patkai,Julius,Conservative,33
+11001,Cardigan, 56A,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan, 56B,Stratford,Cann,Billy,NDP-New Democratic Party,17
+11001,Cardigan, 56B,Stratford,Doyle,Teresa,Green Party,18
+11001,Cardigan, 56B,Stratford,MacAulay,Lawrence,Liberal,95
+11001,Cardigan, 56B,Stratford,Patkai,Julius,Conservative,29
+11001,Cardigan, 56B,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,57,Stratford,Cann,Billy,NDP-New Democratic Party,35
+11001,Cardigan,57,Stratford,Doyle,Teresa,Green Party,15
+11001,Cardigan,57,Stratford,MacAulay,Lawrence,Liberal,169
+11001,Cardigan,57,Stratford,Patkai,Julius,Conservative,44
+11001,Cardigan,57,Stratford,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan, 58A,Stratford,Cann,Billy,NDP-New Democratic Party,16
+11001,Cardigan, 58A,Stratford,Doyle,Teresa,Green Party,10
+11001,Cardigan, 58A,Stratford,MacAulay,Lawrence,Liberal,91
+11001,Cardigan, 58A,Stratford,Patkai,Julius,Conservative,28
+11001,Cardigan, 58A,Stratford,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan, 58B,Stratford,Cann,Billy,NDP-New Democratic Party,23
+11001,Cardigan, 58B,Stratford,Doyle,Teresa,Green Party,15
+11001,Cardigan, 58B,Stratford,MacAulay,Lawrence,Liberal,90
+11001,Cardigan, 58B,Stratford,Patkai,Julius,Conservative,21
+11001,Cardigan, 58B,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,59,Stratford,Cann,Billy,NDP-New Democratic Party,14
+11001,Cardigan,59,Stratford,Doyle,Teresa,Green Party,10
+11001,Cardigan,59,Stratford,MacAulay,Lawrence,Liberal,71
+11001,Cardigan,59,Stratford,Patkai,Julius,Conservative,22
+11001,Cardigan,59,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,60,Stratford,Cann,Billy,NDP-New Democratic Party,29
+11001,Cardigan,60,Stratford,Doyle,Teresa,Green Party,16
+11001,Cardigan,60,Stratford,MacAulay,Lawrence,Liberal,133
+11001,Cardigan,60,Stratford,Patkai,Julius,Conservative,20
+11001,Cardigan,60,Stratford,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,61,Stratford,Cann,Billy,NDP-New Democratic Party,15
+11001,Cardigan,61,Stratford,Doyle,Teresa,Green Party,11
+11001,Cardigan,61,Stratford,MacAulay,Lawrence,Liberal,102
+11001,Cardigan,61,Stratford,Patkai,Julius,Conservative,36
+11001,Cardigan,61,Stratford,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,62,Stratford,Cann,Billy,NDP-New Democratic Party,28
+11001,Cardigan,62,Stratford,Doyle,Teresa,Green Party,17
+11001,Cardigan,62,Stratford,MacAulay,Lawrence,Liberal,156
+11001,Cardigan,62,Stratford,Patkai,Julius,Conservative,54
+11001,Cardigan,62,Stratford,Squires,Christene,Christian Heritage Party,4
+11001,Cardigan, 63A,Stratford,Cann,Billy,NDP-New Democratic Party,21
+11001,Cardigan, 63A,Stratford,Doyle,Teresa,Green Party,18
+11001,Cardigan, 63A,Stratford,MacAulay,Lawrence,Liberal,128
+11001,Cardigan, 63A,Stratford,Patkai,Julius,Conservative,41
+11001,Cardigan, 63A,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan, 63B,Stratford,Cann,Billy,NDP-New Democratic Party,16
+11001,Cardigan, 63B,Stratford,Doyle,Teresa,Green Party,11
+11001,Cardigan, 63B,Stratford,MacAulay,Lawrence,Liberal,107
+11001,Cardigan, 63B,Stratford,Patkai,Julius,Conservative,32
+11001,Cardigan, 63B,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan, 64A,Stratford,Cann,Billy,NDP-New Democratic Party,12
+11001,Cardigan, 64A,Stratford,Doyle,Teresa,Green Party,18
+11001,Cardigan, 64A,Stratford,MacAulay,Lawrence,Liberal,109
+11001,Cardigan, 64A,Stratford,Patkai,Julius,Conservative,25
+11001,Cardigan, 64A,Stratford,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan, 64B,Stratford,Cann,Billy,NDP-New Democratic Party,16
+11001,Cardigan, 64B,Stratford,Doyle,Teresa,Green Party,17
+11001,Cardigan, 64B,Stratford,MacAulay,Lawrence,Liberal,91
+11001,Cardigan, 64B,Stratford,Patkai,Julius,Conservative,34
+11001,Cardigan, 64B,Stratford,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,65,Alexandra,Cann,Billy,NDP-New Democratic Party,24
+11001,Cardigan,65,Alexandra,Doyle,Teresa,Green Party,16
+11001,Cardigan,65,Alexandra,MacAulay,Lawrence,Liberal,133
+11001,Cardigan,65,Alexandra,Patkai,Julius,Conservative,33
+11001,Cardigan,65,Alexandra,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,66,Pownal,Cann,Billy,NDP-New Democratic Party,26
+11001,Cardigan,66,Pownal,Doyle,Teresa,Green Party,31
+11001,Cardigan,66,Pownal,MacAulay,Lawrence,Liberal,157
+11001,Cardigan,66,Pownal,Patkai,Julius,Conservative,46
+11001,Cardigan,66,Pownal,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,67,Cherry Valley,Cann,Billy,NDP-New Democratic Party,21
+11001,Cardigan,67,Cherry Valley,Doyle,Teresa,Green Party,11
+11001,Cardigan,67,Cherry Valley,MacAulay,Lawrence,Liberal,141
+11001,Cardigan,67,Cherry Valley,Patkai,Julius,Conservative,36
+11001,Cardigan,67,Cherry Valley,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,68,Kinross,Cann,Billy,NDP-New Democratic Party,17
+11001,Cardigan,68,Kinross,Doyle,Teresa,Green Party,20
+11001,Cardigan,68,Kinross,MacAulay,Lawrence,Liberal,122
+11001,Cardigan,68,Kinross,Patkai,Julius,Conservative,38
+11001,Cardigan,68,Kinross,Squires,Christene,Christian Heritage Party,11
+11001,Cardigan,69,Iona,Cann,Billy,NDP-New Democratic Party,16
+11001,Cardigan,69,Iona,Doyle,Teresa,Green Party,16
+11001,Cardigan,69,Iona,MacAulay,Lawrence,Liberal,112
+11001,Cardigan,69,Iona,Patkai,Julius,Conservative,25
+11001,Cardigan,69,Iona,Squires,Christene,Christian Heritage Party,7
+11001,Cardigan,70,Mount Buchanan,Cann,Billy,NDP-New Democratic Party,18
+11001,Cardigan,70,Mount Buchanan,Doyle,Teresa,Green Party,16
+11001,Cardigan,70,Mount Buchanan,MacAulay,Lawrence,Liberal,160
+11001,Cardigan,70,Mount Buchanan,Patkai,Julius,Conservative,39
+11001,Cardigan,70,Mount Buchanan,Squires,Christene,Christian Heritage Party,7
+11001,Cardigan,71,Flat River,Cann,Billy,NDP-New Democratic Party,17
+11001,Cardigan,71,Flat River,Doyle,Teresa,Green Party,22
+11001,Cardigan,71,Flat River,MacAulay,Lawrence,Liberal,84
+11001,Cardigan,71,Flat River,Patkai,Julius,Conservative,39
+11001,Cardigan,71,Flat River,Squires,Christene,Christian Heritage Party,11
+11001,Cardigan,72,Wood Islands,Cann,Billy,NDP-New Democratic Party,17
+11001,Cardigan,72,Wood Islands,Doyle,Teresa,Green Party,8
+11001,Cardigan,72,Wood Islands,MacAulay,Lawrence,Liberal,82
+11001,Cardigan,72,Wood Islands,Patkai,Julius,Conservative,24
+11001,Cardigan,72,Wood Islands,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,73,Brooklyn,Cann,Billy,NDP-New Democratic Party,25
+11001,Cardigan,73,Brooklyn,Doyle,Teresa,Green Party,9
+11001,Cardigan,73,Brooklyn,MacAulay,Lawrence,Liberal,92
+11001,Cardigan,73,Brooklyn,Patkai,Julius,Conservative,29
+11001,Cardigan,73,Brooklyn,Squires,Christene,Christian Heritage Party,2
+11001,Cardigan,500,Mobile poll/Bureau itinérant,Cann,Billy,NDP-New Democratic Party,4
+11001,Cardigan,500,Mobile poll/Bureau itinérant,Doyle,Teresa,Green Party,0
+11001,Cardigan,500,Mobile poll/Bureau itinérant,MacAulay,Lawrence,Liberal,40
+11001,Cardigan,500,Mobile poll/Bureau itinérant,Patkai,Julius,Conservative,11
+11001,Cardigan,500,Mobile poll/Bureau itinérant,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan, 501A,Mobile poll/Bureau itinérant,Cann,Billy,NDP-New Democratic Party,4
+11001,Cardigan, 501A,Mobile poll/Bureau itinérant,Doyle,Teresa,Green Party,5
+11001,Cardigan, 501A,Mobile poll/Bureau itinérant,MacAulay,Lawrence,Liberal,29
+11001,Cardigan, 501A,Mobile poll/Bureau itinérant,Patkai,Julius,Conservative,22
+11001,Cardigan, 501A,Mobile poll/Bureau itinérant,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan, 501B,Mobile poll/Bureau itinérant,Cann,Billy,NDP-New Democratic Party,0
+11001,Cardigan, 501B,Mobile poll/Bureau itinérant,Doyle,Teresa,Green Party,0
+11001,Cardigan, 501B,Mobile poll/Bureau itinérant,MacAulay,Lawrence,Liberal,0
+11001,Cardigan, 501B,Mobile poll/Bureau itinérant,Patkai,Julius,Conservative,0
+11001,Cardigan, 501B,Mobile poll/Bureau itinérant,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,502,Mobile poll/Bureau itinérant,Cann,Billy,NDP-New Democratic Party,5
+11001,Cardigan,502,Mobile poll/Bureau itinérant,Doyle,Teresa,Green Party,3
+11001,Cardigan,502,Mobile poll/Bureau itinérant,MacAulay,Lawrence,Liberal,30
+11001,Cardigan,502,Mobile poll/Bureau itinérant,Patkai,Julius,Conservative,24
+11001,Cardigan,502,Mobile poll/Bureau itinérant,Squires,Christene,Christian Heritage Party,0
+11001,Cardigan,503,Mobile poll/Bureau itinérant,Cann,Billy,NDP-New Democratic Party,6
+11001,Cardigan,503,Mobile poll/Bureau itinérant,Doyle,Teresa,Green Party,4
+11001,Cardigan,503,Mobile poll/Bureau itinérant,MacAulay,Lawrence,Liberal,44
+11001,Cardigan,503,Mobile poll/Bureau itinérant,Patkai,Julius,Conservative,13
+11001,Cardigan,503,Mobile poll/Bureau itinérant,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan,600,Mount Stewart,Cann,Billy,NDP-New Democratic Party,76
+11001,Cardigan,600,Mount Stewart,Doyle,Teresa,Green Party,32
+11001,Cardigan,600,Mount Stewart,MacAulay,Lawrence,Liberal,527
+11001,Cardigan,600,Mount Stewart,Patkai,Julius,Conservative,131
+11001,Cardigan,600,Mount Stewart,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,601,Souris,Cann,Billy,NDP-New Democratic Party,68
+11001,Cardigan,601,Souris,Doyle,Teresa,Green Party,31
+11001,Cardigan,601,Souris,MacAulay,Lawrence,Liberal,526
+11001,Cardigan,601,Souris,Patkai,Julius,Conservative,118
+11001,Cardigan,601,Souris,Squires,Christene,Christian Heritage Party,3
+11001,Cardigan,602,Central Kings & Queens,Cann,Billy,NDP-New Democratic Party,46
+11001,Cardigan,602,Central Kings & Queens,Doyle,Teresa,Green Party,33
+11001,Cardigan,602,Central Kings & Queens,MacAulay,Lawrence,Liberal,391
+11001,Cardigan,602,Central Kings & Queens,Patkai,Julius,Conservative,106
+11001,Cardigan,602,Central Kings & Queens,Squires,Christene,Christian Heritage Party,7
+11001,Cardigan,603,Stratford,Cann,Billy,NDP-New Democratic Party,106
+11001,Cardigan,603,Stratford,Doyle,Teresa,Green Party,95
+11001,Cardigan,603,Stratford,MacAulay,Lawrence,Liberal,601
+11001,Cardigan,603,Stratford,Patkai,Julius,Conservative,144
+11001,Cardigan,603,Stratford,Squires,Christene,Christian Heritage Party,11
+11001,Cardigan,604,Stratford Center,Cann,Billy,NDP-New Democratic Party,195
+11001,Cardigan,604,Stratford Center,Doyle,Teresa,Green Party,89
+11001,Cardigan,604,Stratford Center,MacAulay,Lawrence,Liberal,935
+11001,Cardigan,604,Stratford Center,Patkai,Julius,Conservative,276
+11001,Cardigan,604,Stratford Center,Squires,Christene,Christian Heritage Party,9
+11001,Cardigan,605,Montague,Cann,Billy,NDP-New Democratic Party,106
+11001,Cardigan,605,Montague,Doyle,Teresa,Green Party,29
+11001,Cardigan,605,Montague,MacAulay,Lawrence,Liberal,532
+11001,Cardigan,605,Montague,Patkai,Julius,Conservative,107
+11001,Cardigan,605,Montague,Squires,Christene,Christian Heritage Party,7
+11001,Cardigan,606,Wood Islands,Cann,Billy,NDP-New Democratic Party,59
+11001,Cardigan,606,Wood Islands,Doyle,Teresa,Green Party,34
+11001,Cardigan,606,Wood Islands,MacAulay,Lawrence,Liberal,299
+11001,Cardigan,606,Wood Islands,Patkai,Julius,Conservative,90
+11001,Cardigan,606,Wood Islands,Squires,Christene,Christian Heritage Party,12
+11001,Cardigan, S/R 1,SVR Group 1/RÉS Groupe 1,Cann,Billy,NDP-New Democratic Party,9
+11001,Cardigan, S/R 1,SVR Group 1/RÉS Groupe 1,Doyle,Teresa,Green Party,6
+11001,Cardigan, S/R 1,SVR Group 1/RÉS Groupe 1,MacAulay,Lawrence,Liberal,39
+11001,Cardigan, S/R 1,SVR Group 1/RÉS Groupe 1,Patkai,Julius,Conservative,24
+11001,Cardigan, S/R 1,SVR Group 1/RÉS Groupe 1,Squires,Christene,Christian Heritage Party,1
+11001,Cardigan, S/R 2,SVR Group 2/RÉS Groupe 2,Cann,Billy,NDP-New Democratic Party,159
+11001,Cardigan, S/R 2,SVR Group 2/RÉS Groupe 2,Doyle,Teresa,Green Party,52
+11001,Cardigan, S/R 2,SVR Group 2/RÉS Groupe 2,MacAulay,Lawrence,Liberal,643
+11001,Cardigan, S/R 2,SVR Group 2/RÉS Groupe 2,Patkai,Julius,Conservative,141
+11001,Cardigan, S/R 2,SVR Group 2/RÉS Groupe 2,Squires,Christene,Christian Heritage Party,10
+11002,Charlottetown,1,Charlottetown,Byrne,Joe,NDP-New Democratic Party,84
+11002,Charlottetown,1,Charlottetown,Casey,Sean,Liberal,264
+11002,Charlottetown,1,Charlottetown,MacMillan,Ron,Conservative,50
+11002,Charlottetown,1,Charlottetown,Viau,Becka,Green Party,22
+11002,Charlottetown,2,Charlottetown,Byrne,Joe,NDP-New Democratic Party,50
+11002,Charlottetown,2,Charlottetown,Casey,Sean,Liberal,141
+11002,Charlottetown,2,Charlottetown,MacMillan,Ron,Conservative,44
+11002,Charlottetown,2,Charlottetown,Viau,Becka,Green Party,16
+11002,Charlottetown,3,Charlottetown,Byrne,Joe,NDP-New Democratic Party,78
+11002,Charlottetown,3,Charlottetown,Casey,Sean,Liberal,197
+11002,Charlottetown,3,Charlottetown,MacMillan,Ron,Conservative,47
+11002,Charlottetown,3,Charlottetown,Viau,Becka,Green Party,12
+11002,Charlottetown,4,Charlottetown,Byrne,Joe,NDP-New Democratic Party,45
+11002,Charlottetown,4,Charlottetown,Casey,Sean,Liberal,126
+11002,Charlottetown,4,Charlottetown,MacMillan,Ron,Conservative,35
+11002,Charlottetown,4,Charlottetown,Viau,Becka,Green Party,9
+11002,Charlottetown,5,Charlottetown,Byrne,Joe,NDP-New Democratic Party,59
+11002,Charlottetown,5,Charlottetown,Casey,Sean,Liberal,180
+11002,Charlottetown,5,Charlottetown,MacMillan,Ron,Conservative,34
+11002,Charlottetown,5,Charlottetown,Viau,Becka,Green Party,15
+11002,Charlottetown,6,Charlottetown,Byrne,Joe,NDP-New Democratic Party,48
+11002,Charlottetown,6,Charlottetown,Casey,Sean,Liberal,101
+11002,Charlottetown,6,Charlottetown,MacMillan,Ron,Conservative,23
+11002,Charlottetown,6,Charlottetown,Viau,Becka,Green Party,12
+11002,Charlottetown,7,Charlottetown,Byrne,Joe,NDP-New Democratic Party,27
+11002,Charlottetown,7,Charlottetown,Casey,Sean,Liberal,65
+11002,Charlottetown,7,Charlottetown,MacMillan,Ron,Conservative,15
+11002,Charlottetown,7,Charlottetown,Viau,Becka,Green Party,3
+11002,Charlottetown,8,Charlottetown,Byrne,Joe,NDP-New Democratic Party,48
+11002,Charlottetown,8,Charlottetown,Casey,Sean,Liberal,117
+11002,Charlottetown,8,Charlottetown,MacMillan,Ron,Conservative,29
+11002,Charlottetown,8,Charlottetown,Viau,Becka,Green Party,6
+11002,Charlottetown,9,Charlottetown,Byrne,Joe,NDP-New Democratic Party,47
+11002,Charlottetown,9,Charlottetown,Casey,Sean,Liberal,105
+11002,Charlottetown,9,Charlottetown,MacMillan,Ron,Conservative,22
+11002,Charlottetown,9,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,10,Charlottetown,Byrne,Joe,NDP-New Democratic Party,40
+11002,Charlottetown,10,Charlottetown,Casey,Sean,Liberal,90
+11002,Charlottetown,10,Charlottetown,MacMillan,Ron,Conservative,25
+11002,Charlottetown,10,Charlottetown,Viau,Becka,Green Party,7
+11002,Charlottetown,11,Charlottetown,Byrne,Joe,NDP-New Democratic Party,34
+11002,Charlottetown,11,Charlottetown,Casey,Sean,Liberal,108
+11002,Charlottetown,11,Charlottetown,MacMillan,Ron,Conservative,20
+11002,Charlottetown,11,Charlottetown,Viau,Becka,Green Party,9
+11002,Charlottetown,12,Charlottetown,Byrne,Joe,NDP-New Democratic Party,33
+11002,Charlottetown,12,Charlottetown,Casey,Sean,Liberal,140
+11002,Charlottetown,12,Charlottetown,MacMillan,Ron,Conservative,31
+11002,Charlottetown,12,Charlottetown,Viau,Becka,Green Party,20
+11002,Charlottetown,13,Charlottetown,Byrne,Joe,NDP-New Democratic Party,30
+11002,Charlottetown,13,Charlottetown,Casey,Sean,Liberal,106
+11002,Charlottetown,13,Charlottetown,MacMillan,Ron,Conservative,37
+11002,Charlottetown,13,Charlottetown,Viau,Becka,Green Party,7
+11002,Charlottetown,14,Charlottetown,Byrne,Joe,NDP-New Democratic Party,39
+11002,Charlottetown,14,Charlottetown,Casey,Sean,Liberal,111
+11002,Charlottetown,14,Charlottetown,MacMillan,Ron,Conservative,29
+11002,Charlottetown,14,Charlottetown,Viau,Becka,Green Party,9
+11002,Charlottetown,15,Charlottetown,Byrne,Joe,NDP-New Democratic Party,55
+11002,Charlottetown,15,Charlottetown,Casey,Sean,Liberal,135
+11002,Charlottetown,15,Charlottetown,MacMillan,Ron,Conservative,40
+11002,Charlottetown,15,Charlottetown,Viau,Becka,Green Party,11
+11002,Charlottetown,16,Charlottetown,Byrne,Joe,NDP-New Democratic Party,32
+11002,Charlottetown,16,Charlottetown,Casey,Sean,Liberal,91
+11002,Charlottetown,16,Charlottetown,MacMillan,Ron,Conservative,48
+11002,Charlottetown,16,Charlottetown,Viau,Becka,Green Party,11
+11002,Charlottetown,17,Charlottetown,Byrne,Joe,NDP-New Democratic Party,52
+11002,Charlottetown,17,Charlottetown,Casey,Sean,Liberal,134
+11002,Charlottetown,17,Charlottetown,MacMillan,Ron,Conservative,48
+11002,Charlottetown,17,Charlottetown,Viau,Becka,Green Party,11
+11002,Charlottetown,18,Charlottetown,Byrne,Joe,NDP-New Democratic Party,70
+11002,Charlottetown,18,Charlottetown,Casey,Sean,Liberal,131
+11002,Charlottetown,18,Charlottetown,MacMillan,Ron,Conservative,16
+11002,Charlottetown,18,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,19,Charlottetown,Byrne,Joe,NDP-New Democratic Party,43
+11002,Charlottetown,19,Charlottetown,Casey,Sean,Liberal,98
+11002,Charlottetown,19,Charlottetown,MacMillan,Ron,Conservative,15
+11002,Charlottetown,19,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,20,Charlottetown,Byrne,Joe,NDP-New Democratic Party,32
+11002,Charlottetown,20,Charlottetown,Casey,Sean,Liberal,101
+11002,Charlottetown,20,Charlottetown,MacMillan,Ron,Conservative,30
+11002,Charlottetown,20,Charlottetown,Viau,Becka,Green Party,9
+11002,Charlottetown,21,Charlottetown,Byrne,Joe,NDP-New Democratic Party,45
+11002,Charlottetown,21,Charlottetown,Casey,Sean,Liberal,118
+11002,Charlottetown,21,Charlottetown,MacMillan,Ron,Conservative,23
+11002,Charlottetown,21,Charlottetown,Viau,Becka,Green Party,5
+11002,Charlottetown,22,Charlottetown,Byrne,Joe,NDP-New Democratic Party,62
+11002,Charlottetown,22,Charlottetown,Casey,Sean,Liberal,171
+11002,Charlottetown,22,Charlottetown,MacMillan,Ron,Conservative,33
+11002,Charlottetown,22,Charlottetown,Viau,Becka,Green Party,13
+11002,Charlottetown,23,Charlottetown,Byrne,Joe,NDP-New Democratic Party,48
+11002,Charlottetown,23,Charlottetown,Casey,Sean,Liberal,114
+11002,Charlottetown,23,Charlottetown,MacMillan,Ron,Conservative,15
+11002,Charlottetown,23,Charlottetown,Viau,Becka,Green Party,14
+11002,Charlottetown,24,Charlottetown,Byrne,Joe,NDP-New Democratic Party,60
+11002,Charlottetown,24,Charlottetown,Casey,Sean,Liberal,134
+11002,Charlottetown,24,Charlottetown,MacMillan,Ron,Conservative,49
+11002,Charlottetown,24,Charlottetown,Viau,Becka,Green Party,7
+11002,Charlottetown,25,Charlottetown,Byrne,Joe,NDP-New Democratic Party,28
+11002,Charlottetown,25,Charlottetown,Casey,Sean,Liberal,72
+11002,Charlottetown,25,Charlottetown,MacMillan,Ron,Conservative,19
+11002,Charlottetown,25,Charlottetown,Viau,Becka,Green Party,11
+11002,Charlottetown,26,Charlottetown,Byrne,Joe,NDP-New Democratic Party,32
+11002,Charlottetown,26,Charlottetown,Casey,Sean,Liberal,79
+11002,Charlottetown,26,Charlottetown,MacMillan,Ron,Conservative,22
+11002,Charlottetown,26,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,27,Charlottetown,Byrne,Joe,NDP-New Democratic Party,50
+11002,Charlottetown,27,Charlottetown,Casey,Sean,Liberal,120
+11002,Charlottetown,27,Charlottetown,MacMillan,Ron,Conservative,39
+11002,Charlottetown,27,Charlottetown,Viau,Becka,Green Party,15
+11002,Charlottetown,28,Charlottetown,Byrne,Joe,NDP-New Democratic Party,56
+11002,Charlottetown,28,Charlottetown,Casey,Sean,Liberal,126
+11002,Charlottetown,28,Charlottetown,MacMillan,Ron,Conservative,20
+11002,Charlottetown,28,Charlottetown,Viau,Becka,Green Party,12
+11002,Charlottetown,29,Charlottetown,Byrne,Joe,NDP-New Democratic Party,49
+11002,Charlottetown,29,Charlottetown,Casey,Sean,Liberal,92
+11002,Charlottetown,29,Charlottetown,MacMillan,Ron,Conservative,12
+11002,Charlottetown,29,Charlottetown,Viau,Becka,Green Party,13
+11002,Charlottetown,30,Charlottetown,Byrne,Joe,NDP-New Democratic Party,36
+11002,Charlottetown,30,Charlottetown,Casey,Sean,Liberal,64
+11002,Charlottetown,30,Charlottetown,MacMillan,Ron,Conservative,11
+11002,Charlottetown,30,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,31,Charlottetown,Byrne,Joe,NDP-New Democratic Party,52
+11002,Charlottetown,31,Charlottetown,Casey,Sean,Liberal,59
+11002,Charlottetown,31,Charlottetown,MacMillan,Ron,Conservative,5
+11002,Charlottetown,31,Charlottetown,Viau,Becka,Green Party,14
+11002,Charlottetown,32,Charlottetown,Byrne,Joe,NDP-New Democratic Party,35
+11002,Charlottetown,32,Charlottetown,Casey,Sean,Liberal,108
+11002,Charlottetown,32,Charlottetown,MacMillan,Ron,Conservative,27
+11002,Charlottetown,32,Charlottetown,Viau,Becka,Green Party,14
+11002,Charlottetown,33,Charlottetown,Byrne,Joe,NDP-New Democratic Party,24
+11002,Charlottetown,33,Charlottetown,Casey,Sean,Liberal,74
+11002,Charlottetown,33,Charlottetown,MacMillan,Ron,Conservative,25
+11002,Charlottetown,33,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,34,Charlottetown,Byrne,Joe,NDP-New Democratic Party,48
+11002,Charlottetown,34,Charlottetown,Casey,Sean,Liberal,121
+11002,Charlottetown,34,Charlottetown,MacMillan,Ron,Conservative,26
+11002,Charlottetown,34,Charlottetown,Viau,Becka,Green Party,12
+11002,Charlottetown,35,Charlottetown,Byrne,Joe,NDP-New Democratic Party,33
+11002,Charlottetown,35,Charlottetown,Casey,Sean,Liberal,117
+11002,Charlottetown,35,Charlottetown,MacMillan,Ron,Conservative,31
+11002,Charlottetown,35,Charlottetown,Viau,Becka,Green Party,6
+11002,Charlottetown,36,Charlottetown,Byrne,Joe,NDP-New Democratic Party,69
+11002,Charlottetown,36,Charlottetown,Casey,Sean,Liberal,181
+11002,Charlottetown,36,Charlottetown,MacMillan,Ron,Conservative,46
+11002,Charlottetown,36,Charlottetown,Viau,Becka,Green Party,14
+11002,Charlottetown,37,Charlottetown,Byrne,Joe,NDP-New Democratic Party,28
+11002,Charlottetown,37,Charlottetown,Casey,Sean,Liberal,160
+11002,Charlottetown,37,Charlottetown,MacMillan,Ron,Conservative,61
+11002,Charlottetown,37,Charlottetown,Viau,Becka,Green Party,6
+11002,Charlottetown,38,Charlottetown,Byrne,Joe,NDP-New Democratic Party,23
+11002,Charlottetown,38,Charlottetown,Casey,Sean,Liberal,102
+11002,Charlottetown,38,Charlottetown,MacMillan,Ron,Conservative,29
+11002,Charlottetown,38,Charlottetown,Viau,Becka,Green Party,3
+11002,Charlottetown,39,Charlottetown,Byrne,Joe,NDP-New Democratic Party,30
+11002,Charlottetown,39,Charlottetown,Casey,Sean,Liberal,84
+11002,Charlottetown,39,Charlottetown,MacMillan,Ron,Conservative,26
+11002,Charlottetown,39,Charlottetown,Viau,Becka,Green Party,10
+11002,Charlottetown,40,Charlottetown,Byrne,Joe,NDP-New Democratic Party,38
+11002,Charlottetown,40,Charlottetown,Casey,Sean,Liberal,57
+11002,Charlottetown,40,Charlottetown,MacMillan,Ron,Conservative,20
+11002,Charlottetown,40,Charlottetown,Viau,Becka,Green Party,7
+11002,Charlottetown,41,Charlottetown,Byrne,Joe,NDP-New Democratic Party,40
+11002,Charlottetown,41,Charlottetown,Casey,Sean,Liberal,108
+11002,Charlottetown,41,Charlottetown,MacMillan,Ron,Conservative,25
+11002,Charlottetown,41,Charlottetown,Viau,Becka,Green Party,7
+11002,Charlottetown,42,Charlottetown,Byrne,Joe,NDP-New Democratic Party,33
+11002,Charlottetown,42,Charlottetown,Casey,Sean,Liberal,134
+11002,Charlottetown,42,Charlottetown,MacMillan,Ron,Conservative,55
+11002,Charlottetown,42,Charlottetown,Viau,Becka,Green Party,11
+11002,Charlottetown,43,Charlottetown,Byrne,Joe,NDP-New Democratic Party,32
+11002,Charlottetown,43,Charlottetown,Casey,Sean,Liberal,129
+11002,Charlottetown,43,Charlottetown,MacMillan,Ron,Conservative,36
+11002,Charlottetown,43,Charlottetown,Viau,Becka,Green Party,12
+11002,Charlottetown,44,Charlottetown,Byrne,Joe,NDP-New Democratic Party,68
+11002,Charlottetown,44,Charlottetown,Casey,Sean,Liberal,194
+11002,Charlottetown,44,Charlottetown,MacMillan,Ron,Conservative,69
+11002,Charlottetown,44,Charlottetown,Viau,Becka,Green Party,19
+11002,Charlottetown,45,Charlottetown,Byrne,Joe,NDP-New Democratic Party,49
+11002,Charlottetown,45,Charlottetown,Casey,Sean,Liberal,118
+11002,Charlottetown,45,Charlottetown,MacMillan,Ron,Conservative,35
+11002,Charlottetown,45,Charlottetown,Viau,Becka,Green Party,11
+11002,Charlottetown,46,Charlottetown,Byrne,Joe,NDP-New Democratic Party,33
+11002,Charlottetown,46,Charlottetown,Casey,Sean,Liberal,124
+11002,Charlottetown,46,Charlottetown,MacMillan,Ron,Conservative,37
+11002,Charlottetown,46,Charlottetown,Viau,Becka,Green Party,1
+11002,Charlottetown,47,Charlottetown,Byrne,Joe,NDP-New Democratic Party,45
+11002,Charlottetown,47,Charlottetown,Casey,Sean,Liberal,93
+11002,Charlottetown,47,Charlottetown,MacMillan,Ron,Conservative,30
+11002,Charlottetown,47,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,48,Charlottetown,Byrne,Joe,NDP-New Democratic Party,22
+11002,Charlottetown,48,Charlottetown,Casey,Sean,Liberal,63
+11002,Charlottetown,48,Charlottetown,MacMillan,Ron,Conservative,29
+11002,Charlottetown,48,Charlottetown,Viau,Becka,Green Party,4
+11002,Charlottetown,49,Charlottetown,Byrne,Joe,NDP-New Democratic Party,44
+11002,Charlottetown,49,Charlottetown,Casey,Sean,Liberal,89
+11002,Charlottetown,49,Charlottetown,MacMillan,Ron,Conservative,24
+11002,Charlottetown,49,Charlottetown,Viau,Becka,Green Party,12
+11002,Charlottetown,50,Charlottetown,Byrne,Joe,NDP-New Democratic Party,30
+11002,Charlottetown,50,Charlottetown,Casey,Sean,Liberal,112
+11002,Charlottetown,50,Charlottetown,MacMillan,Ron,Conservative,27
+11002,Charlottetown,50,Charlottetown,Viau,Becka,Green Party,11
+11002,Charlottetown,51,Charlottetown,Byrne,Joe,NDP-New Democratic Party,36
+11002,Charlottetown,51,Charlottetown,Casey,Sean,Liberal,89
+11002,Charlottetown,51,Charlottetown,MacMillan,Ron,Conservative,20
+11002,Charlottetown,51,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,52,Charlottetown,Byrne,Joe,NDP-New Democratic Party,44
+11002,Charlottetown,52,Charlottetown,Casey,Sean,Liberal,92
+11002,Charlottetown,52,Charlottetown,MacMillan,Ron,Conservative,25
+11002,Charlottetown,52,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,53,Charlottetown,Byrne,Joe,NDP-New Democratic Party,41
+11002,Charlottetown,53,Charlottetown,Casey,Sean,Liberal,93
+11002,Charlottetown,53,Charlottetown,MacMillan,Ron,Conservative,33
+11002,Charlottetown,53,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,54,Charlottetown,Byrne,Joe,NDP-New Democratic Party,39
+11002,Charlottetown,54,Charlottetown,Casey,Sean,Liberal,81
+11002,Charlottetown,54,Charlottetown,MacMillan,Ron,Conservative,27
+11002,Charlottetown,54,Charlottetown,Viau,Becka,Green Party,9
+11002,Charlottetown,55,Charlottetown,Byrne,Joe,NDP-New Democratic Party,63
+11002,Charlottetown,55,Charlottetown,Casey,Sean,Liberal,90
+11002,Charlottetown,55,Charlottetown,MacMillan,Ron,Conservative,23
+11002,Charlottetown,55,Charlottetown,Viau,Becka,Green Party,22
+11002,Charlottetown,56,Charlottetown,Byrne,Joe,NDP-New Democratic Party,55
+11002,Charlottetown,56,Charlottetown,Casey,Sean,Liberal,68
+11002,Charlottetown,56,Charlottetown,MacMillan,Ron,Conservative,13
+11002,Charlottetown,56,Charlottetown,Viau,Becka,Green Party,19
+11002,Charlottetown,57,Charlottetown,Byrne,Joe,NDP-New Democratic Party,45
+11002,Charlottetown,57,Charlottetown,Casey,Sean,Liberal,75
+11002,Charlottetown,57,Charlottetown,MacMillan,Ron,Conservative,10
+11002,Charlottetown,57,Charlottetown,Viau,Becka,Green Party,14
+11002,Charlottetown,58,Charlottetown,Byrne,Joe,NDP-New Democratic Party,54
+11002,Charlottetown,58,Charlottetown,Casey,Sean,Liberal,80
+11002,Charlottetown,58,Charlottetown,MacMillan,Ron,Conservative,12
+11002,Charlottetown,58,Charlottetown,Viau,Becka,Green Party,20
+11002,Charlottetown,59,Charlottetown,Byrne,Joe,NDP-New Democratic Party,40
+11002,Charlottetown,59,Charlottetown,Casey,Sean,Liberal,120
+11002,Charlottetown,59,Charlottetown,MacMillan,Ron,Conservative,27
+11002,Charlottetown,59,Charlottetown,Viau,Becka,Green Party,8
+11002,Charlottetown,60,Charlottetown,Byrne,Joe,NDP-New Democratic Party,36
+11002,Charlottetown,60,Charlottetown,Casey,Sean,Liberal,99
+11002,Charlottetown,60,Charlottetown,MacMillan,Ron,Conservative,28
+11002,Charlottetown,60,Charlottetown,Viau,Becka,Green Party,21
+11002,Charlottetown,61,Charlottetown,Byrne,Joe,NDP-New Democratic Party,38
+11002,Charlottetown,61,Charlottetown,Casey,Sean,Liberal,118
+11002,Charlottetown,61,Charlottetown,MacMillan,Ron,Conservative,39
+11002,Charlottetown,61,Charlottetown,Viau,Becka,Green Party,16
+11002,Charlottetown,62,Charlottetown,Byrne,Joe,NDP-New Democratic Party,34
+11002,Charlottetown,62,Charlottetown,Casey,Sean,Liberal,139
+11002,Charlottetown,62,Charlottetown,MacMillan,Ron,Conservative,43
+11002,Charlottetown,62,Charlottetown,Viau,Becka,Green Party,22
+11002,Charlottetown,63,Charlottetown,Byrne,Joe,NDP-New Democratic Party,62
+11002,Charlottetown,63,Charlottetown,Casey,Sean,Liberal,81
+11002,Charlottetown,63,Charlottetown,MacMillan,Ron,Conservative,17
+11002,Charlottetown,63,Charlottetown,Viau,Becka,Green Party,18
+11002,Charlottetown,64,Charlottetown,Byrne,Joe,NDP-New Democratic Party,58
+11002,Charlottetown,64,Charlottetown,Casey,Sean,Liberal,91
+11002,Charlottetown,64,Charlottetown,MacMillan,Ron,Conservative,19
+11002,Charlottetown,64,Charlottetown,Viau,Becka,Green Party,19
+11002,Charlottetown,65,Charlottetown,Byrne,Joe,NDP-New Democratic Party,39
+11002,Charlottetown,65,Charlottetown,Casey,Sean,Liberal,92
+11002,Charlottetown,65,Charlottetown,MacMillan,Ron,Conservative,9
+11002,Charlottetown,65,Charlottetown,Viau,Becka,Green Party,22
+11002,Charlottetown,66,Charlottetown,Byrne,Joe,NDP-New Democratic Party,43
+11002,Charlottetown,66,Charlottetown,Casey,Sean,Liberal,70
+11002,Charlottetown,66,Charlottetown,MacMillan,Ron,Conservative,14
+11002,Charlottetown,66,Charlottetown,Viau,Becka,Green Party,17
+11002,Charlottetown,67,Charlottetown,Byrne,Joe,NDP-New Democratic Party,49
+11002,Charlottetown,67,Charlottetown,Casey,Sean,Liberal,105
+11002,Charlottetown,67,Charlottetown,MacMillan,Ron,Conservative,9
+11002,Charlottetown,67,Charlottetown,Viau,Becka,Green Party,15
+11002,Charlottetown,68,Charlottetown,Byrne,Joe,NDP-New Democratic Party,66
+11002,Charlottetown,68,Charlottetown,Casey,Sean,Liberal,105
+11002,Charlottetown,68,Charlottetown,MacMillan,Ron,Conservative,16
+11002,Charlottetown,68,Charlottetown,Viau,Becka,Green Party,26
+11002,Charlottetown,69,Charlottetown,Byrne,Joe,NDP-New Democratic Party,30
+11002,Charlottetown,69,Charlottetown,Casey,Sean,Liberal,91
+11002,Charlottetown,69,Charlottetown,MacMillan,Ron,Conservative,34
+11002,Charlottetown,69,Charlottetown,Viau,Becka,Green Party,13
+11002,Charlottetown,70,Charlottetown,Byrne,Joe,NDP-New Democratic Party,57
+11002,Charlottetown,70,Charlottetown,Casey,Sean,Liberal,106
+11002,Charlottetown,70,Charlottetown,MacMillan,Ron,Conservative,20
+11002,Charlottetown,70,Charlottetown,Viau,Becka,Green Party,19
+11002,Charlottetown,71,Charlottetown,Byrne,Joe,NDP-New Democratic Party,35
+11002,Charlottetown,71,Charlottetown,Casey,Sean,Liberal,100
+11002,Charlottetown,71,Charlottetown,MacMillan,Ron,Conservative,18
+11002,Charlottetown,71,Charlottetown,Viau,Becka,Green Party,20
+11002,Charlottetown,72,Charlottetown,Byrne,Joe,NDP-New Democratic Party,49
+11002,Charlottetown,72,Charlottetown,Casey,Sean,Liberal,79
+11002,Charlottetown,72,Charlottetown,MacMillan,Ron,Conservative,13
+11002,Charlottetown,72,Charlottetown,Viau,Becka,Green Party,9
+11002,Charlottetown,73,Charlottetown,Byrne,Joe,NDP-New Democratic Party,23
+11002,Charlottetown,73,Charlottetown,Casey,Sean,Liberal,110
+11002,Charlottetown,73,Charlottetown,MacMillan,Ron,Conservative,27
+11002,Charlottetown,73,Charlottetown,Viau,Becka,Green Party,7
+11002,Charlottetown,74,Charlottetown,Byrne,Joe,NDP-New Democratic Party,52
+11002,Charlottetown,74,Charlottetown,Casey,Sean,Liberal,106
+11002,Charlottetown,74,Charlottetown,MacMillan,Ron,Conservative,31
+11002,Charlottetown,74,Charlottetown,Viau,Becka,Green Party,15
+11002,Charlottetown,500,Mobile poll/Bureau itinérant,Byrne,Joe,NDP-New Democratic Party,29
+11002,Charlottetown,500,Mobile poll/Bureau itinérant,Casey,Sean,Liberal,60
+11002,Charlottetown,500,Mobile poll/Bureau itinérant,MacMillan,Ron,Conservative,53
+11002,Charlottetown,500,Mobile poll/Bureau itinérant,Viau,Becka,Green Party,7
+11002,Charlottetown,501,Mobile poll/Bureau itinérant,Byrne,Joe,NDP-New Democratic Party,27
+11002,Charlottetown,501,Mobile poll/Bureau itinérant,Casey,Sean,Liberal,73
+11002,Charlottetown,501,Mobile poll/Bureau itinérant,MacMillan,Ron,Conservative,35
+11002,Charlottetown,501,Mobile poll/Bureau itinérant,Viau,Becka,Green Party,7
+11002,Charlottetown,502,Mobile poll/Bureau itinérant,Byrne,Joe,NDP-New Democratic Party,15
+11002,Charlottetown,502,Mobile poll/Bureau itinérant,Casey,Sean,Liberal,84
+11002,Charlottetown,502,Mobile poll/Bureau itinérant,MacMillan,Ron,Conservative,36
+11002,Charlottetown,502,Mobile poll/Bureau itinérant,Viau,Becka,Green Party,3
+11002,Charlottetown,600,Charlottetown,Byrne,Joe,NDP-New Democratic Party,340
+11002,Charlottetown,600,Charlottetown,Casey,Sean,Liberal,959
+11002,Charlottetown,600,Charlottetown,MacMillan,Ron,Conservative,258
+11002,Charlottetown,600,Charlottetown,Viau,Becka,Green Party,64
+11002,Charlottetown,601,Charlottetown,Byrne,Joe,NDP-New Democratic Party,152
+11002,Charlottetown,601,Charlottetown,Casey,Sean,Liberal,376
+11002,Charlottetown,601,Charlottetown,MacMillan,Ron,Conservative,117
+11002,Charlottetown,601,Charlottetown,Viau,Becka,Green Party,23
+11002,Charlottetown,602,Charlottetown,Byrne,Joe,NDP-New Democratic Party,191
+11002,Charlottetown,602,Charlottetown,Casey,Sean,Liberal,385
+11002,Charlottetown,602,Charlottetown,MacMillan,Ron,Conservative,109
+11002,Charlottetown,602,Charlottetown,Viau,Becka,Green Party,35
+11002,Charlottetown,603,Charlottetown,Byrne,Joe,NDP-New Democratic Party,249
+11002,Charlottetown,603,Charlottetown,Casey,Sean,Liberal,532
+11002,Charlottetown,603,Charlottetown,MacMillan,Ron,Conservative,109
+11002,Charlottetown,603,Charlottetown,Viau,Becka,Green Party,53
+11002,Charlottetown,604,Charlottetown,Byrne,Joe,NDP-New Democratic Party,233
+11002,Charlottetown,604,Charlottetown,Casey,Sean,Liberal,614
+11002,Charlottetown,604,Charlottetown,MacMillan,Ron,Conservative,153
+11002,Charlottetown,604,Charlottetown,Viau,Becka,Green Party,55
+11002,Charlottetown, S/R 1,SVR Group 1/RÉS Groupe 1,Byrne,Joe,NDP-New Democratic Party,18
+11002,Charlottetown, S/R 1,SVR Group 1/RÉS Groupe 1,Casey,Sean,Liberal,46
+11002,Charlottetown, S/R 1,SVR Group 1/RÉS Groupe 1,MacMillan,Ron,Conservative,29
+11002,Charlottetown, S/R 1,SVR Group 1/RÉS Groupe 1,Viau,Becka,Green Party,4
+11002,Charlottetown, S/R 2,SVR Group 2/RÉS Groupe 2,Byrne,Joe,NDP-New Democratic Party,367
+11002,Charlottetown, S/R 2,SVR Group 2/RÉS Groupe 2,Casey,Sean,Liberal,643
+11002,Charlottetown, S/R 2,SVR Group 2/RÉS Groupe 2,MacMillan,Ron,Conservative,166
+11002,Charlottetown, S/R 2,SVR Group 2/RÉS Groupe 2,Viau,Becka,Green Party,87
+11003,Egmont,1,Seacow Pond,Dickieson,Herb,NDP-New Democratic Party,8
+11003,Egmont,1,Seacow Pond,Ling,Nils,Green Party,0
+11003,Egmont,1,Seacow Pond,Morrissey,Bobby,Liberal,82
+11003,Egmont,1,Seacow Pond,Shea,Gail,Conservative,47
+11003,Egmont,2,Nail Pond,Dickieson,Herb,NDP-New Democratic Party,11
+11003,Egmont,2,Nail Pond,Ling,Nils,Green Party,3
+11003,Egmont,2,Nail Pond,Morrissey,Bobby,Liberal,99
+11003,Egmont,2,Nail Pond,Shea,Gail,Conservative,49
+11003,Egmont,3,Judes Point,Dickieson,Herb,NDP-New Democratic Party,4
+11003,Egmont,3,Judes Point,Ling,Nils,Green Party,2
+11003,Egmont,3,Judes Point,Morrissey,Bobby,Liberal,88
+11003,Egmont,3,Judes Point,Shea,Gail,Conservative,35
+11003,Egmont,4,Tignish Corner,Dickieson,Herb,NDP-New Democratic Party,6
+11003,Egmont,4,Tignish Corner,Ling,Nils,Green Party,1
+11003,Egmont,4,Tignish Corner,Morrissey,Bobby,Liberal,60
+11003,Egmont,4,Tignish Corner,Shea,Gail,Conservative,47
+11003,Egmont,5,Profits Corner,Dickieson,Herb,NDP-New Democratic Party,8
+11003,Egmont,5,Profits Corner,Ling,Nils,Green Party,0
+11003,Egmont,5,Profits Corner,Morrissey,Bobby,Liberal,79
+11003,Egmont,5,Profits Corner,Shea,Gail,Conservative,47
+11003,Egmont,6,St. Felix,Dickieson,Herb,NDP-New Democratic Party,13
+11003,Egmont,6,St. Felix,Ling,Nils,Green Party,5
+11003,Egmont,6,St. Felix,Morrissey,Bobby,Liberal,123
+11003,Egmont,6,St. Felix,Shea,Gail,Conservative,77
+11003,Egmont,7,Skinners Pond,Dickieson,Herb,NDP-New Democratic Party,12
+11003,Egmont,7,Skinners Pond,Ling,Nils,Green Party,0
+11003,Egmont,7,Skinners Pond,Morrissey,Bobby,Liberal,110
+11003,Egmont,7,Skinners Pond,Shea,Gail,Conservative,64
+11003,Egmont,8,Saint-Louis,Dickieson,Herb,NDP-New Democratic Party,13
+11003,Egmont,8,Saint-Louis,Ling,Nils,Green Party,3
+11003,Egmont,8,Saint-Louis,Morrissey,Bobby,Liberal,93
+11003,Egmont,8,Saint-Louis,Shea,Gail,Conservative,62
+11003,Egmont,9,Ebbsfleet,Dickieson,Herb,NDP-New Democratic Party,18
+11003,Egmont,9,Ebbsfleet,Ling,Nils,Green Party,4
+11003,Egmont,9,Ebbsfleet,Morrissey,Bobby,Liberal,145
+11003,Egmont,9,Ebbsfleet,Shea,Gail,Conservative,42
+11003,Egmont,10,Montrose,Dickieson,Herb,NDP-New Democratic Party,25
+11003,Egmont,10,Montrose,Ling,Nils,Green Party,3
+11003,Egmont,10,Montrose,Morrissey,Bobby,Liberal,77
+11003,Egmont,10,Montrose,Shea,Gail,Conservative,68
+11003,Egmont,11,Alberton East,Dickieson,Herb,NDP-New Democratic Party,23
+11003,Egmont,11,Alberton East,Ling,Nils,Green Party,0
+11003,Egmont,11,Alberton East,Morrissey,Bobby,Liberal,76
+11003,Egmont,11,Alberton East,Shea,Gail,Conservative,54
+11003,Egmont,12,Northport,Dickieson,Herb,NDP-New Democratic Party,20
+11003,Egmont,12,Northport,Ling,Nils,Green Party,2
+11003,Egmont,12,Northport,Morrissey,Bobby,Liberal,87
+11003,Egmont,12,Northport,Shea,Gail,Conservative,56
+11003,Egmont, 13A,Alberton West,Dickieson,Herb,NDP-New Democratic Party,17
+11003,Egmont, 13A,Alberton West,Ling,Nils,Green Party,4
+11003,Egmont, 13A,Alberton West,Morrissey,Bobby,Liberal,62
+11003,Egmont, 13A,Alberton West,Shea,Gail,Conservative,52
+11003,Egmont, 13B,Mobile poll/Bureau itinérant,Dickieson,Herb,NDP-New Democratic Party,0
+11003,Egmont, 13B,Mobile poll/Bureau itinérant,Ling,Nils,Green Party,0
+11003,Egmont, 13B,Mobile poll/Bureau itinérant,Morrissey,Bobby,Liberal,0
+11003,Egmont, 13B,Mobile poll/Bureau itinérant,Shea,Gail,Conservative,0
+11003,Egmont,14,Alma,Dickieson,Herb,NDP-New Democratic Party,24
+11003,Egmont,14,Alma,Ling,Nils,Green Party,3
+11003,Egmont,14,Alma,Morrissey,Bobby,Liberal,82
+11003,Egmont,14,Alma,Shea,Gail,Conservative,56
+11003,Egmont,15,St. Lawrence,Dickieson,Herb,NDP-New Democratic Party,28
+11003,Egmont,15,St. Lawrence,Ling,Nils,Green Party,1
+11003,Egmont,15,St. Lawrence,Morrissey,Bobby,Liberal,115
+11003,Egmont,15,St. Lawrence,Shea,Gail,Conservative,53
+11003,Egmont,16,Brockton,Dickieson,Herb,NDP-New Democratic Party,42
+11003,Egmont,16,Brockton,Ling,Nils,Green Party,1
+11003,Egmont,16,Brockton,Morrissey,Bobby,Liberal,69
+11003,Egmont,16,Brockton,Shea,Gail,Conservative,56
+11003,Egmont,17,Rosebank,Dickieson,Herb,NDP-New Democratic Party,32
+11003,Egmont,17,Rosebank,Ling,Nils,Green Party,0
+11003,Egmont,17,Rosebank,Morrissey,Bobby,Liberal,42
+11003,Egmont,17,Rosebank,Shea,Gail,Conservative,61
+11003,Egmont,18,Mill River,Dickieson,Herb,NDP-New Democratic Party,37
+11003,Egmont,18,Mill River,Ling,Nils,Green Party,2
+11003,Egmont,18,Mill River,Morrissey,Bobby,Liberal,59
+11003,Egmont,18,Mill River,Shea,Gail,Conservative,99
+11003,Egmont,19,Howlan,Dickieson,Herb,NDP-New Democratic Party,63
+11003,Egmont,19,Howlan,Ling,Nils,Green Party,1
+11003,Egmont,19,Howlan,Morrissey,Bobby,Liberal,33
+11003,Egmont,19,Howlan,Shea,Gail,Conservative,41
+11003,Egmont,20,Cascumpec,Dickieson,Herb,NDP-New Democratic Party,41
+11003,Egmont,20,Cascumpec,Ling,Nils,Green Party,5
+11003,Egmont,20,Cascumpec,Morrissey,Bobby,Liberal,70
+11003,Egmont,20,Cascumpec,Shea,Gail,Conservative,67
+11003,Egmont,21,Conway,Dickieson,Herb,NDP-New Democratic Party,68
+11003,Egmont,21,Conway,Ling,Nils,Green Party,4
+11003,Egmont,21,Conway,Morrissey,Bobby,Liberal,109
+11003,Egmont,21,Conway,Shea,Gail,Conservative,49
+11003,Egmont,22,East Bideford,Dickieson,Herb,NDP-New Democratic Party,48
+11003,Egmont,22,East Bideford,Ling,Nils,Green Party,5
+11003,Egmont,22,East Bideford,Morrissey,Bobby,Liberal,98
+11003,Egmont,22,East Bideford,Shea,Gail,Conservative,55
+11003,Egmont,23,Lennox Island,Dickieson,Herb,NDP-New Democratic Party,37
+11003,Egmont,23,Lennox Island,Ling,Nils,Green Party,3
+11003,Egmont,23,Lennox Island,Morrissey,Bobby,Liberal,113
+11003,Egmont,23,Lennox Island,Shea,Gail,Conservative,6
+11003,Egmont, 24A,Port Hill,Dickieson,Herb,NDP-New Democratic Party,57
+11003,Egmont, 24A,Port Hill,Ling,Nils,Green Party,7
+11003,Egmont, 24A,Port Hill,Morrissey,Bobby,Liberal,116
+11003,Egmont, 24A,Port Hill,Shea,Gail,Conservative,67
+11003,Egmont, 24B,Mobile poll/Bureau itinérant,Dickieson,Herb,NDP-New Democratic Party,0
+11003,Egmont, 24B,Mobile poll/Bureau itinérant,Ling,Nils,Green Party,0
+11003,Egmont, 24B,Mobile poll/Bureau itinérant,Morrissey,Bobby,Liberal,0
+11003,Egmont, 24B,Mobile poll/Bureau itinérant,Shea,Gail,Conservative,0
+11003,Egmont,25,Enmore,Dickieson,Herb,NDP-New Democratic Party,56
+11003,Egmont,25,Enmore,Ling,Nils,Green Party,8
+11003,Egmont,25,Enmore,Morrissey,Bobby,Liberal,104
+11003,Egmont,25,Enmore,Shea,Gail,Conservative,50
+11003,Egmont,26,Glengarry,Dickieson,Herb,NDP-New Democratic Party,44
+11003,Egmont,26,Glengarry,Ling,Nils,Green Party,2
+11003,Egmont,26,Glengarry,Morrissey,Bobby,Liberal,56
+11003,Egmont,26,Glengarry,Shea,Gail,Conservative,46
+11003,Egmont,27,O'Leary North,Dickieson,Herb,NDP-New Democratic Party,57
+11003,Egmont,27,O'Leary North,Ling,Nils,Green Party,1
+11003,Egmont,27,O'Leary North,Morrissey,Bobby,Liberal,39
+11003,Egmont,27,O'Leary North,Shea,Gail,Conservative,33
+11003,Egmont,28,Coleman,Dickieson,Herb,NDP-New Democratic Party,43
+11003,Egmont,28,Coleman,Ling,Nils,Green Party,2
+11003,Egmont,28,Coleman,Morrissey,Bobby,Liberal,38
+11003,Egmont,28,Coleman,Shea,Gail,Conservative,28
+11003,Egmont,29,Portage,Dickieson,Herb,NDP-New Democratic Party,31
+11003,Egmont,29,Portage,Ling,Nils,Green Party,1
+11003,Egmont,29,Portage,Morrissey,Bobby,Liberal,45
+11003,Egmont,29,Portage,Shea,Gail,Conservative,50
+11003,Egmont,30,Hebron,Dickieson,Herb,NDP-New Democratic Party,27
+11003,Egmont,30,Hebron,Ling,Nils,Green Party,3
+11003,Egmont,30,Hebron,Morrissey,Bobby,Liberal,33
+11003,Egmont,30,Hebron,Shea,Gail,Conservative,46
+11003,Egmont,31,O'Leary South,Dickieson,Herb,NDP-New Democratic Party,53
+11003,Egmont,31,O'Leary South,Ling,Nils,Green Party,2
+11003,Egmont,31,O'Leary South,Morrissey,Bobby,Liberal,47
+11003,Egmont,31,O'Leary South,Shea,Gail,Conservative,25
+11003,Egmont,32,West Cape,Dickieson,Herb,NDP-New Democratic Party,47
+11003,Egmont,32,West Cape,Ling,Nils,Green Party,0
+11003,Egmont,32,West Cape,Morrissey,Bobby,Liberal,67
+11003,Egmont,32,West Cape,Shea,Gail,Conservative,67
+11003,Egmont,33,Birch Hill,Dickieson,Herb,NDP-New Democratic Party,32
+11003,Egmont,33,Birch Hill,Ling,Nils,Green Party,3
+11003,Egmont,33,Birch Hill,Morrissey,Bobby,Liberal,73
+11003,Egmont,33,Birch Hill,Shea,Gail,Conservative,32
+11003,Egmont,34,Cross River,Dickieson,Herb,NDP-New Democratic Party,24
+11003,Egmont,34,Cross River,Ling,Nils,Green Party,3
+11003,Egmont,34,Cross River,Morrissey,Bobby,Liberal,68
+11003,Egmont,34,Cross River,Shea,Gail,Conservative,25
+11003,Egmont,35,Central Lot 16,Dickieson,Herb,NDP-New Democratic Party,42
+11003,Egmont,35,Central Lot 16,Ling,Nils,Green Party,12
+11003,Egmont,35,Central Lot 16,Morrissey,Bobby,Liberal,113
+11003,Egmont,35,Central Lot 16,Shea,Gail,Conservative,36
+11003,Egmont,36,Slemon Park,Dickieson,Herb,NDP-New Democratic Party,42
+11003,Egmont,36,Slemon Park,Ling,Nils,Green Party,14
+11003,Egmont,36,Slemon Park,Morrissey,Bobby,Liberal,125
+11003,Egmont,36,Slemon Park,Shea,Gail,Conservative,43
+11003,Egmont,37,Sherbrooke,Dickieson,Herb,NDP-New Democratic Party,37
+11003,Egmont,37,Sherbrooke,Ling,Nils,Green Party,10
+11003,Egmont,37,Sherbrooke,Morrissey,Bobby,Liberal,65
+11003,Egmont,37,Sherbrooke,Shea,Gail,Conservative,44
+11003,Egmont,38,Summerside,Dickieson,Herb,NDP-New Democratic Party,44
+11003,Egmont,38,Summerside,Ling,Nils,Green Party,9
+11003,Egmont,38,Summerside,Morrissey,Bobby,Liberal,84
+11003,Egmont,38,Summerside,Shea,Gail,Conservative,46
+11003,Egmont,39,Summerside,Dickieson,Herb,NDP-New Democratic Party,42
+11003,Egmont,39,Summerside,Ling,Nils,Green Party,2
+11003,Egmont,39,Summerside,Morrissey,Bobby,Liberal,69
+11003,Egmont,39,Summerside,Shea,Gail,Conservative,27
+11003,Egmont,40,Summerside,Dickieson,Herb,NDP-New Democratic Party,37
+11003,Egmont,40,Summerside,Ling,Nils,Green Party,3
+11003,Egmont,40,Summerside,Morrissey,Bobby,Liberal,132
+11003,Egmont,40,Summerside,Shea,Gail,Conservative,62
+11003,Egmont,41,Summerside,Dickieson,Herb,NDP-New Democratic Party,30
+11003,Egmont,41,Summerside,Ling,Nils,Green Party,4
+11003,Egmont,41,Summerside,Morrissey,Bobby,Liberal,80
+11003,Egmont,41,Summerside,Shea,Gail,Conservative,39
+11003,Egmont,42,Summerside,Dickieson,Herb,NDP-New Democratic Party,20
+11003,Egmont,42,Summerside,Ling,Nils,Green Party,4
+11003,Egmont,42,Summerside,Morrissey,Bobby,Liberal,98
+11003,Egmont,42,Summerside,Shea,Gail,Conservative,54
+11003,Egmont,43,Summerside,Dickieson,Herb,NDP-New Democratic Party,36
+11003,Egmont,43,Summerside,Ling,Nils,Green Party,2
+11003,Egmont,43,Summerside,Morrissey,Bobby,Liberal,116
+11003,Egmont,43,Summerside,Shea,Gail,Conservative,70
+11003,Egmont,44,Summerside,Dickieson,Herb,NDP-New Democratic Party,40
+11003,Egmont,44,Summerside,Ling,Nils,Green Party,10
+11003,Egmont,44,Summerside,Morrissey,Bobby,Liberal,91
+11003,Egmont,44,Summerside,Shea,Gail,Conservative,39
+11003,Egmont,45,Summerside,Dickieson,Herb,NDP-New Democratic Party,40
+11003,Egmont,45,Summerside,Ling,Nils,Green Party,10
+11003,Egmont,45,Summerside,Morrissey,Bobby,Liberal,85
+11003,Egmont,45,Summerside,Shea,Gail,Conservative,35
+11003,Egmont,46,Summerside,Dickieson,Herb,NDP-New Democratic Party,38
+11003,Egmont,46,Summerside,Ling,Nils,Green Party,3
+11003,Egmont,46,Summerside,Morrissey,Bobby,Liberal,61
+11003,Egmont,46,Summerside,Shea,Gail,Conservative,27
+11003,Egmont,47,Summerside,Dickieson,Herb,NDP-New Democratic Party,18
+11003,Egmont,47,Summerside,Ling,Nils,Green Party,1
+11003,Egmont,47,Summerside,Morrissey,Bobby,Liberal,74
+11003,Egmont,47,Summerside,Shea,Gail,Conservative,58
+11003,Egmont, 48A,Summerside,Dickieson,Herb,NDP-New Democratic Party,35
+11003,Egmont, 48A,Summerside,Ling,Nils,Green Party,11
+11003,Egmont, 48A,Summerside,Morrissey,Bobby,Liberal,87
+11003,Egmont, 48A,Summerside,Shea,Gail,Conservative,47
+11003,Egmont, 48B,Summerside,Dickieson,Herb,NDP-New Democratic Party,27
+11003,Egmont, 48B,Summerside,Ling,Nils,Green Party,3
+11003,Egmont, 48B,Summerside,Morrissey,Bobby,Liberal,83
+11003,Egmont, 48B,Summerside,Shea,Gail,Conservative,59
+11003,Egmont,49,Summerside,Dickieson,Herb,NDP-New Democratic Party,28
+11003,Egmont,49,Summerside,Ling,Nils,Green Party,4
+11003,Egmont,49,Summerside,Morrissey,Bobby,Liberal,90
+11003,Egmont,49,Summerside,Shea,Gail,Conservative,64
+11003,Egmont,50,Summerside,Dickieson,Herb,NDP-New Democratic Party,34
+11003,Egmont,50,Summerside,Ling,Nils,Green Party,13
+11003,Egmont,50,Summerside,Morrissey,Bobby,Liberal,82
+11003,Egmont,50,Summerside,Shea,Gail,Conservative,45
+11003,Egmont,51,Summerside,Dickieson,Herb,NDP-New Democratic Party,38
+11003,Egmont,51,Summerside,Ling,Nils,Green Party,7
+11003,Egmont,51,Summerside,Morrissey,Bobby,Liberal,73
+11003,Egmont,51,Summerside,Shea,Gail,Conservative,30
+11003,Egmont,52,Linkletter,Dickieson,Herb,NDP-New Democratic Party,47
+11003,Egmont,52,Linkletter,Ling,Nils,Green Party,8
+11003,Egmont,52,Linkletter,Morrissey,Bobby,Liberal,92
+11003,Egmont,52,Linkletter,Shea,Gail,Conservative,35
+11003,Egmont,53,Summerside,Dickieson,Herb,NDP-New Democratic Party,48
+11003,Egmont,53,Summerside,Ling,Nils,Green Party,11
+11003,Egmont,53,Summerside,Morrissey,Bobby,Liberal,115
+11003,Egmont,53,Summerside,Shea,Gail,Conservative,54
+11003,Egmont,54,Summerside,Dickieson,Herb,NDP-New Democratic Party,45
+11003,Egmont,54,Summerside,Ling,Nils,Green Party,8
+11003,Egmont,54,Summerside,Morrissey,Bobby,Liberal,133
+11003,Egmont,54,Summerside,Shea,Gail,Conservative,38
+11003,Egmont,55,Miscouche North,Dickieson,Herb,NDP-New Democratic Party,34
+11003,Egmont,55,Miscouche North,Ling,Nils,Green Party,6
+11003,Egmont,55,Miscouche North,Morrissey,Bobby,Liberal,118
+11003,Egmont,55,Miscouche North,Shea,Gail,Conservative,50
+11003,Egmont,56,Miscouche South,Dickieson,Herb,NDP-New Democratic Party,33
+11003,Egmont,56,Miscouche South,Ling,Nils,Green Party,6
+11003,Egmont,56,Miscouche South,Morrissey,Bobby,Liberal,81
+11003,Egmont,56,Miscouche South,Shea,Gail,Conservative,43
+11003,Egmont,57,Summerside,Dickieson,Herb,NDP-New Democratic Party,30
+11003,Egmont,57,Summerside,Ling,Nils,Green Party,9
+11003,Egmont,57,Summerside,Morrissey,Bobby,Liberal,104
+11003,Egmont,57,Summerside,Shea,Gail,Conservative,62
+11003,Egmont,58,Summerside,Dickieson,Herb,NDP-New Democratic Party,40
+11003,Egmont,58,Summerside,Ling,Nils,Green Party,9
+11003,Egmont,58,Summerside,Morrissey,Bobby,Liberal,105
+11003,Egmont,58,Summerside,Shea,Gail,Conservative,41
+11003,Egmont,59,Summerside,Dickieson,Herb,NDP-New Democratic Party,31
+11003,Egmont,59,Summerside,Ling,Nils,Green Party,11
+11003,Egmont,59,Summerside,Morrissey,Bobby,Liberal,82
+11003,Egmont,59,Summerside,Shea,Gail,Conservative,40
+11003,Egmont,60,Summerside,Dickieson,Herb,NDP-New Democratic Party,28
+11003,Egmont,60,Summerside,Ling,Nils,Green Party,14
+11003,Egmont,60,Summerside,Morrissey,Bobby,Liberal,88
+11003,Egmont,60,Summerside,Shea,Gail,Conservative,45
+11003,Egmont,61,Summerside,Dickieson,Herb,NDP-New Democratic Party,46
+11003,Egmont,61,Summerside,Ling,Nils,Green Party,2
+11003,Egmont,61,Summerside,Morrissey,Bobby,Liberal,105
+11003,Egmont,61,Summerside,Shea,Gail,Conservative,28
+11003,Egmont,62,Summerside,Dickieson,Herb,NDP-New Democratic Party,47
+11003,Egmont,62,Summerside,Ling,Nils,Green Party,5
+11003,Egmont,62,Summerside,Morrissey,Bobby,Liberal,99
+11003,Egmont,62,Summerside,Shea,Gail,Conservative,59
+11003,Egmont,63,Summerside,Dickieson,Herb,NDP-New Democratic Party,37
+11003,Egmont,63,Summerside,Ling,Nils,Green Party,6
+11003,Egmont,63,Summerside,Morrissey,Bobby,Liberal,118
+11003,Egmont,63,Summerside,Shea,Gail,Conservative,53
+11003,Egmont,64,Summerside,Dickieson,Herb,NDP-New Democratic Party,44
+11003,Egmont,64,Summerside,Ling,Nils,Green Party,5
+11003,Egmont,64,Summerside,Morrissey,Bobby,Liberal,91
+11003,Egmont,64,Summerside,Shea,Gail,Conservative,20
+11003,Egmont,65,Summerside,Dickieson,Herb,NDP-New Democratic Party,30
+11003,Egmont,65,Summerside,Ling,Nils,Green Party,9
+11003,Egmont,65,Summerside,Morrissey,Bobby,Liberal,70
+11003,Egmont,65,Summerside,Shea,Gail,Conservative,41
+11003,Egmont,66,Summerside,Dickieson,Herb,NDP-New Democratic Party,34
+11003,Egmont,66,Summerside,Ling,Nils,Green Party,19
+11003,Egmont,66,Summerside,Morrissey,Bobby,Liberal,75
+11003,Egmont,66,Summerside,Shea,Gail,Conservative,48
+11003,Egmont, 67A,Summerside,Dickieson,Herb,NDP-New Democratic Party,30
+11003,Egmont, 67A,Summerside,Ling,Nils,Green Party,6
+11003,Egmont, 67A,Summerside,Morrissey,Bobby,Liberal,75
+11003,Egmont, 67A,Summerside,Shea,Gail,Conservative,28
+11003,Egmont, 67B,Summerside,Dickieson,Herb,NDP-New Democratic Party,30
+11003,Egmont, 67B,Summerside,Ling,Nils,Green Party,10
+11003,Egmont, 67B,Summerside,Morrissey,Bobby,Liberal,70
+11003,Egmont, 67B,Summerside,Shea,Gail,Conservative,29
+11003,Egmont,68,St. Nicholas,Dickieson,Herb,NDP-New Democratic Party,19
+11003,Egmont,68,St. Nicholas,Ling,Nils,Green Party,7
+11003,Egmont,68,St. Nicholas,Morrissey,Bobby,Liberal,71
+11003,Egmont,68,St. Nicholas,Shea,Gail,Conservative,32
+11003,Egmont,69,Wellington,Dickieson,Herb,NDP-New Democratic Party,42
+11003,Egmont,69,Wellington,Ling,Nils,Green Party,12
+11003,Egmont,69,Wellington,Morrissey,Bobby,Liberal,123
+11003,Egmont,69,Wellington,Shea,Gail,Conservative,45
+11003,Egmont,70,St. Philip,Dickieson,Herb,NDP-New Democratic Party,23
+11003,Egmont,70,St. Philip,Ling,Nils,Green Party,3
+11003,Egmont,70,St. Philip,Morrissey,Bobby,Liberal,112
+11003,Egmont,70,St. Philip,Shea,Gail,Conservative,43
+11003,Egmont,71,Urbainville,Dickieson,Herb,NDP-New Democratic Party,44
+11003,Egmont,71,Urbainville,Ling,Nils,Green Party,7
+11003,Egmont,71,Urbainville,Morrissey,Bobby,Liberal,123
+11003,Egmont,71,Urbainville,Shea,Gail,Conservative,61
+11003,Egmont,72,Maximeville,Dickieson,Herb,NDP-New Democratic Party,37
+11003,Egmont,72,Maximeville,Ling,Nils,Green Party,4
+11003,Egmont,72,Maximeville,Morrissey,Bobby,Liberal,148
+11003,Egmont,72,Maximeville,Shea,Gail,Conservative,55
+11003,Egmont,73,Union Corner,Dickieson,Herb,NDP-New Democratic Party,32
+11003,Egmont,73,Union Corner,Ling,Nils,Green Party,10
+11003,Egmont,73,Union Corner,Morrissey,Bobby,Liberal,103
+11003,Egmont,73,Union Corner,Shea,Gail,Conservative,54
+11003,Egmont, 500A,Mobile poll/Bureau itinérant,Dickieson,Herb,NDP-New Democratic Party,14
+11003,Egmont, 500A,Mobile poll/Bureau itinérant,Ling,Nils,Green Party,2
+11003,Egmont, 500A,Mobile poll/Bureau itinérant,Morrissey,Bobby,Liberal,47
+11003,Egmont, 500A,Mobile poll/Bureau itinérant,Shea,Gail,Conservative,32
+11003,Egmont, 500B,Mobile poll/Bureau itinérant,Dickieson,Herb,NDP-New Democratic Party,5
+11003,Egmont, 500B,Mobile poll/Bureau itinérant,Ling,Nils,Green Party,3
+11003,Egmont, 500B,Mobile poll/Bureau itinérant,Morrissey,Bobby,Liberal,45
+11003,Egmont, 500B,Mobile poll/Bureau itinérant,Shea,Gail,Conservative,42
+11003,Egmont,501,Mobile poll/Bureau itinérant,Dickieson,Herb,NDP-New Democratic Party,20
+11003,Egmont,501,Mobile poll/Bureau itinérant,Ling,Nils,Green Party,2
+11003,Egmont,501,Mobile poll/Bureau itinérant,Morrissey,Bobby,Liberal,60
+11003,Egmont,501,Mobile poll/Bureau itinérant,Shea,Gail,Conservative,85
+11003,Egmont,600,Tignish,Dickieson,Herb,NDP-New Democratic Party,57
+11003,Egmont,600,Tignish,Ling,Nils,Green Party,13
+11003,Egmont,600,Tignish,Morrissey,Bobby,Liberal,569
+11003,Egmont,600,Tignish,Shea,Gail,Conservative,378
+11003,Egmont,601,Alberton,Dickieson,Herb,NDP-New Democratic Party,166
+11003,Egmont,601,Alberton,Ling,Nils,Green Party,13
+11003,Egmont,601,Alberton,Morrissey,Bobby,Liberal,454
+11003,Egmont,601,Alberton,Shea,Gail,Conservative,431
+11003,Egmont,602,O'Leary,Dickieson,Herb,NDP-New Democratic Party,344
+11003,Egmont,602,O'Leary,Ling,Nils,Green Party,6
+11003,Egmont,602,O'Leary,Morrissey,Bobby,Liberal,320
+11003,Egmont,602,O'Leary,Shea,Gail,Conservative,309
+11003,Egmont,603,Tyne Valley,Dickieson,Herb,NDP-New Democratic Party,75
+11003,Egmont,603,Tyne Valley,Ling,Nils,Green Party,12
+11003,Egmont,603,Tyne Valley,Morrissey,Bobby,Liberal,161
+11003,Egmont,603,Tyne Valley,Shea,Gail,Conservative,92
+11003,Egmont,604,Wellington,Dickieson,Herb,NDP-New Democratic Party,83
+11003,Egmont,604,Wellington,Ling,Nils,Green Party,12
+11003,Egmont,604,Wellington,Morrissey,Bobby,Liberal,262
+11003,Egmont,604,Wellington,Shea,Gail,Conservative,125
+11003,Egmont,605,Miscouche,Dickieson,Herb,NDP-New Democratic Party,86
+11003,Egmont,605,Miscouche,Ling,Nils,Green Party,9
+11003,Egmont,605,Miscouche,Morrissey,Bobby,Liberal,226
+11003,Egmont,605,Miscouche,Shea,Gail,Conservative,100
+11003,Egmont,606,Summerside,Dickieson,Herb,NDP-New Democratic Party,173
+11003,Egmont,606,Summerside,Ling,Nils,Green Party,16
+11003,Egmont,606,Summerside,Morrissey,Bobby,Liberal,467
+11003,Egmont,606,Summerside,Shea,Gail,Conservative,257
+11003,Egmont,607,Summerside,Dickieson,Herb,NDP-New Democratic Party,171
+11003,Egmont,607,Summerside,Ling,Nils,Green Party,24
+11003,Egmont,607,Summerside,Morrissey,Bobby,Liberal,511
+11003,Egmont,607,Summerside,Shea,Gail,Conservative,305
+11003,Egmont, S/R 1,SVR Group 1/RÉS Groupe 1,Dickieson,Herb,NDP-New Democratic Party,9
+11003,Egmont, S/R 1,SVR Group 1/RÉS Groupe 1,Ling,Nils,Green Party,2
+11003,Egmont, S/R 1,SVR Group 1/RÉS Groupe 1,Morrissey,Bobby,Liberal,34
+11003,Egmont, S/R 1,SVR Group 1/RÉS Groupe 1,Shea,Gail,Conservative,36
+11003,Egmont, S/R 2,SVR Group 2/RÉS Groupe 2,Dickieson,Herb,NDP-New Democratic Party,366
+11003,Egmont, S/R 2,SVR Group 2/RÉS Groupe 2,Ling,Nils,Green Party,52
+11003,Egmont, S/R 2,SVR Group 2/RÉS Groupe 2,Morrissey,Bobby,Liberal,799
+11003,Egmont, S/R 2,SVR Group 2/RÉS Groupe 2,Shea,Gail,Conservative,452
+11004,Malpeque,1,Cavendish,Easter,Wayne,Liberal,218
+11004,Malpeque,1,Cavendish,Hayward,Leah-Jane,NDP-New Democratic Party,31
+11004,Malpeque,1,Cavendish,Lund,Lynne,Green Party,14
+11004,Malpeque,1,Cavendish,Stewart,Stephen,Conservative,43
+11004,Malpeque,2,North Rustico,Easter,Wayne,Liberal,157
+11004,Malpeque,2,North Rustico,Hayward,Leah-Jane,NDP-New Democratic Party,28
+11004,Malpeque,2,North Rustico,Lund,Lynne,Green Party,8
+11004,Malpeque,2,North Rustico,Stewart,Stephen,Conservative,42
+11004,Malpeque,3,Brackley Beach,Easter,Wayne,Liberal,129
+11004,Malpeque,3,Brackley Beach,Hayward,Leah-Jane,NDP-New Democratic Party,31
+11004,Malpeque,3,Brackley Beach,Lund,Lynne,Green Party,17
+11004,Malpeque,3,Brackley Beach,Stewart,Stephen,Conservative,35
+11004,Malpeque,4,Brackley Point,Easter,Wayne,Liberal,162
+11004,Malpeque,4,Brackley Point,Hayward,Leah-Jane,NDP-New Democratic Party,30
+11004,Malpeque,4,Brackley Point,Lund,Lynne,Green Party,17
+11004,Malpeque,4,Brackley Point,Stewart,Stephen,Conservative,34
+11004,Malpeque,5,Stanhope Beach,Easter,Wayne,Liberal,177
+11004,Malpeque,5,Stanhope Beach,Hayward,Leah-Jane,NDP-New Democratic Party,40
+11004,Malpeque,5,Stanhope Beach,Lund,Lynne,Green Party,9
+11004,Malpeque,5,Stanhope Beach,Stewart,Stephen,Conservative,54
+11004,Malpeque,6,Covehead Road,Easter,Wayne,Liberal,224
+11004,Malpeque,6,Covehead Road,Hayward,Leah-Jane,NDP-New Democratic Party,41
+11004,Malpeque,6,Covehead Road,Lund,Lynne,Green Party,18
+11004,Malpeque,6,Covehead Road,Stewart,Stephen,Conservative,49
+11004,Malpeque,7,Harrington,Easter,Wayne,Liberal,119
+11004,Malpeque,7,Harrington,Hayward,Leah-Jane,NDP-New Democratic Party,43
+11004,Malpeque,7,Harrington,Lund,Lynne,Green Party,13
+11004,Malpeque,7,Harrington,Stewart,Stephen,Conservative,23
+11004,Malpeque,8,Suffolk,Easter,Wayne,Liberal,185
+11004,Malpeque,8,Suffolk,Hayward,Leah-Jane,NDP-New Democratic Party,34
+11004,Malpeque,8,Suffolk,Lund,Lynne,Green Party,12
+11004,Malpeque,8,Suffolk,Stewart,Stephen,Conservative,32
+11004,Malpeque,9,Union,Easter,Wayne,Liberal,103
+11004,Malpeque,9,Union,Hayward,Leah-Jane,NDP-New Democratic Party,31
+11004,Malpeque,9,Union,Lund,Lynne,Green Party,9
+11004,Malpeque,9,Union,Stewart,Stephen,Conservative,44
+11004,Malpeque,10,Marshfield,Easter,Wayne,Liberal,105
+11004,Malpeque,10,Marshfield,Hayward,Leah-Jane,NDP-New Democratic Party,15
+11004,Malpeque,10,Marshfield,Lund,Lynne,Green Party,9
+11004,Malpeque,10,Marshfield,Stewart,Stephen,Conservative,25
+11004,Malpeque,11,North Winsloe,Easter,Wayne,Liberal,123
+11004,Malpeque,11,North Winsloe,Hayward,Leah-Jane,NDP-New Democratic Party,35
+11004,Malpeque,11,North Winsloe,Lund,Lynne,Green Party,17
+11004,Malpeque,11,North Winsloe,Stewart,Stephen,Conservative,39
+11004,Malpeque,12,Royalty Junction,Easter,Wayne,Liberal,53
+11004,Malpeque,12,Royalty Junction,Hayward,Leah-Jane,NDP-New Democratic Party,14
+11004,Malpeque,12,Royalty Junction,Lund,Lynne,Green Party,6
+11004,Malpeque,12,Royalty Junction,Stewart,Stephen,Conservative,18
+11004,Malpeque,13,Oyster Bed Bridge,Easter,Wayne,Liberal,180
+11004,Malpeque,13,Oyster Bed Bridge,Hayward,Leah-Jane,NDP-New Democratic Party,28
+11004,Malpeque,13,Oyster Bed Bridge,Lund,Lynne,Green Party,10
+11004,Malpeque,13,Oyster Bed Bridge,Stewart,Stephen,Conservative,39
+11004,Malpeque,14,Winsloe,Easter,Wayne,Liberal,106
+11004,Malpeque,14,Winsloe,Hayward,Leah-Jane,NDP-New Democratic Party,16
+11004,Malpeque,14,Winsloe,Lund,Lynne,Green Party,12
+11004,Malpeque,14,Winsloe,Stewart,Stephen,Conservative,35
+11004,Malpeque,15,Springvale,Easter,Wayne,Liberal,150
+11004,Malpeque,15,Springvale,Hayward,Leah-Jane,NDP-New Democratic Party,25
+11004,Malpeque,15,Springvale,Lund,Lynne,Green Party,18
+11004,Malpeque,15,Springvale,Stewart,Stephen,Conservative,45
+11004,Malpeque,16,South Rustico,Easter,Wayne,Liberal,144
+11004,Malpeque,16,South Rustico,Hayward,Leah-Jane,NDP-New Democratic Party,24
+11004,Malpeque,16,South Rustico,Lund,Lynne,Green Party,19
+11004,Malpeque,16,South Rustico,Stewart,Stephen,Conservative,49
+11004,Malpeque,17,Wheatley River,Easter,Wayne,Liberal,133
+11004,Malpeque,17,Wheatley River,Hayward,Leah-Jane,NDP-New Democratic Party,35
+11004,Malpeque,17,Wheatley River,Lund,Lynne,Green Party,17
+11004,Malpeque,17,Wheatley River,Stewart,Stephen,Conservative,42
+11004,Malpeque,18,St. Anns,Easter,Wayne,Liberal,129
+11004,Malpeque,18,St. Anns,Hayward,Leah-Jane,NDP-New Democratic Party,19
+11004,Malpeque,18,St. Anns,Lund,Lynne,Green Party,22
+11004,Malpeque,18,St. Anns,Stewart,Stephen,Conservative,42
+11004,Malpeque,19,Hunter River,Easter,Wayne,Liberal,138
+11004,Malpeque,19,Hunter River,Hayward,Leah-Jane,NDP-New Democratic Party,20
+11004,Malpeque,19,Hunter River,Lund,Lynne,Green Party,18
+11004,Malpeque,19,Hunter River,Stewart,Stephen,Conservative,39
+11004,Malpeque,20,Stanley Bridge,Easter,Wayne,Liberal,183
+11004,Malpeque,20,Stanley Bridge,Hayward,Leah-Jane,NDP-New Democratic Party,21
+11004,Malpeque,20,Stanley Bridge,Lund,Lynne,Green Party,22
+11004,Malpeque,20,Stanley Bridge,Stewart,Stephen,Conservative,40
+11004,Malpeque,21,Irishtown,Easter,Wayne,Liberal,133
+11004,Malpeque,21,Irishtown,Hayward,Leah-Jane,NDP-New Democratic Party,19
+11004,Malpeque,21,Irishtown,Lund,Lynne,Green Party,20
+11004,Malpeque,21,Irishtown,Stewart,Stephen,Conservative,29
+11004,Malpeque,22,Baltic,Easter,Wayne,Liberal,145
+11004,Malpeque,22,Baltic,Hayward,Leah-Jane,NDP-New Democratic Party,17
+11004,Malpeque,22,Baltic,Lund,Lynne,Green Party,35
+11004,Malpeque,22,Baltic,Stewart,Stephen,Conservative,47
+11004,Malpeque,23,Indian River,Easter,Wayne,Liberal,135
+11004,Malpeque,23,Indian River,Hayward,Leah-Jane,NDP-New Democratic Party,13
+11004,Malpeque,23,Indian River,Lund,Lynne,Green Party,21
+11004,Malpeque,23,Indian River,Stewart,Stephen,Conservative,40
+11004,Malpeque,24,Southwest River,Easter,Wayne,Liberal,110
+11004,Malpeque,24,Southwest River,Hayward,Leah-Jane,NDP-New Democratic Party,24
+11004,Malpeque,24,Southwest River,Lund,Lynne,Green Party,22
+11004,Malpeque,24,Southwest River,Stewart,Stephen,Conservative,32
+11004,Malpeque,25,Clermont,Easter,Wayne,Liberal,126
+11004,Malpeque,25,Clermont,Hayward,Leah-Jane,NDP-New Democratic Party,31
+11004,Malpeque,25,Clermont,Lund,Lynne,Green Party,29
+11004,Malpeque,25,Clermont,Stewart,Stephen,Conservative,21
+11004,Malpeque,26,Kensington,Easter,Wayne,Liberal,89
+11004,Malpeque,26,Kensington,Hayward,Leah-Jane,NDP-New Democratic Party,20
+11004,Malpeque,26,Kensington,Lund,Lynne,Green Party,15
+11004,Malpeque,26,Kensington,Stewart,Stephen,Conservative,11
+11004,Malpeque,27,Kelvin Grove North,Easter,Wayne,Liberal,119
+11004,Malpeque,27,Kelvin Grove North,Hayward,Leah-Jane,NDP-New Democratic Party,18
+11004,Malpeque,27,Kelvin Grove North,Lund,Lynne,Green Party,36
+11004,Malpeque,27,Kelvin Grove North,Stewart,Stephen,Conservative,41
+11004,Malpeque,28,New Annan,Easter,Wayne,Liberal,88
+11004,Malpeque,28,New Annan,Hayward,Leah-Jane,NDP-New Democratic Party,19
+11004,Malpeque,28,New Annan,Lund,Lynne,Green Party,16
+11004,Malpeque,28,New Annan,Stewart,Stephen,Conservative,31
+11004,Malpeque,29,Kensington,Easter,Wayne,Liberal,114
+11004,Malpeque,29,Kensington,Hayward,Leah-Jane,NDP-New Democratic Party,14
+11004,Malpeque,29,Kensington,Lund,Lynne,Green Party,24
+11004,Malpeque,29,Kensington,Stewart,Stephen,Conservative,31
+11004,Malpeque,30,Travellers Rest,Easter,Wayne,Liberal,152
+11004,Malpeque,30,Travellers Rest,Hayward,Leah-Jane,NDP-New Democratic Party,34
+11004,Malpeque,30,Travellers Rest,Lund,Lynne,Green Party,18
+11004,Malpeque,30,Travellers Rest,Stewart,Stephen,Conservative,39
+11004,Malpeque,31,Founds Mills,Easter,Wayne,Liberal,159
+11004,Malpeque,31,Founds Mills,Hayward,Leah-Jane,NDP-New Democratic Party,22
+11004,Malpeque,31,Founds Mills,Lund,Lynne,Green Party,27
+11004,Malpeque,31,Founds Mills,Stewart,Stephen,Conservative,50
+11004,Malpeque,32,Clinton ,Easter,Wayne,Liberal,97
+11004,Malpeque,32,Clinton ,Hayward,Leah-Jane,NDP-New Democratic Party,12
+11004,Malpeque,32,Clinton ,Lund,Lynne,Green Party,24
+11004,Malpeque,32,Clinton ,Stewart,Stephen,Conservative,22
+11004,Malpeque,33,Mill Valley,Easter,Wayne,Liberal,146
+11004,Malpeque,33,Mill Valley,Hayward,Leah-Jane,NDP-New Democratic Party,19
+11004,Malpeque,33,Mill Valley,Lund,Lynne,Green Party,11
+11004,Malpeque,33,Mill Valley,Stewart,Stephen,Conservative,47
+11004,Malpeque,34,North Bedeque,Easter,Wayne,Liberal,175
+11004,Malpeque,34,North Bedeque,Hayward,Leah-Jane,NDP-New Democratic Party,29
+11004,Malpeque,34,North Bedeque,Lund,Lynne,Green Party,11
+11004,Malpeque,34,North Bedeque,Stewart,Stephen,Conservative,51
+11004,Malpeque,35,Breadalbane,Easter,Wayne,Liberal,148
+11004,Malpeque,35,Breadalbane,Hayward,Leah-Jane,NDP-New Democratic Party,18
+11004,Malpeque,35,Breadalbane,Lund,Lynne,Green Party,30
+11004,Malpeque,35,Breadalbane,Stewart,Stephen,Conservative,44
+11004,Malpeque,36,Fredericton,Easter,Wayne,Liberal,110
+11004,Malpeque,36,Fredericton,Hayward,Leah-Jane,NDP-New Democratic Party,29
+11004,Malpeque,36,Fredericton,Lund,Lynne,Green Party,21
+11004,Malpeque,36,Fredericton,Stewart,Stephen,Conservative,23
+11004,Malpeque,37,Darlington,Easter,Wayne,Liberal,109
+11004,Malpeque,37,Darlington,Hayward,Leah-Jane,NDP-New Democratic Party,11
+11004,Malpeque,37,Darlington,Lund,Lynne,Green Party,14
+11004,Malpeque,37,Darlington,Stewart,Stephen,Conservative,40
+11004,Malpeque,38,Hampshire,Easter,Wayne,Liberal,91
+11004,Malpeque,38,Hampshire,Hayward,Leah-Jane,NDP-New Democratic Party,19
+11004,Malpeque,38,Hampshire,Lund,Lynne,Green Party,20
+11004,Malpeque,38,Hampshire,Stewart,Stephen,Conservative,49
+11004,Malpeque,39,Warren Grove,Easter,Wayne,Liberal,109
+11004,Malpeque,39,Warren Grove,Hayward,Leah-Jane,NDP-New Democratic Party,20
+11004,Malpeque,39,Warren Grove,Lund,Lynne,Green Party,18
+11004,Malpeque,39,Warren Grove,Stewart,Stephen,Conservative,11
+11004,Malpeque,40,Milton Station,Easter,Wayne,Liberal,133
+11004,Malpeque,40,Milton Station,Hayward,Leah-Jane,NDP-New Democratic Party,33
+11004,Malpeque,40,Milton Station,Lund,Lynne,Green Party,13
+11004,Malpeque,40,Milton Station,Stewart,Stephen,Conservative,37
+11004,Malpeque,41,East Wiltshire,Easter,Wayne,Liberal,105
+11004,Malpeque,41,East Wiltshire,Hayward,Leah-Jane,NDP-New Democratic Party,27
+11004,Malpeque,41,East Wiltshire,Lund,Lynne,Green Party,10
+11004,Malpeque,41,East Wiltshire,Stewart,Stephen,Conservative,23
+11004,Malpeque,42,Cornwall,Easter,Wayne,Liberal,109
+11004,Malpeque,42,Cornwall,Hayward,Leah-Jane,NDP-New Democratic Party,23
+11004,Malpeque,42,Cornwall,Lund,Lynne,Green Party,26
+11004,Malpeque,42,Cornwall,Stewart,Stephen,Conservative,32
+11004,Malpeque,43,Cornwall,Easter,Wayne,Liberal,110
+11004,Malpeque,43,Cornwall,Hayward,Leah-Jane,NDP-New Democratic Party,35
+11004,Malpeque,43,Cornwall,Lund,Lynne,Green Party,26
+11004,Malpeque,43,Cornwall,Stewart,Stephen,Conservative,50
+11004,Malpeque,44,Chateau Estates,Easter,Wayne,Liberal,103
+11004,Malpeque,44,Chateau Estates,Hayward,Leah-Jane,NDP-New Democratic Party,21
+11004,Malpeque,44,Chateau Estates,Lund,Lynne,Green Party,17
+11004,Malpeque,44,Chateau Estates,Stewart,Stephen,Conservative,22
+11004,Malpeque,45,Candlelight Park,Easter,Wayne,Liberal,119
+11004,Malpeque,45,Candlelight Park,Hayward,Leah-Jane,NDP-New Democratic Party,24
+11004,Malpeque,45,Candlelight Park,Lund,Lynne,Green Party,21
+11004,Malpeque,45,Candlelight Park,Stewart,Stephen,Conservative,36
+11004,Malpeque,46,Elliot Park,Easter,Wayne,Liberal,171
+11004,Malpeque,46,Elliot Park,Hayward,Leah-Jane,NDP-New Democratic Party,43
+11004,Malpeque,46,Elliot Park,Lund,Lynne,Green Party,23
+11004,Malpeque,46,Elliot Park,Stewart,Stephen,Conservative,44
+11004,Malpeque,47,York Point,Easter,Wayne,Liberal,86
+11004,Malpeque,47,York Point,Hayward,Leah-Jane,NDP-New Democratic Party,13
+11004,Malpeque,47,York Point,Lund,Lynne,Green Party,12
+11004,Malpeque,47,York Point,Stewart,Stephen,Conservative,25
+11004,Malpeque,48,Primrose Point,Easter,Wayne,Liberal,159
+11004,Malpeque,48,Primrose Point,Hayward,Leah-Jane,NDP-New Democratic Party,37
+11004,Malpeque,48,Primrose Point,Lund,Lynne,Green Party,14
+11004,Malpeque,48,Primrose Point,Stewart,Stephen,Conservative,37
+11004,Malpeque,49,Cornwall,Easter,Wayne,Liberal,99
+11004,Malpeque,49,Cornwall,Hayward,Leah-Jane,NDP-New Democratic Party,25
+11004,Malpeque,49,Cornwall,Lund,Lynne,Green Party,17
+11004,Malpeque,49,Cornwall,Stewart,Stephen,Conservative,29
+11004,Malpeque,50,Cornwall,Easter,Wayne,Liberal,96
+11004,Malpeque,50,Cornwall,Hayward,Leah-Jane,NDP-New Democratic Party,27
+11004,Malpeque,50,Cornwall,Lund,Lynne,Green Party,11
+11004,Malpeque,50,Cornwall,Stewart,Stephen,Conservative,23
+11004,Malpeque,51,Hyde Point,Easter,Wayne,Liberal,117
+11004,Malpeque,51,Hyde Point,Hayward,Leah-Jane,NDP-New Democratic Party,30
+11004,Malpeque,51,Hyde Point,Lund,Lynne,Green Party,14
+11004,Malpeque,51,Hyde Point,Stewart,Stephen,Conservative,43
+11004,Malpeque,52,Kingston,Easter,Wayne,Liberal,99
+11004,Malpeque,52,Kingston,Hayward,Leah-Jane,NDP-New Democratic Party,32
+11004,Malpeque,52,Kingston,Lund,Lynne,Green Party,29
+11004,Malpeque,52,Kingston,Stewart,Stephen,Conservative,32
+11004,Malpeque,53,Stathgartney,Easter,Wayne,Liberal,126
+11004,Malpeque,53,Stathgartney,Hayward,Leah-Jane,NDP-New Democratic Party,26
+11004,Malpeque,53,Stathgartney,Lund,Lynne,Green Party,30
+11004,Malpeque,53,Stathgartney,Stewart,Stephen,Conservative,41
+11004,Malpeque,54,Emyvale,Easter,Wayne,Liberal,168
+11004,Malpeque,54,Emyvale,Hayward,Leah-Jane,NDP-New Democratic Party,21
+11004,Malpeque,54,Emyvale,Lund,Lynne,Green Party,39
+11004,Malpeque,54,Emyvale,Stewart,Stephen,Conservative,44
+11004,Malpeque,55,Green Bay,Easter,Wayne,Liberal,158
+11004,Malpeque,55,Green Bay,Hayward,Leah-Jane,NDP-New Democratic Party,28
+11004,Malpeque,55,Green Bay,Lund,Lynne,Green Party,28
+11004,Malpeque,55,Green Bay,Stewart,Stephen,Conservative,40
+11004,Malpeque,56,Maplewood,Easter,Wayne,Liberal,126
+11004,Malpeque,56,Maplewood,Hayward,Leah-Jane,NDP-New Democratic Party,22
+11004,Malpeque,56,Maplewood,Lund,Lynne,Green Party,39
+11004,Malpeque,56,Maplewood,Stewart,Stephen,Conservative,33
+11004,Malpeque,57,Victoria,Easter,Wayne,Liberal,158
+11004,Malpeque,57,Victoria,Hayward,Leah-Jane,NDP-New Democratic Party,21
+11004,Malpeque,57,Victoria,Lund,Lynne,Green Party,34
+11004,Malpeque,57,Victoria,Stewart,Stephen,Conservative,36
+11004,Malpeque,58,Kinkora,Easter,Wayne,Liberal,158
+11004,Malpeque,58,Kinkora,Hayward,Leah-Jane,NDP-New Democratic Party,20
+11004,Malpeque,58,Kinkora,Lund,Lynne,Green Party,8
+11004,Malpeque,58,Kinkora,Stewart,Stephen,Conservative,25
+11004,Malpeque,59,Maple Plains,Easter,Wayne,Liberal,101
+11004,Malpeque,59,Maple Plains,Hayward,Leah-Jane,NDP-New Democratic Party,17
+11004,Malpeque,59,Maple Plains,Lund,Lynne,Green Party,18
+11004,Malpeque,59,Maple Plains,Stewart,Stephen,Conservative,38
+11004,Malpeque,60,South Freetown,Easter,Wayne,Liberal,153
+11004,Malpeque,60,South Freetown,Hayward,Leah-Jane,NDP-New Democratic Party,14
+11004,Malpeque,60,South Freetown,Lund,Lynne,Green Party,18
+11004,Malpeque,60,South Freetown,Stewart,Stephen,Conservative,30
+11004,Malpeque,61,Central Bedeque,Easter,Wayne,Liberal,127
+11004,Malpeque,61,Central Bedeque,Hayward,Leah-Jane,NDP-New Democratic Party,26
+11004,Malpeque,61,Central Bedeque,Lund,Lynne,Green Party,22
+11004,Malpeque,61,Central Bedeque,Stewart,Stephen,Conservative,51
+11004,Malpeque,62,Lower Bedeque,Easter,Wayne,Liberal,179
+11004,Malpeque,62,Lower Bedeque,Hayward,Leah-Jane,NDP-New Democratic Party,25
+11004,Malpeque,62,Lower Bedeque,Lund,Lynne,Green Party,29
+11004,Malpeque,62,Lower Bedeque,Stewart,Stephen,Conservative,48
+11004,Malpeque,63,Cape Traverse,Easter,Wayne,Liberal,138
+11004,Malpeque,63,Cape Traverse,Hayward,Leah-Jane,NDP-New Democratic Party,18
+11004,Malpeque,63,Cape Traverse,Lund,Lynne,Green Party,23
+11004,Malpeque,63,Cape Traverse,Stewart,Stephen,Conservative,41
+11004,Malpeque,64,North Carleton,Easter,Wayne,Liberal,160
+11004,Malpeque,64,North Carleton,Hayward,Leah-Jane,NDP-New Democratic Party,20
+11004,Malpeque,64,North Carleton,Lund,Lynne,Green Party,20
+11004,Malpeque,64,North Carleton,Stewart,Stephen,Conservative,36
+11004,Malpeque,65,Borden-Carleton,Easter,Wayne,Liberal,115
+11004,Malpeque,65,Borden-Carleton,Hayward,Leah-Jane,NDP-New Democratic Party,16
+11004,Malpeque,65,Borden-Carleton,Lund,Lynne,Green Party,15
+11004,Malpeque,65,Borden-Carleton,Stewart,Stephen,Conservative,50
+11004,Malpeque,66,Tryon,Easter,Wayne,Liberal,149
+11004,Malpeque,66,Tryon,Hayward,Leah-Jane,NDP-New Democratic Party,11
+11004,Malpeque,66,Tryon,Lund,Lynne,Green Party,22
+11004,Malpeque,66,Tryon,Stewart,Stephen,Conservative,42
+11004,Malpeque,67,Argyle Shore,Easter,Wayne,Liberal,143
+11004,Malpeque,67,Argyle Shore,Hayward,Leah-Jane,NDP-New Democratic Party,22
+11004,Malpeque,67,Argyle Shore,Lund,Lynne,Green Party,37
+11004,Malpeque,67,Argyle Shore,Stewart,Stephen,Conservative,54
+11004,Malpeque,68,South Melville,Easter,Wayne,Liberal,107
+11004,Malpeque,68,South Melville,Hayward,Leah-Jane,NDP-New Democratic Party,24
+11004,Malpeque,68,South Melville,Lund,Lynne,Green Party,52
+11004,Malpeque,68,South Melville,Stewart,Stephen,Conservative,44
+11004,Malpeque,69,Rocky Point,Easter,Wayne,Liberal,168
+11004,Malpeque,69,Rocky Point,Hayward,Leah-Jane,NDP-New Democratic Party,29
+11004,Malpeque,69,Rocky Point,Lund,Lynne,Green Party,39
+11004,Malpeque,69,Rocky Point,Stewart,Stephen,Conservative,43
+11004,Malpeque,70,New Dominion,Easter,Wayne,Liberal,157
+11004,Malpeque,70,New Dominion,Hayward,Leah-Jane,NDP-New Democratic Party,24
+11004,Malpeque,70,New Dominion,Lund,Lynne,Green Party,27
+11004,Malpeque,70,New Dominion,Stewart,Stephen,Conservative,50
+11004,Malpeque,71,Rice Point,Easter,Wayne,Liberal,209
+11004,Malpeque,71,Rice Point,Hayward,Leah-Jane,NDP-New Democratic Party,23
+11004,Malpeque,71,Rice Point,Lund,Lynne,Green Party,31
+11004,Malpeque,71,Rice Point,Stewart,Stephen,Conservative,46
+11004,Malpeque,500,Mobile poll/Bureau itinérant,Easter,Wayne,Liberal,26
+11004,Malpeque,500,Mobile poll/Bureau itinérant,Hayward,Leah-Jane,NDP-New Democratic Party,5
+11004,Malpeque,500,Mobile poll/Bureau itinérant,Lund,Lynne,Green Party,0
+11004,Malpeque,500,Mobile poll/Bureau itinérant,Stewart,Stephen,Conservative,14
+11004,Malpeque,501,Mobile poll/Bureau itinérant,Easter,Wayne,Liberal,32
+11004,Malpeque,501,Mobile poll/Bureau itinérant,Hayward,Leah-Jane,NDP-New Democratic Party,3
+11004,Malpeque,501,Mobile poll/Bureau itinérant,Lund,Lynne,Green Party,3
+11004,Malpeque,501,Mobile poll/Bureau itinérant,Stewart,Stephen,Conservative,22
+11004,Malpeque,600,Kensington East,Easter,Wayne,Liberal,436
+11004,Malpeque,600,Kensington East,Hayward,Leah-Jane,NDP-New Democratic Party,51
+11004,Malpeque,600,Kensington East,Lund,Lynne,Green Party,77
+11004,Malpeque,600,Kensington East,Stewart,Stephen,Conservative,127
+11004,Malpeque,601,Hunter River,Easter,Wayne,Liberal,499
+11004,Malpeque,601,Hunter River,Hayward,Leah-Jane,NDP-New Democratic Party,111
+11004,Malpeque,601,Hunter River,Lund,Lynne,Green Party,62
+11004,Malpeque,601,Hunter River,Stewart,Stephen,Conservative,162
+11004,Malpeque,602,Brackley,Easter,Wayne,Liberal,593
+11004,Malpeque,602,Brackley,Hayward,Leah-Jane,NDP-New Democratic Party,115
+11004,Malpeque,602,Brackley,Lund,Lynne,Green Party,52
+11004,Malpeque,602,Brackley,Stewart,Stephen,Conservative,146
+11004,Malpeque,603,Kensington West,Easter,Wayne,Liberal,424
+11004,Malpeque,603,Kensington West,Hayward,Leah-Jane,NDP-New Democratic Party,91
+11004,Malpeque,603,Kensington West,Lund,Lynne,Green Party,65
+11004,Malpeque,603,Kensington West,Stewart,Stephen,Conservative,160
+11004,Malpeque,604,Kinkora,Easter,Wayne,Liberal,357
+11004,Malpeque,604,Kinkora,Hayward,Leah-Jane,NDP-New Democratic Party,64
+11004,Malpeque,604,Kinkora,Lund,Lynne,Green Party,52
+11004,Malpeque,604,Kinkora,Stewart,Stephen,Conservative,122
+11004,Malpeque,605,New Haven,Easter,Wayne,Liberal,409
+11004,Malpeque,605,New Haven,Hayward,Leah-Jane,NDP-New Democratic Party,76
+11004,Malpeque,605,New Haven,Lund,Lynne,Green Party,95
+11004,Malpeque,605,New Haven,Stewart,Stephen,Conservative,123
+11004,Malpeque,606,Cornwall East,Easter,Wayne,Liberal,508
+11004,Malpeque,606,Cornwall East,Hayward,Leah-Jane,NDP-New Democratic Party,105
+11004,Malpeque,606,Cornwall East,Lund,Lynne,Green Party,47
+11004,Malpeque,606,Cornwall East,Stewart,Stephen,Conservative,172
+11004,Malpeque,607,Cornwall West,Easter,Wayne,Liberal,329
+11004,Malpeque,607,Cornwall West,Hayward,Leah-Jane,NDP-New Democratic Party,35
+11004,Malpeque,607,Cornwall West,Lund,Lynne,Green Party,36
+11004,Malpeque,607,Cornwall West,Stewart,Stephen,Conservative,77
+11004,Malpeque, S/R 1,SVR Group 1/RÉS Groupe 1,Easter,Wayne,Liberal,33
+11004,Malpeque, S/R 1,SVR Group 1/RÉS Groupe 1,Hayward,Leah-Jane,NDP-New Democratic Party,3
+11004,Malpeque, S/R 1,SVR Group 1/RÉS Groupe 1,Lund,Lynne,Green Party,5
+11004,Malpeque, S/R 1,SVR Group 1/RÉS Groupe 1,Stewart,Stephen,Conservative,19
+11004,Malpeque, S/R 2,SVR Group 2/RÉS Groupe 2,Easter,Wayne,Liberal,725
+11004,Malpeque, S/R 2,SVR Group 2/RÉS Groupe 2,Hayward,Leah-Jane,NDP-New Democratic Party,124
+11004,Malpeque, S/R 2,SVR Group 2/RÉS Groupe 2,Lund,Lynne,Green Party,109
+11004,Malpeque, S/R 2,SVR Group 2/RÉS Groupe 2,Stewart,Stephen,Conservative,150
