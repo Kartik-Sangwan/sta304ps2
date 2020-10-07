@@ -88,8 +88,10 @@ i <- 0
 required <- 1000
 parties <- c("The Liberal Party of Canada", "The Conservative Party of Canada", "The Green Party of Canada", "New Democratic Party (NDP)", "Bloc Québécois", "People's Party of Canada (PPC)", "I voted for an independent politician", "None of the above")
 
+result1 <- matrix(NA, nrow = 13, ncol = 8, dimnames = list(provinces_row_numbers$province,parties))
+?rbind()
 # taking a simple random sample 10 times for the stratas
-for (j in 1:5){
+#for (j in 1:5){
   print(paste("sample number:", j))
   i <- 0
   p <- 1
@@ -97,13 +99,13 @@ for (j in 1:5){
     print(paste("new strata for:", provinces_row_numbers$province[p]))
     prop = (ind - i)/total
     rows <- sample_n(survey_data[i:ind,], ceiling(prop*required))
-    print(rows %>% count(last_election_vote))
-    
+    temp <- rows %>% count(current_preference)
+    print(temp)
     i = ind
     p <- p + 1
   }
   
-}
+#}
 
 
 ```
