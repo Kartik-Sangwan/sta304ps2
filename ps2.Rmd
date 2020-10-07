@@ -92,8 +92,8 @@ parties <- c("The Liberal Party of Canada", "The Conservative Party of Canada", 
 result1 <- matrix(NA, nrow = 13, ncol = 8, dimnames = list(provinces_row_numbers$province,parties))
 res <- data.frame(Alberta = "", BritishColumbia = "" ,Manitoba = "",NewBrunswick="", NewfoundlandandLabrador = "", NorthwestTerritories = "", NovaScotia = "", Nunavut= "", Ontario = "", PrinceEdwardIsland = "", Quebec="", Saskatchewan="", Yukon="")
 
-?sample_n()
 # taking a simple random sample 10 times for the stratas
+# we have used proportional allocation method using CES dataset as the population
 #for (j in 1:5){
   print(paste("sample number:", j))
   i <- 0
