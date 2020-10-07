@@ -69,6 +69,7 @@ survey_responses <- data.frame(gender = sample(c("Male", "Female", "LGBTQ"), tot
 # JUST NEED TO FIGURE OUR THE WEIGHTS FOR THE UPCOMING ELECTINOS WHICH IS THE MAIN ONE
 # shuffling the rows 
 survey_data <- survey_responses[sample(nrow(survey_responses)),]
+survey_data <- survey_data %>% mutate(id = row_number())
 head(survey_data)
 
 # We can do some raw population data exploration like population paramters shaped of graphs e.t.c
@@ -78,7 +79,8 @@ head(survey_data)
 
 survey_data <- arrange(survey_data, province)
 # Store the row number where each of the provinces last entry is. This corresponds to one strats. 
-provinces_row_numbers <- data.frame(province = c("Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland and Labrador" , "Northwest Territories", "Nova Scotia", "Nunavut", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan", "Yukon"), row_num = c(4481, 8835, 10526, 11384, 12017, 12042, 13043, 13069, 27877, 28045, 36444, 37784, 37822))
+last_rows <- survey_data %>% arrange(province) %>% group_by(province) %>% summarise_all(last)
+provinces_row_numbers <- data.frame(province = c("Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland and Labrador" , "Northwest Territories", "Nova Scotia", "Nunavut", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan", "Yukon"), row_num = last_rows$id)
 
 # doing simple random sampling in each of the 13 strata 
 i <- 0
