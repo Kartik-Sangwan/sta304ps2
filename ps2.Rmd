@@ -86,7 +86,7 @@ provinces_row_numbers <- data.frame(province = c("Alberta", "British Columbia", 
 # doing simple random sampling in each of the 13 strata 
 i <- 0
 # total number of stratified SRS
-required <- 1000
+required <- 3000
 parties <- c("The Liberal Party of Canada", "The Conservative Party of Canada", "The Green Party of Canada", "New Democratic Party (NDP)", "Bloc Québécois", "People's Party of Canada (PPC)", "I voted for an independent politician", "None of the above")
 
 result1 <- matrix(NA, nrow = 13, ncol = 8, dimnames = list(provinces_row_numbers$province,parties))
