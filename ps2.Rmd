@@ -1,6 +1,7 @@
 ---
-title: "Petit Poll Monthly Update for October 2020 On the Current Political Trend."
+title: "Liberal Party Of Canada is Leading the Polls for October 2020."
 author: "Tanmay Gupta, Kartik Sangwan, Neelansh Visen, Wajahat Naqvi"
+Github Repo: https://github.com/Kartik-Sangwan/sta304ps2/
 date: "8 October 2020"
 output: pdf_document
 ---
@@ -16,7 +17,7 @@ library(cowplot)
 library(cesR)
 ```
 # Executive Summary 
-Executive Summary: "The aim of this project is to provide monthly polling updates to the Liberal Party of Canada. We sent out surveys via Facebook and through ads on online newspapers’ websites, articles, and apps to learn about Canadians’ opinions of the various political parties in Canada. We then formed our main sample (that is, the sample from which we drew inferences) through stratified sampling with proportional allocation. This means that we divided the respondents into various study groups. Respondents  were stratified according to homogenous factors such as geography, income category, age group and then, randomly sampled to create a mini sample dataset in which we study the proportions of votes that each party secured.
+The aim of this project is to provide monthly polling updates to the Liberal Party of Canada. We sent out surveys via Facebook and through ads on online newspapers’ websites, articles, and apps to learn about Canadians’ opinions of the various political parties in Canada. We then formed our main sample (that is, the sample from which we drew inferences) through stratified sampling with proportional allocation. This means that we divided the respondents into various study groups. Respondents  were stratified according to homogenous factors such as geography, income category, age group and then, randomly sampled to create a mini sample dataset in which we study the proportions of votes that each party secured.
 
 The results derived from this analysis will provide the Liberal Party of Canada a clear understanding of underrepresented voter groups, potential swing voters, and areas across the country where future Liberal votes may reside. Identifying underrepresented voter sects will have implications for the current Liberal Party of Canada, who will look to recapture the majority government and popular vote conceded during the 2019 federal election. Furthermore, these findings will aid the Liberal Party in its efforts to pave future campaign trails, identify rally and speech locations, and shape future policy decisions. 
 
@@ -105,8 +106,10 @@ survey_data <- survey_responses[sample(nrow(survey_responses)),]
 head(survey_data)
 ```
 
+# Survey Methodology
+
 **Survey methodology:**
-	We had a look at the above-mentioned June 2019 Annual List of the National Register of Electors. As also mentioned above, this list also stores the address of each elector. We divided the list into 13 smaller lists, all of which were subsets of this list. Every smaller list corresponded to a particular province or territory in Canada. In other words, each of these smaller lists stored addresses in one particular province or territory only. We made 13 smaller lists because there are 13 provinces and territories in Canada. 
+	We had a look at the above-mentioned June 2019 Annual List of the National Register of Electors. As also mentioned above, this list also stores the address of each elector. For pur survey to have a higher rate We divided the list into 13 smaller lists, all of which were subsets of this list. Every smaller list corresponded to a particular province or territory in Canada. In other words, each of these smaller lists stored addresses in one particular province or territory only. We made 13 smaller lists because there are 13 provinces and territories in Canada. 
 
 **Motivation for the sampling methodology:**
 We used stratified sampling with proportional allocation. We used this method to obtain a representative estimate of the proportion of registered Canadian voters who would be willing to vote for the Liberal Party of Canada if they had the chance to do so today. To briefly explain our method, we grouped respondents on the basis of the province or territory in which they reside. Since there are 13 provinces and territories in Canada, we formed 13 such groups, or strata. For every stratum, we knew the stratum population size (we considered the recent population of each province or territory to be a rough approximation to the corresponding stratum population size). We then set the stratum size proportional to the stratum population size so for example if 20% of the registered voters in Canada reside in Ontario and 40% of them reside in Manitoba, then Manitoba’s stratum sample size would be twice as much as Ontario’s (we assumed that the data in the June 2019 annual list of the national register of electors were arranged randomly). Once we found our stratum sample sizes, we carried out simple random sampling without replacement in every stratum. 
@@ -114,8 +117,8 @@ We used stratified sampling with proportional allocation. We used this method to
 **Sampling Methodology:**
 We considered the cesR dataset a our entire population dataset which consists of 37822 entries for different individuals. The we created a suitable weights matrix for all the question that are present in our survey. The weights were derived from real-world cesR dataset and past election results. The weights used in the future political preference column were past elections results with certain amount of error which was derived from the normal distribution. Then we created a dataset for our survey responses using simple random sampling for each survey question for every individual. Thus we obtained a survey population dataset to work off of. After that we studied the following different factors:
 
-**Stratification by province:** As mentioned earlier all the survey population was divided into 13 disjoint and heterogeneous groups which are the 13 different provinces in Canada. However as sampling of the entire population is not possible, we resorted to simple random sampling within each of the stratum and number of SRS responses were proportional to the number of entries for that province in the cesR dataset of the actual population of Canada. Thus, number of votes in each province was a good estimator for the proportions of votes that each party would receive if elections were held.
-**Stratification by income and age:** Similar to the province stratification we divided the population into income stratas that were in our survey and used proportional allocation to take simple random samples from that subset of the stratum population according to the population size of each of the income category in the cesR dataset.
+*Stratification by province:* mentioned earlier all the survey population was divided into 13 disjoint and heterogeneous groups which are the 13 different provinces in Canada. However as sampling of the entire population is not possible, we resorted to simple random sampling within each of the stratum and number of SRS responses were proportional to the number of entries for that province in the cesR dataset of the actual population of Canada. Thus, number of votes in each province was a good estimator for the proportions of votes that each party would receive if elections were held.
+*Stratification by income and age:* Similar to the province stratification we divided the population into income strata that were in our survey and used proportional allocation to take simple random samples from that subset of the stratum population according to the population size of each of the income category in the cesR dataset.
 
 # STRATIFICATION ON BASIS OF DIFFERENT VARIABLES
 ```{r warning=FALSE, message=FALSE, include=FALSE}
@@ -284,6 +287,7 @@ HistData2
 HistData3
 HistData4
 ```
+
 # Results and Discussion
 
 After running multiple simulations over the 3,000 survey responses, we were able to stratify our results based on Province, Income and Age.
@@ -293,6 +297,9 @@ After running multiple simulations over the 3,000 survey responses, we were able
 2. *Income:* Around 90% of the survey respondents didn’t prefer to reveal their income levels. Among the rest, most of the responses lied in the $30,000 - 60,0000 and $60,000 - $90,000 range. Similar to stratification by province, Liberals had the most vote share among most of the provinces followed by Conservatives and NDP. [Fig3]
 
 3. *Age:* Overall, the survey managed to get responses equally from all age groups except from the group of 71 and over. This was expected as older people tend to use the internet less as compared to younger generations. Under this stratification,  Liberals had the most vote share among most of the provinces followed by Conservatives and People’s Party of Canada. [Fig4]
+
+4. Overall, most of our results indicate that the Liberal party is leading the polls by a 5-15% margin in most of the provinces and they are also the favorite when it comes to stratification by age or income.
+
 
 # Weakness and Future Explorations
 
@@ -306,11 +313,14 @@ There are several limitations pertaining to our survey which includes issues rel
 
 3. The survey only includes basic personal information such as age and income. It doesn’t include any lurking variables such as ethnicity, immigrant status which could simulate different results.
 
-**Next Steps:**
+# Next Steps
 
 We have not carried out hypothesis testing to test our hypotheses regarding the proportion of all Canadian voters who would vote for the Liberal Party today. This means that we have not tried to use statistical methods to see if our estimates apply to all Canadian voters. Our results might not be accurate because of the fact that we sampled Canadian voters who either logged in to Facebook or read an online newspaper in September 2020. Therefore, not all Canadian voters were equally likely to be sampled. This does mean that our results are unlikely to extend to all Canadian voters.In the future, another statistician should consider taking our observations and testing the hypotheses mentioned above, that is, trying to see if our estimates actually apply to all Canadian voters. 
 
-# Appendix and Survey Images
+# Appendix and Survey Images and Link
+
+Link to the survey: https://forms.gle/HSzWtC6eCkHKE12R7
+
 ![alt text here](./pg1.png)
 ![alt text here](./pg7.png)
 ![alt text here](./pg2.png)
