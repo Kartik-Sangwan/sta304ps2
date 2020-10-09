@@ -321,13 +321,13 @@ We have not carried out hypothesis testing to test our hypotheses regarding the 
 
 Link to the survey: https://forms.gle/HSzWtC6eCkHKE12R7
 
-![alt text here](./pg1.png)
-![alt text here](./pg7.png)
-![alt text here](./pg2.png)
-![alt text here](./pg3.png)
-![alt text here](./pg5.png)
-![alt text here](./pg6.png)
-![alt text here](./pg4.png)
+![alt text here](./images/pg1.png)
+![alt text here](./images/pg7.png)
+![alt text here](./images/pg2.png)
+![alt text here](./images/pg3.png)
+![alt text here](./images/pg5.png)
+![alt text here](./images/pg6.png)
+![alt text here](./images/pg4.png)
 
 
 # References
