@@ -1,7 +1,6 @@
 ---
 title: "Liberal Party Of Canada is Leading the Polls for October 2020."
 author: "Tanmay Gupta, Kartik Sangwan, Neelansh Visen, Wajahat Naqvi"
-Github Repo: https://github.com/Kartik-Sangwan/sta304ps2/
 date: "8 October 2020"
 output: pdf_document
 ---
@@ -16,6 +15,11 @@ library(tidyverse)
 library(cowplot)
 library(cesR)
 ```
+
+# Github repo
+
+https://github.com/Kartik-Sangwan/sta304ps2/
+
 # Executive Summary 
 The aim of this project is to provide monthly polling updates to the Liberal Party of Canada. We sent out surveys via Facebook and through ads on online newspapers’ websites, articles, and apps to learn about Canadians’ opinions of the various political parties in Canada. We then formed our main sample (that is, the sample from which we drew inferences) through stratified sampling with proportional allocation. This means that we divided the respondents into various study groups. Respondents  were stratified according to homogenous factors such as geography, income category, age group and then, randomly sampled to create a mini sample dataset in which we study the proportions of votes that each party secured.
 
@@ -45,6 +49,7 @@ The provinces or territories in which respondents reside
 We used the National Register of Electors (the Register). The Register is a permanent, continually-updated database of Canadians who are qualified to vote in federal elections and referendums. It contains the name, address, gender and date of birth of each elector, as well as a unique identifier to help track changes to the elector's record. Since we know the address, we will print the survey and mail them (through a postal service) to all the addresses. The June 2019 annual lists contain registered Canadian voters. Among these voters, approximately 91% are listed at their current residential address.
 
 **Survey design:**
+
 The survey is short and has questions that every registered Canadian voter will have the answers to. Respondents are told that their data will only be anlayzed and that it will not be distributed in any way. They are also given the assurance that their responses cannot be traced back to them in any way to make them feel at ease. This is done because the questions we are asking (income level, area of residence, and opinions on political parties) need personal information that respondents may be reluctant to share for obvious reasons. The survey is a written form that must be completed. Respondents will need a pen or pencil to choose their responses from a set of responses. The survey is a short one and should be easily completed by respondents in about a minute. 
 
 **Motivations for the survey design: **
@@ -109,16 +114,24 @@ head(survey_data)
 # Survey Methodology
 
 **Survey methodology:**
-	We had a look at the above-mentioned June 2019 Annual List of the National Register of Electors. As also mentioned above, this list also stores the address of each elector. For pur survey to have a higher rate We divided the list into 13 smaller lists, all of which were subsets of this list. Every smaller list corresponded to a particular province or territory in Canada. In other words, each of these smaller lists stored addresses in one particular province or territory only. We made 13 smaller lists because there are 13 provinces and territories in Canada. 
+
+We had a look at the above-mentioned June 2019 Annual List of the National Register of Electors. As also mentioned above, this list also stores the address of each elector. For pur survey to have a higher rate We divided the list into 13 smaller lists, all of which were subsets of this list. Every smaller list corresponded to a particular province or territory in Canada. In other words, each of these smaller lists stored addresses in one particular province or territory only. We made 13 smaller lists because there are 13 provinces and territories in Canada. 
 
 **Motivation for the sampling methodology:**
+
 We used stratified sampling with proportional allocation. We used this method to obtain a representative estimate of the proportion of registered Canadian voters who would be willing to vote for the Liberal Party of Canada if they had the chance to do so today. To briefly explain our method, we grouped respondents on the basis of the province or territory in which they reside. Since there are 13 provinces and territories in Canada, we formed 13 such groups, or strata. For every stratum, we knew the stratum population size (we considered the recent population of each province or territory to be a rough approximation to the corresponding stratum population size). We then set the stratum size proportional to the stratum population size so for example if 20% of the registered voters in Canada reside in Ontario and 40% of them reside in Manitoba, then Manitoba’s stratum sample size would be twice as much as Ontario’s (we assumed that the data in the June 2019 annual list of the national register of electors were arranged randomly). Once we found our stratum sample sizes, we carried out simple random sampling without replacement in every stratum. 
 
 **Sampling Methodology:**
+
 We considered the cesR dataset a our entire population dataset which consists of 37822 entries for different individuals. The we created a suitable weights matrix for all the question that are present in our survey. The weights were derived from real-world cesR dataset and past election results. The weights used in the future political preference column were past elections results with certain amount of error which was derived from the normal distribution. Then we created a dataset for our survey responses using simple random sampling for each survey question for every individual. Thus we obtained a survey population dataset to work off of. After that we studied the following different factors:
 
-*Stratification by province:* mentioned earlier all the survey population was divided into 13 disjoint and heterogeneous groups which are the 13 different provinces in Canada. However as sampling of the entire population is not possible, we resorted to simple random sampling within each of the stratum and number of SRS responses were proportional to the number of entries for that province in the cesR dataset of the actual population of Canada. Thus, number of votes in each province was a good estimator for the proportions of votes that each party would receive if elections were held.
-*Stratification by income and age:* Similar to the province stratification we divided the population into income strata that were in our survey and used proportional allocation to take simple random samples from that subset of the stratum population according to the population size of each of the income category in the cesR dataset.
+**Stratification by province:**
+
+mentioned earlier all the survey population was divided into 13 disjoint and heterogeneous groups which are the 13 different provinces in Canada. However as sampling of the entire population is not possible, we resorted to simple random sampling within each of the stratum and number of SRS responses were proportional to the number of entries for that province in the cesR dataset of the actual population of Canada. Thus, number of votes in each province was a good estimator for the proportions of votes that each party would receive if elections were held.
+
+**Stratification by income and age:**
+
+Similar to the province stratification we divided the population into income strata that were in our survey and used proportional allocation to take simple random samples from that subset of the stratum population according to the population size of each of the income category in the cesR dataset.
 
 # STRATIFICATION ON BASIS OF DIFFERENT VARIABLES
 ```{r warning=FALSE, message=FALSE, include=FALSE}
@@ -301,7 +314,7 @@ After running multiple simulations over the 3,000 survey responses, we were able
 4. Overall, most of our results indicate that the Liberal party is leading the polls by a 5-15% margin in most of the provinces and they are also the favorite when it comes to stratification by age or income.
 
 
-# Weakness and Future Explorations
+# Weaknesses 
 
 *Limitations in Survey and Design:*
 
