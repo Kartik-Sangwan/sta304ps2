@@ -11,14 +11,11 @@ output: html_document
 set.seed(1001)
 # knitr::opts_chunk$set(echo = TRUE)
 # install.packages("tidyverse")
-# install.packages("cowplot")
 # install.packages("remotes")
 # remotes::install_github("hodgettsp/cesR")
 library(tidyverse)
 library(cowplot)
-library(visdat)
 library(cesR)
-library(skimr)
 ```
 
 # Introduction
@@ -51,13 +48,21 @@ We did not directly ask for the political party respondents would vote for if th
 
 
 # Data
-This study is based on a survey that was created by Petit Poll to collect information from voters across Canada. Due to time and budget constraints, the dataset used in the analyses below consists of simulated voter responses based on data collected in the 2019 CES report. Each survey answer was assigned a weight or a probability of being selected, proportional to the responses given in the CES dataset. As for sample size, of the 37822 respondents in the CES dataset, 3000 were selected to the Petit Poll dataset, stratified by province. 
+This study is based on a survey that was created by Petit Poll to collect information from voters across Canada. Due to time and budget constraints, the dataset used in the analyses below consists of simulated voter responses based on data collected in the 2019 CES report. Each survey answer was assigned a weight or a probability of being selected, proportional to the responses given in the CES dataset. As for sample size, of the 37822 respondents in the CES dataset, 3000 were selected to the Petit Poll dataset, stratified by province.
+
+In this analyis we introduce cesR, which is an R package that allows users to more easily use the Canadian Election Study (CES). The package has functions that download the CES surveys, add the questions that were asked, quickly preview a CES survey, and finally to obtain an opinionated subset of the 2019 survey. This package is useful in both teaching and research by enhancing both reproducibility and accessibility.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
+# Fetching the cesR data
 cesR::get_decon()
+# number of rows in data
 total <- 37822
+
+# Extracting the required columns and cleaning the data
 age <- decon %>% select("yob") %>% mutate(age = 2020 - as.numeric(as.character(yob)))
 age_cat <- age %>% mutate(age_group = case_when(age >= 18 & age <= 30 ~ 1, age >= 31 & age <= 40 ~ 2, age >= 41 & age <= 50 ~ 3, age >= 51 & age <= 60 ~ 4, age >= 61 & age <= 70 ~ 5, age>=71 ~ 6))
+
+# Finding the probability weights for the different columns according to the cesR dataset as our population.
 gender_weights <- decon %>% count(gender)
 province_weights <- decon %>% count(province_territory)
 education_weights <- decon %>% count(education)
@@ -65,19 +70,19 @@ education_weights <- c(522, 7514, 12096, 12908, 4782)
 income_cat_weights <- decon %>% count(income_cat) %>% add_row("income_cat" = "prefer not to answer", n = 28453)
 income_cat_weights <- income_cat_weights[-c(9, 10),]
 age_group_weights <- age_cat %>% count(age_group)
-# fix this later
+
 first_time_voter_weight <- c(ceiling(0.2*total), ceiling(0.8*total) - 1)
 decided_to_vote <- c(29346, 8476)
-# fake improve later on
+
 ethnicity <- c(ceiling(0.05*total)-1, ceiling(0.12*total)-1, ceiling(0.04*total)-1, ceiling(0.26*total), ceiling(0.34*total), ceiling(0.09*total), ceiling(0.1*total))
 # from wikipedia
 last_election_vote <- data.frame(party = c("The Liberal Party of Canada", "The Conservative Party of Canada", "The Green Party of Canada", "New Democratic Party (NDP)", "Bloc Québécois", "People's Party of Canada (PPC)", "I voted for an independent politician", "None of the above"), votes = c(ceiling(0.45*total)-1, ceiling(0.35*total)-1, ceiling(0.009*total)-1, ceiling(0.07*total), ceiling(0.09*total), ceiling(0.01*total), ceiling(0.01*total)-1, ceiling(0.011*total)))
 
-temp <- rnorm(8, 0, 2)
+errors <- rnorm(8, 0, 2)
+# calculated based on error
 preference_weights <- c(0.36, 0.24, 0.1, 0.08, 0.02, 0.16, 0.02, 0.02)
 
-# convert rep to SRS
-# creating the dataset from our survey using real world parameters and cesR data
+# creating the survey dataset from our survey using real world parameters and cesR data
 survey_responses <- data.frame(gender = sample(c("Male", "Female", "LGBTQ"), total, replace = TRUE, prob = gender_weights$n), 
                                age = sample(c("18-30", "31-40", "41-50", "51-60", "61-70", "71+"), total, TRUE,age_group_weights$n), 
                                first_time_vote = sample(c("YES", "NO"),total, TRUE, first_time_voter_weight),
@@ -122,7 +127,7 @@ provinces_row_numbers <- data.frame(province = c("Alberta", "British Columbia", 
 i <- 0
 # total number of stratified SRS
 required <- 3000
-
+# result dataframe for the province stratification
 province_strat_res <- data.frame(gender = "", 
                   age = "", 
                   first_time_vote = "",
@@ -139,12 +144,15 @@ province_strat_res <- data.frame(gender = "",
 set.seed(1001)
 i <- 0
 p <- 1
+# iterating over the provinces 
 for (ind in provinces_row_numbers$row_num){
   print(paste("new strata for:", provinces_row_numbers$province[p]))
+  # proportions for the number of simple random samples
   prop = (ind - i)/37822
+  # random rows from the dataset
   rows <- sample_n(survey_data[i:ind,], ceiling(prop*required))
+  # appending to the dataset
   province_strat_res <- rbind(province_strat_res, rows)
-  print(rows)
   i = ind
   p <- p + 1
 }
@@ -245,118 +253,70 @@ age_strat_res = age_strat_res[-1,]
 
 # Plots and Analysis
 
-```{r include=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
-
-# Graphs for each province
-
-alberta <- read.csv("data/Alberta.csv")
-alberta_plot <- ggplot(alberta, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Alberta")+ylab("Votes")+xlab("Party")
-
-bc <- read.csv("data/British Columbia.csv")
-bc_plot <- ggplot(bc, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="British Columbia")+ylab("Votes")+xlab("Party")
-
-manitoba <- read.csv("data/Manitoba.csv")
-manitoba_plot <- ggplot(manitoba, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Manitoba")+ylab("Votes")+xlab("Party")
-
-new_brunswick <- read.csv("data/New Brunswick.csv")
-new_brunswick_plot <- ggplot(new_brunswick, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="New Brunswick")+ylab("Votes")+xlab("Party")
-
-nl <- read.csv("data/Newfoundland and Labrador.csv")
-nl_plot <- ggplot(nl, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Newfoundland and Labrador")+ylab("Votes")+xlab("Party")
-
-nova <- read.csv("data/Nova Scotia.csv")
-nova_plot <- ggplot(nova, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Nova Scotia")+ylab("Votes")+xlab("Party")
-
-northwest <- read.csv("data/Northwest Territories.csv")
-northwest_plot <- ggplot(northwest, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Northwest Territories")+ylab("Votes")+xlab("Party")
-
-nunavut <- read.csv("data/Nunavut.csv")
-nunavut_plot <- ggplot(nunavut, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Nunavut")+ylab("Votes")+xlab("Party")
-
-ontario <- read.csv("data/Ontario.csv")
-ontario_plot <- ggplot(ontario, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Ontario")+ylab("Votes")+xlab("Party")
-
-edward <- read.csv("data/Prince Edward Island.csv")
-edward_plot <- ggplot(edward, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Prince Edward Island")+ylab("Votes")+xlab("Party")
-
-quebec <- read.csv("data/Quebec.csv")
-quebec_plot <- ggplot(quebec, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Quebec")+ylab("Votes")+xlab("Party")
-
-saskatchewan <- read.csv("data/Saskatchewan.csv")
-saskatchewan_plot <- ggplot(saskatchewan, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Saskatchewan")+ylab("Votes")+xlab("Party")
-
-yukon<- read.csv("data/Yukon.csv")
-yukon_plot <- ggplot(yukon, aes(party_name, votes)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle=65, vjust=0.6)) + labs(title="Yukon")+ylab("Votes")+xlab("Party")
-
-
-plot_grid(alberta_plot, bc_plot, manitoba_plot, new_brunswick_plot, labels = c('A', 'B', 'C', 'D'), label_size = 10, align='hv')
-
-plot_grid(nl_plot, northwest_plot, nova_plot, nunavut_plot, labels = c('E', 'F', 'G', 'H'), label_size = 10, align='hv')
-
-plot_grid(ontario_plot, edward_plot, quebec_plot, yukon_plot, labels = c('I', 'J', 'K', 'L'), label_size = 10, align='hv')
-
-```
-
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
 
 # Party VS Votes
 HistData1 <- ggplot(province_strat_res, aes(current_preference, vote)) + geom_bar(stat="identity", aes(fill=`province`), width = 0.5) + 
   theme(axis.text.x = element_text(angle=65, vjust=0.6)) +
-  labs(title="Election Data Simulation")+ylab("Votes")+xlab("Party")
+  labs(title="Stratification by Party VS Votes [Fig1]")+ylab("Votes")+xlab("Party")
 
 # Province VS Votes
 HistData2 <- ggplot(province_strat_res, aes(province, vote)) + geom_bar(stat="identity", aes(fill=`current_preference`), width = 0.5) + 
   theme(axis.text.x = element_text(angle=65, vjust=0.6)) +
-  labs(title="Election Data Simulation")+ylab("Votes")+xlab("Province")
+  labs(title="Stratification by Province VS Votes [Fig2]")+ylab("Votes")+xlab("Province")
 
 # Income VS Votes
 HistData3 <- ggplot(income_strat_res, aes(salary, vote)) + geom_bar(stat="identity", aes(fill=`current_preference`), width = 0.5) + 
   theme(axis.text.x = element_text(angle=65, vjust=0.6)) +
-  labs(title="Election Data Simulation")+ylab("Votes")+xlab("Income")
+  labs(title="Stratification by Income VS Votes [Fig3]")+ylab("Votes")+xlab("Income")
 
 # Age VS Votes
 HistData4 <- ggplot(age_strat_res, aes(age, vote)) + geom_bar(stat="identity", aes(fill=`current_preference`), width = 0.5) + 
   theme(axis.text.x = element_text(angle=65, vjust=0.6)) +
-  labs(title="Election Data Simulation")+ylab("Votes")+xlab("Age")
+  labs(title="Stratification by Age VS Votes [Fig4]")+ylab("Votes")+xlab("Age")
 
 HistData1
 HistData2
 HistData3
 HistData4
 ```
-# RESULTS
+# Results and Discussion
 
+After running multiple simulations over the 3,000 survey responses, we were able to stratify our results based on Province, Income and Age.
+
+1. *Province:* Ontario had the most respondents followed by Quebec, Alberta and British Columbia which seems accurate as that approximately corresponds to the real division of population in Canada. Liberals had the most vote share among most of the provinces followed by Conservatives and NDP. [Fig2]
+
+2. *Income:* Around 90% of the survey respondents didn’t prefer to reveal their income levels. Among the rest, most of the responses lied in the $30,000 - 60,0000 and $60,000 - $90,000 range. Similar to stratification by province, Liberals had the most vote share among most of the provinces followed by Conservatives and NDP. [Fig3]
+
+3. *Age:* Overall, the survey managed to get responses equally from all age groups except from the group of 71 and over. This was expected as older people tend to use the internet less as compared to younger generations. Under this stratification,  Liberals had the most vote share among most of the provinces followed by Conservatives and People’s Party of Canada. [Fig4]
 
 # Weakness and Future Explorations
 
-*Limitations in Survey and Design:**
+*Limitations in Survey and Design:*
 
 There are several limitations pertaining to our survey which includes issues related to biases and validity of the results which undermines its authenticity and make our simulations non-representative of the actual findings.
-This survey is distributed over the internet using social media and mass e-mailing methods. Much of the older section of the society are not regular users leading to scarcity of responses over certain age groups.
-There is no way to check the validity of responses and furthermore, this survey cannot prevent individuals to respond multiple times creating false bias and results.
-The survey only includes basic personal information such as age and income. It doesn’t include any lurking variables such as ethnicity, immigrant status which could simulate different results.
+
+1. This survey is distributed over the internet using social media and mass e-mailing methods. Much of the older section of the society are not regular users leading to scarcity of responses over certain age groups.
+
+2. There is no way to check the validity of responses and furthermore, this survey cannot prevent individuals to respond multiple times creating false bias and results.
+
+3. The survey only includes basic personal information such as age and income. It doesn’t include any lurking variables such as ethnicity, immigrant status which could simulate different results.
 
 **Next Steps:**
 
 We have not carried out hypothesis testing to test our hypotheses regarding the proportion of all Canadian voters who would vote for the Liberal Party today. This means that we have not tried to use statistical methods to see if our estimates apply to all Canadian voters. Our results might not be accurate because of the fact that we sampled Canadian voters who either logged in to Facebook or read an online newspaper in September 2020. Therefore, not all Canadian voters were equally likely to be sampled. This does mean that our results are unlikely to extend to all Canadian voters.In the future, another statistician should consider taking our observations and testing the hypotheses mentioned above, that is, trying to see if our estimates actually apply to all Canadian voters. 
 
-
-# Appendix Survey Images
-
+# Appendix and Survey Images
 ![alt text here](./pg1.png)
-
 ![alt text here](./pg7.png)
-
-
 ![alt text here](./pg2.png)
 ![alt text here](./pg3.png)
 ![alt text here](./pg5.png)
 ![alt text here](./pg6.png)
-
 ![alt text here](./pg4.png)
 
-# References
 
+# References
 
 - Hadley Wickham, Jim Hester and Winston Chang (2020). devtools: Tools to Make Developing R Packages      Easier. https://devtools.r-lib.org/,https://github.com/r-lib/devtools.
 
